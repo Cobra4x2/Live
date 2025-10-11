@@ -1,0 +1,1388 @@
+#EXTM3U x-tvg-url="http://drewlive24.duckdns.org:8081/DrewLive.xml.gz"
+
+# Generated on 2025-10-11T16:15:52.812563 UTC
+
+# 📺 Source: http://daddylive-new.vercel.app/api/stream?playlist=true
+#EXTINF:-1  tvg-id="beINSports1.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" ,beIN SPORTS Australia 1
+https://daddylive-new.vercel.app/api/stream?id=491
+#EXTINF:-1  tvg-id="beINSports2.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-2-us.png?raw=true" ,beIN SPORTS Australia 2
+https://daddylive-new.vercel.app/api/stream?id=492
+#EXTINF:-1  tvg-id="beINSports3.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-3-us.png?raw=true" ,beIN SPORTS Australia 3
+https://daddylive-new.vercel.app/api/stream?id=493
+#EXTINF:-1  tvg-id="FoxCricket.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-cricket-501-hd-au.png?raw=true" ,Fox Cricket
+https://daddylive-new.vercel.app/api/stream?id=369
+#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-league-502-hd-au.png?raw=true" ,FOX Sports 502 AU
+https://daddylive-new.vercel.app/api/stream?id=820
+#EXTINF:-1  tvg-id="FoxSports503.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-503-hd-hz-au.png?raw=true" ,FOX Sports 503 AU
+https://daddylive-new.vercel.app/api/stream?id=821
+#EXTINF:-1  tvg-id="FoxFooty.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-footy-504-hd-au.png?raw=true" ,FOX Sports 504 AU
+https://daddylive-new.vercel.app/api/stream?id=822
+#EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-505-hd-au.png?raw=true" ,FOX Sports 505 AU
+https://daddylive-new.vercel.app/api/stream?id=823
+#EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-hd-hz-au.png?raw=true" ,FOX Sports 506 AU
+https://daddylive-new.vercel.app/api/stream?id=824
+#EXTINF:-1  tvg-id="FoxSportsMore.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-507-hd-au.png?raw=true" ,FOX Sports 507 AU
+https://daddylive-new.vercel.app/api/stream?id=825
+#EXTINF:-1  tvg-id="CBC.Toronto.HD.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cbc-toronto-ca.png?raw=true" ,CBC Canada
+https://daddylive-new.vercel.app/api/stream?id=832
+#EXTINF:-1  tvg-id="CTV.Two.-.Toronto.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/ctv-2-ca.png?raw=true" ,CTV 2 Canada
+https://daddylive-new.vercel.app/api/stream?id=838
+#EXTINF:-1  tvg-id="CTV.Calgary.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/ctv-hd-ca.png?raw=true" ,CTV Canada
+https://daddylive-new.vercel.app/api/stream?id=602
+#EXTINF:-1  tvg-id="CTV.Speed.HD.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/ctv-speed-channel-ca.png?raw=true" ,Discovery Velocity CA
+https://daddylive-new.vercel.app/api/stream?id=285
+#EXTINF:-1  tvg-id="Global.BC.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/global-bc-ca.png?raw=true" ,Global CA
+https://daddylive-new.vercel.app/api/stream?id=836
+#EXTINF:-1  tvg-id="CFJP.ca2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Noovo_logo.png" ,Noovo CA
+https://daddylive-new.vercel.app/api/stream?id=835
+#EXTINF:-1  tvg-id="RDS2.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-2-hd-ca.png?raw=true" ,RDS 2 CA
+https://daddylive-new.vercel.app/api/stream?id=840
+#EXTINF:-1  tvg-id="RÃ©seau.des.Sports.(RDS).HD.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-ca.png?raw=true" ,RDS CA
+https://daddylive-new.vercel.app/api/stream?id=839
+#EXTINF:-1  tvg-id="RÃ©seau.des.Sports.Info.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-info-ca.png?raw=true" ,RDS Info CA
+https://daddylive-new.vercel.app/api/stream?id=841
+#EXTINF:-1  tvg-id="Sportsnet.360.HD.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-360-hd-ca.png?raw=true" ,Sportsnet 360
+https://daddylive-new.vercel.app/api/stream?id=409
+#EXTINF:-1  tvg-id="Sportsnet.East.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-east-hd-ca.png?raw=true" ,Sportsnet East
+https://daddylive-new.vercel.app/api/stream?id=408
+#EXTINF:-1  tvg-id="Sportsnet.One.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-one-hd-ca.png?raw=true" ,Sportsnet One
+https://daddylive-new.vercel.app/api/stream?id=411
+#EXTINF:-1  tvg-id="TSN.1.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-hd-ca.png?raw=true" ,TSN1
+https://daddylive-new.vercel.app/api/stream?id=111
+#EXTINF:-1  tvg-id="TSN.2.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-hd-ca.png?raw=true" ,TSN2
+https://daddylive-new.vercel.app/api/stream?id=112
+#EXTINF:-1  tvg-id="TSN.3.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-hd-ca.png?raw=true" ,TSN3
+https://daddylive-new.vercel.app/api/stream?id=113
+#EXTINF:-1  tvg-id="TSN.4.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-hd-ca.png?raw=true" ,TSN4
+https://daddylive-new.vercel.app/api/stream?id=114
+#EXTINF:-1  tvg-id="TSN.5.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-hd-ca.png?raw=true" ,TSN5
+https://daddylive-new.vercel.app/api/stream?id=115
+#EXTINF:-1  tvg-id="TVA.Sports.HD.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tva-sports-ca.png?raw=true" ,TVA Sports
+https://daddylive-new.vercel.app/api/stream?id=833
+#EXTINF:-1  tvg-id="TVA.Sports.2.HD.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tva-sports-2-ca.png?raw=true" ,TVA Sports 2
+https://daddylive-new.vercel.app/api/stream?id=834
+#EXTINF:-1  tvg-id="TVO.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tvo-ca.png?raw=true" ,TVO CA
+https://daddylive-new.vercel.app/api/stream?id=842
+#EXTINF:-1  tvg-id="Astro.Grandstand.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/screen-bug/astro-supersport-bug-my.png?raw=true" ,Astro SuperSport 1
+https://daddylive-new.vercel.app/api/stream?id=123
+#EXTINF:-1  tvg-id="Astro.Football.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/screen-bug/astro-supersport-2-bug-my.png?raw=true" ,Astro SuperSport 2
+https://daddylive-new.vercel.app/api/stream?id=124
+#EXTINF:-1  tvg-id="Astro.Premier.League.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/screen-bug/astro-supersport-3-bug-my.png?raw=true" ,Astro SuperSport 3
+https://daddylive-new.vercel.app/api/stream?id=125
+#EXTINF:-1  tvg-id="Astro.Premier.League.2.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/screen-bug/astro-supersport-4-bug-my.png?raw=true" ,Astro SuperSport 4
+https://daddylive-new.vercel.app/api/stream?id=126
+#EXTINF:-1  tvg-id="CANAL+.PREMIUM.HD.pl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/canal-plus-premium-pl.png?raw=true" ,CANAL+ Premium Poland
+https://daddylive-new.vercel.app/api/stream?id=566
+#EXTINF:-1  tvg-id="CANAL+.Sport.2.HD.pl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/canal-plus-sport-2-pl.png?raw=true" ,Canal+ Sport 2 Poland
+https://daddylive-new.vercel.app/api/stream?id=73
+#EXTINF:-1  tvg-id="CANAL+.Sport.HD.pl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/canal-plus-sport-pl.png?raw=true" ,Canal+ Sport Poland
+https://daddylive-new.vercel.app/api/stream?id=48
+#EXTINF:-1  tvg-id="COSMOTE.Sport.1.HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-1-gr.png?raw=true" ,Cosmote Sport 1 HD
+https://daddylive-new.vercel.app/api/stream?id=622
+#EXTINF:-1  tvg-id="COSMOTE.Sport.2.HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-2-gr.png?raw=true" ,Cosmote Sport 2 HD
+https://daddylive-new.vercel.app/api/stream?id=623
+#EXTINF:-1  tvg-id="COSMOTE.Sport.3.HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-3-gr.png?raw=true" ,Cosmote Sport 3 HD
+https://daddylive-new.vercel.app/api/stream?id=624
+#EXTINF:-1  tvg-id="COSMOTE.Sport.4.HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-4-gr.png?raw=true" ,Cosmote Sport 4 HD
+https://daddylive-new.vercel.app/api/stream?id=625
+#EXTINF:-1  tvg-id="COSMOTE.Sport.5.HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-5-gr.png?raw=true" ,Cosmote Sport 5 HD
+https://daddylive-new.vercel.app/api/stream?id=626
+#EXTINF:-1  tvg-id="COSMOTE.Sport.6.HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-6-gr.png?raw=true" ,Cosmote Sport 6 HD
+https://daddylive-new.vercel.app/api/stream?id=627
+#EXTINF:-1  tvg-id="COSMOTE.Sport.7.HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-7-gr.png?raw=true" ,Cosmote Sport 7 HD
+https://daddylive-new.vercel.app/api/stream?id=628
+#EXTINF:-1  tvg-id="COSMOTE.Sport.8.HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-8-gr.png?raw=true" ,Cosmote Sport 8 HD
+https://daddylive-new.vercel.app/api/stream?id=629
+#EXTINF:-1  tvg-id="COSMOTE.Sport.9.HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/cosmote-sport-9-gr.png?raw=true" ,Cosmote Sport 9 HD
+https://daddylive-new.vercel.app/api/stream?id=630
+#EXTINF:-1  tvg-id="DAZN.1.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-1-be.png?raw=true" ,DAZN 1
+https://daddylive-new.vercel.app/api/stream?id=455
+#EXTINF:-1  tvg-id="DAZN.2.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-2-be.png?raw=true" ,DAZN 2
+https://daddylive-new.vercel.app/api/stream?id=456
+#EXTINF:-1  tvg-id="DAZN.3.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-3-be.png?raw=true" ,DAZN 3
+https://daddylive-new.vercel.app/api/stream?id=457
+#EXTINF:-1  tvg-id="DAZN.4.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-4-be.png?raw=true" ,DAZN 4
+https://daddylive-new.vercel.app/api/stream?id=458
+#EXTINF:-1  tvg-id="DAZN.5.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-5-be.png?raw=true" ,DAZN 5
+https://daddylive-new.vercel.app/api/stream?id=459
+#EXTINF:-1  tvg-id="Eleven.Sports.1.HD.pl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-1-icon-pt.png?raw=true" ,Eleven Sports 1 Poland
+https://daddylive-new.vercel.app/api/stream?id=71
+#EXTINF:-1  tvg-id="Eleven.Sports.2.HD.pl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-2-icon-pt.png?raw=true" ,Eleven Sports 2 Poland
+https://daddylive-new.vercel.app/api/stream?id=72
+#EXTINF:-1  tvg-id="Eleven.Sports.3.HD.pl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-3-icon-pt.png?raw=true" ,Eleven Sports 3 Poland
+https://daddylive-new.vercel.app/api/stream?id=428
+#EXTINF:-1  tvg-id="ESPN.1.nl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/espn-nl.png?raw=true" ,ESPN 1 NL
+https://daddylive-new.vercel.app/api/stream?id=379
+#EXTINF:-1  tvg-id="ESPN.2.nl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/espn-2-nl.png?raw=true" ,ESPN 2 NL
+https://daddylive-new.vercel.app/api/stream?id=386
+#EXTINF:-1  tvg-id="Nova.Sport.bg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/bulgaria/nova-sport-bg.png?raw=true" ,Nova Sport Bulgaria
+https://daddylive-new.vercel.app/api/stream?id=468
+#EXTINF:-1  tvg-id="Novasports1HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/slovakia/nova-sport-1-sk.png?raw=true" ,Nova Sport Serbia
+https://daddylive-new.vercel.app/api/stream?id=582
+#EXTINF:-1  tvg-id="Novasports1HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-1-gr.png?raw=true" ,Nova Sports 1 Greece
+https://daddylive-new.vercel.app/api/stream?id=631
+#EXTINF:-1  tvg-id="Novasports2HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-2-gr.png?raw=true" ,Nova Sports 2 Greece
+https://daddylive-new.vercel.app/api/stream?id=632
+#EXTINF:-1  tvg-id="Novasports3HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-3-gr.png?raw=true" ,Nova Sports 3 Greece
+https://daddylive-new.vercel.app/api/stream?id=633
+#EXTINF:-1  tvg-id="Novasports4HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-4-gr.png?raw=true" ,Nova Sports 4 Greece
+https://daddylive-new.vercel.app/api/stream?id=634
+#EXTINF:-1  tvg-id="Novasports5HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-5-gr.png?raw=true" ,Nova Sports 5 Greece
+https://daddylive-new.vercel.app/api/stream?id=635
+#EXTINF:-1  tvg-id="Novasports6HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-6-gr.png?raw=true" ,Nova Sports 6 Greece
+https://daddylive-new.vercel.app/api/stream?id=636
+#EXTINF:-1  tvg-id="Novasports.News.HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-news-gr.png?raw=true" ,Nova Sports News Greece
+https://daddylive-new.vercel.app/api/stream?id=639
+#EXTINF:-1  tvg-id="Novasports.Premier.League.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/sports/leagues/premier-league-uk.png?raw=true" ,Nova Sports Premier League Greece
+https://daddylive-new.vercel.app/api/stream?id=599
+#EXTINF:-1  tvg-id="Novasports.Prime.HD.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-start-gr.png?raw=true" ,Nova Sports Prime Greece
+https://daddylive-new.vercel.app/api/stream?id=638
+#EXTINF:-1  tvg-id="Novasports.Start.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/nova-sports-start-gr.png?raw=true" ,Nova Sports Start Greece
+https://daddylive-new.vercel.app/api/stream?id=637
+#EXTINF:-1  tvg-id="Star.Sports.1.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-1-in.png?raw=true" ,Star Sports 1 IN
+https://daddylive-new.vercel.app/api/stream?id=267
+#EXTINF:-1  tvg-id="Star.Sports.Hindi.1.in" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-1-hindi-in.png?raw=true" ,Star Sports Hindi IN
+https://daddylive-new.vercel.app/api/stream?id=268
+#EXTINF:-1  tvg-id="SS.Action.ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-action-bug-za.png?raw=true" ,SuperSport Action
+https://daddylive-new.vercel.app/api/stream?id=420
+#EXTINF:-1  tvg-id="Sky.Sports.Cricket.ie" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-cricket-za.png?raw=true" ,SuperSport Cricket
+https://daddylive-new.vercel.app/api/stream?id=368
+#EXTINF:-1  tvg-id="SS.Football.ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-football-za.png?raw=true" ,SuperSport Football
+https://daddylive-new.vercel.app/api/stream?id=56
+#EXTINF:-1  tvg-id="Sky.Sports.Golf.ie" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" ,SuperSport Golf
+https://daddylive-new.vercel.app/api/stream?id=422
+#EXTINF:-1  tvg-id="SS.Grandstand.Africa.ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-grandstand-bug-za.png?raw=true" ,SuperSport Grandstand
+https://daddylive-new.vercel.app/api/stream?id=412
+#EXTINF:-1  tvg-id="SS.LaLiga.Nigeria.ng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-laliga-bug-za.png?raw=true" ,SuperSport LaLiga
+https://daddylive-new.vercel.app/api/stream?id=415
+#EXTINF:-1  tvg-id="SS.Maximo.1.(P).ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-maximo1-za.png?raw=true" ,SuperSport MaXimo 1
+https://daddylive-new.vercel.app/api/stream?id=572
+#EXTINF:-1  tvg-id="SS.Motorsport.Africa.ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-motorsport-za.png?raw=true" ,SuperSport Motorsport
+https://daddylive-new.vercel.app/api/stream?id=424
+#EXTINF:-1  tvg-id="SS.Premier.League.ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-psl-bug-za.png?raw=true" ,SuperSport Premier League
+https://daddylive-new.vercel.app/api/stream?id=414
+#EXTINF:-1  tvg-id="SS.Premier.League.ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-psl-bug-za.png?raw=true" ,SuperSport PSL
+https://daddylive-new.vercel.app/api/stream?id=413
+#EXTINF:-1  tvg-id="SS.Football.ke" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-rugby-bug-za.png?raw=true" ,SuperSport Rugby
+https://daddylive-new.vercel.app/api/stream?id=421
+#EXTINF:-1  tvg-id="Sky.Sport.Tennis.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" ,SuperSport Tennis
+https://daddylive-new.vercel.app/api/stream?id=423
+#EXTINF:-1  tvg-id="SS.Variety.1.Nigeria.ng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-variety1-bug-za.png?raw=true" ,SuperSport Variety 1
+https://daddylive-new.vercel.app/api/stream?id=416
+#EXTINF:-1  tvg-id="SS.Variety.2.Nigeria.ng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-variety2-bug-za.png?raw=true" ,SuperSport Variety 2
+https://daddylive-new.vercel.app/api/stream?id=417
+#EXTINF:-1  tvg-id="SS.Variety.3.Nigeria.ng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-variety3-bug-za.png?raw=true" ,SuperSport Variety 3
+https://daddylive-new.vercel.app/api/stream?id=418
+#EXTINF:-1  tvg-id="SS.Variety.4.Nigeria.ng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/screen-bug/supersport-variety4-bug-za.png?raw=true" ,SuperSport Variety 4
+https://daddylive-new.vercel.app/api/stream?id=419
+#EXTINF:-1  tvg-id="Ziggo.Sport.2.nl" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6ug5ma1571692616.png" ,Ziggo Sport Docu NL
+https://daddylive-new.vercel.app/api/stream?id=383
+#EXTINF:-1  tvg-id="Ziggo.Sport.3.nl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-3-nl.png?raw=true" ,Ziggo Sport Racing NL
+https://daddylive-new.vercel.app/api/stream?id=396
+#EXTINF:-1  tvg-id="Ziggo.Sport.nl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-nl.png?raw=true" ,Ziggo Sport Select NL
+https://daddylive-new.vercel.app/api/stream?id=393
+#EXTINF:-1  tvg-id="Ziggo.Sport.4.nl" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gv4gid1700572407.png" ,Ziggo Sport Voetbal NL
+https://daddylive-new.vercel.app/api/stream?id=398
+#EXTINF:-1  tvg-id="Sky.Sport.1.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-1-hz-nz.png?raw=true" ,Sky Sport 1 NZ
+https://daddylive-new.vercel.app/api/stream?id=588
+#EXTINF:-1  tvg-id="Sky.Sport.2.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-2-hz-nz.png?raw=true" ,Sky Sport 2 NZ
+https://daddylive-new.vercel.app/api/stream?id=589
+#EXTINF:-1  tvg-id="Sky.Sport.3.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-3-hz-nz.png?raw=true" ,Sky Sport 3 NZ
+https://daddylive-new.vercel.app/api/stream?id=590
+#EXTINF:-1  tvg-id="Sky.Sport.4.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-4-hz-nz.png?raw=true" ,Sky Sport 4 NZ
+https://daddylive-new.vercel.app/api/stream?id=591
+#EXTINF:-1  tvg-id="Sky.Sport.5.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-5-hz-nz.png?raw=true" ,Sky Sport 5 NZ
+https://daddylive-new.vercel.app/api/stream?id=592
+#EXTINF:-1  tvg-id="Sky.Sport.6.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-6-hz-nz.png?raw=true" ,Sky Sport 6 NZ
+https://daddylive-new.vercel.app/api/stream?id=593
+#EXTINF:-1  tvg-id="Sky.Sport.7.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-7-hz-nz.png?raw=true" ,Sky Sport 7 NZ
+https://daddylive-new.vercel.app/api/stream?id=594
+#EXTINF:-1  tvg-id="Sky.Sport.8.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-8-hz-nz.png?raw=true" ,Sky Sport 8 NZ
+https://daddylive-new.vercel.app/api/stream?id=595
+#EXTINF:-1  tvg-id="Sky.Sport.9.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-9-hz-nz.png?raw=true" ,Sky Sport 9 NZ
+https://daddylive-new.vercel.app/api/stream?id=596
+#EXTINF:-1  tvg-id="Sky.Sport.Select.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-select-hz-nz.png?raw=true" ,Sky Sport Select NZ
+https://daddylive-new.vercel.app/api/stream?id=587
+#EXTINF:-1  tvg-id="5.USA.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/5-usa-uk.png?raw=true" ,5 USA
+https://daddylive-new.vercel.app/api/stream?id=360
+#EXTINF:-1  tvg-id="BBC.Four.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-four-uk.png?raw=true" ,BBC Four UK
+https://daddylive-new.vercel.app/api/stream?id=359
+#EXTINF:-1  tvg-id="BBCOne.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" ,BBC One UK
+https://daddylive-new.vercel.app/api/stream?id=356
+#EXTINF:-1  tvg-id="BBC.Three.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-three-uk.png?raw=true" ,BBC Three UK
+https://daddylive-new.vercel.app/api/stream?id=358
+#EXTINF:-1  tvg-id="BBC.Two.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-two-uk.png?raw=true" ,BBC Two UK
+https://daddylive-new.vercel.app/api/stream?id=357
+#EXTINF:-1  tvg-id="Channel4.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/channel-4-uk.png?raw=true" ,Channel 4 UK
+https://daddylive-new.vercel.app/api/stream?id=354
+#EXTINF:-1  tvg-id="Channel.5.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/channel-5-uk.png?raw=true" ,Channel 5 UK
+https://daddylive-new.vercel.app/api/stream?id=355
+#EXTINF:-1  tvg-id="E4.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/e-4-uk.png?raw=true" ,E4 Channel
+https://daddylive-new.vercel.app/api/stream?id=363
+#EXTINF:-1  tvg-id="Eurosport.1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-1-uk.png?raw=true" ,EuroSport 1 UK
+https://daddylive-new.vercel.app/api/stream?id=41
+#EXTINF:-1  tvg-id="Eurosport.2.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-2-uk.png?raw=true" ,EuroSport 2 UK
+https://daddylive-new.vercel.app/api/stream?id=42
+#EXTINF:-1  tvg-id="FashionTV(src01).uk" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/4d/Fashion_TV_%282007-.n.v.%29.png/revision/latest?cb=20191014124911" ,Fashion TV
+https://daddylive-new.vercel.app/api/stream?id=744
+#EXTINF:-1  tvg-id="Film4.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/film-4-uk.png?raw=true" ,Film4 UK
+https://daddylive-new.vercel.app/api/stream?id=688
+#EXTINF:-1  tvg-id="GOLD(src01).uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/gold-uk.png?raw=true" ,Gold UK
+https://daddylive-new.vercel.app/api/stream?id=687
+#EXTINF:-1  tvg-id="Sports.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" ,GOLTV
+https://daddylive-new.vercel.app/api/stream?id=597
+#EXTINF:-1  tvg-id="ITV1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/itv-1-uk.png?raw=true" ,ITV 1 UK
+https://daddylive-new.vercel.app/api/stream?id=350
+#EXTINF:-1  tvg-id="ITV2.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/itv-2-uk.png?raw=true" ,ITV 2 UK
+https://daddylive-new.vercel.app/api/stream?id=351
+#EXTINF:-1  tvg-id="ITV3.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/itv-3-uk.png?raw=true" ,ITV 3 UK
+https://daddylive-new.vercel.app/api/stream?id=352
+#EXTINF:-1  tvg-id="ITV4.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true" ,ITV 4 UK
+https://daddylive-new.vercel.app/api/stream?id=353
+#EXTINF:-1  tvg-id="DAZN.LALIGA.es" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/laliga-tv-uk.png?raw=true" ,LaLigaTV UK
+https://daddylive-new.vercel.app/api/stream?id=276
+#EXTINF:-1  tvg-id="LFCTV.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/lfctv-uk.png?raw=true" ,Liverpool TV (LFC TV)
+https://daddylive-new.vercel.app/api/stream?id=826
+#EXTINF:-1  tvg-id="MTV.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/mtv-uk.png?raw=true" ,MTV UK
+https://daddylive-new.vercel.app/api/stream?id=367
+#EXTINF:-1  tvg-id="MUTV.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/mutv-uk.png?raw=true" ,MUTV UK
+https://daddylive-new.vercel.app/api/stream?id=377
+#EXTINF:-1  tvg-id="Racing.TV.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/racing-tv-uk.png?raw=true" ,Racing Tv UK
+https://daddylive-new.vercel.app/api/stream?id=555
+#EXTINF:-1  tvg-id="RTE1Network.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/rte-uk.png?raw=true" ,RTE 1
+https://daddylive-new.vercel.app/api/stream?id=364
+#EXTINF:-1  tvg-id="RTE2.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/rte-2-uk.png?raw=true" ,RTE 2
+https://daddylive-new.vercel.app/api/stream?id=365
+#EXTINF:-1  tvg-id="S4C.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/s4c-uk.png?raw=true" ,S4C UK
+https://daddylive-new.vercel.app/api/stream?id=670
+#EXTINF:-1  tvg-id="Sky.Arts.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-arts-uk.png?raw=true" ,Sky Arts UK
+https://daddylive-new.vercel.app/api/stream?id=683
+#EXTINF:-1  tvg-id="Sky.Atlantic.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-atlantic-uk.png?raw=true" ,Sky Atlantic
+https://daddylive-new.vercel.app/api/stream?id=362
+#EXTINF:-1  tvg-id="Sky.Action.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-action-hz-uk.png?raw=true" ,Sky Cinema Action UK
+https://daddylive-new.vercel.app/api/stream?id=677
+#EXTINF:-1  tvg-id="SkyAnimationHD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-animation-hz-uk.png?raw=true" ,Sky Cinema Animation UK
+https://daddylive-new.vercel.app/api/stream?id=675
+#EXTINF:-1  tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-comedy-hz-uk.png?raw=true" ,Sky Cinema Comedy UK
+https://daddylive-new.vercel.app/api/stream?id=46
+#EXTINF:-1  tvg-id="Sky.Drama.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-uk.png?raw=true" ,Sky Cinema Drama UK
+https://daddylive-new.vercel.app/api/stream?id=680
+#EXTINF:-1  tvg-id="Sky.Family.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-family-uk.png?raw=true" ,Sky Cinema Family UK
+https://daddylive-new.vercel.app/api/stream?id=676
+#EXTINF:-1  tvg-id="Sky.Greats.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-greats-hz-uk.png?raw=true" ,Sky Cinema Greats UK
+https://daddylive-new.vercel.app/api/stream?id=674
+#EXTINF:-1  tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-hits-hz-uk.png?raw=true" ,Sky Cinema Hits UK
+https://daddylive-new.vercel.app/api/stream?id=673
+#EXTINF:-1  tvg-id="Sky.Premiere.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-premiere-icon-uk.png?raw=true" ,Sky Cinema Premiere UK
+https://daddylive-new.vercel.app/api/stream?id=671
+#EXTINF:-1  tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sci-fi-uk.png?raw=true" ,Sky Cinema Sci-Fi Horror UK
+https://daddylive-new.vercel.app/api/stream?id=681
+#EXTINF:-1  tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-select-uk.png?raw=true" ,Sky Cinema Select UK
+https://daddylive-new.vercel.app/api/stream?id=672
+#EXTINF:-1  tvg-id="Sky.Thriller.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-thriller-hz-uk.png?raw=true" ,Sky Cinema Thriller UK
+https://daddylive-new.vercel.app/api/stream?id=679
+#EXTINF:-1  tvg-id="Sky.Comedy.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-comedy-icon-uk.png?raw=true" ,Sky Comedy UK
+https://daddylive-new.vercel.app/api/stream?id=678
+#EXTINF:-1  tvg-id="Sky.Crime.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-crime-uk.png?raw=true" ,Sky Crime
+https://daddylive-new.vercel.app/api/stream?id=685
+#EXTINF:-1  tvg-id="Sky.Crime.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-crime-icon-uk.png?raw=true" ,Sky Crime
+https://daddylive-new.vercel.app/api/stream?id=685
+#EXTINF:-1  tvg-id="Sky.HistoryHD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-history-light-uk.png?raw=true" ,Sky History
+https://daddylive-new.vercel.app/api/stream?id=686
+#EXTINF:-1  tvg-id="Sky.Showcase.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-showcase-uk.png?raw=true" ,Sky Showcase UK
+https://daddylive-new.vercel.app/api/stream?id=682
+#EXTINF:-1  tvg-id="SkySp.Action.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-hz-uk.png?raw=true" ,Sky Sports Action UK
+https://daddylive-new.vercel.app/api/stream?id=36
+#EXTINF:-1  tvg-id="SkySportsArena.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-arena-hz-uk.png?raw=true" ,Sky Sports Arena UK
+https://daddylive-new.vercel.app/api/stream?id=36
+#EXTINF:-1  tvg-id="SkySp.Cricket.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-uk.png?raw=true" ,Sky Sports Cricket
+https://daddylive-new.vercel.app/api/stream?id=65
+#EXTINF:-1  tvg-id="SkySp.F1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-icon-uk.png?raw=true" ,Sky Sports F1 UK
+https://daddylive-new.vercel.app/api/stream?id=60
+#EXTINF:-1  tvg-id="SkySp.Fball.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-football-uk.png?raw=true" ,Sky Sports Football UK
+https://daddylive-new.vercel.app/api/stream?id=35
+#EXTINF:-1  tvg-id="SkySp.Golf.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-hz-uk.png?raw=true" ,Sky Sports Golf UK
+https://daddylive-new.vercel.app/api/stream?id=70
+#EXTINF:-1  tvg-id="SkySpMainEv.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-main-event-hz-uk.png?raw=true" ,Sky Sports Main Event
+https://daddylive-new.vercel.app/api/stream?id=38
+#EXTINF:-1  tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-mix-hz-uk.png?raw=true" ,Sky Sports MIX UK
+https://daddylive-new.vercel.app/api/stream?id=449
+#EXTINF:-1  tvg-id="SkySp.News.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-news-hz-uk.png?raw=true" ,Sky Sports News UK
+https://daddylive-new.vercel.app/api/stream?id=366
+#EXTINF:-1  tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-hz-uk.png?raw=true" ,Sky Sports Premier League
+https://daddylive-new.vercel.app/api/stream?id=130
+#EXTINF:-1  tvg-id="SkySp.Racing.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-racing-hz-uk.png?raw=true" ,Sky Sports Racing UK
+https://daddylive-new.vercel.app/api/stream?id=759
+#EXTINF:-1  tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-tennis-hz-uk.png?raw=true" ,Sky Sports Tennis UK
+https://daddylive-new.vercel.app/api/stream?id=46
+#EXTINF:-1  tvg-id="Sky.Witness.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-witness-uk.png?raw=true" ,Sky Witness HD
+https://daddylive-new.vercel.app/api/stream?id=335
+#EXTINF:-1  tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" ,TNT Sports 1 UK
+https://daddylive-new.vercel.app/api/stream?id=31
+#EXTINF:-1  tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" ,TNT Sports 2 UK
+https://daddylive-new.vercel.app/api/stream?id=32
+#EXTINF:-1  tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" ,TNT Sports 3 UK
+https://daddylive-new.vercel.app/api/stream?id=33
+#EXTINF:-1  tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" ,TNT Sports 4 UK
+https://daddylive-new.vercel.app/api/stream?id=34
+#EXTINF:-1  tvg-id="Dave(src01).uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/dave-uk.png?raw=true" ,U&Dave
+https://daddylive-new.vercel.app/api/stream?id=348
+#EXTINF:-1  tvg-id="Viaplay1(src01).uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/viaplay-sports-1-hz-uk.png?raw=true" ,Viaplay Sports 1 UK
+https://daddylive-new.vercel.app/api/stream?id=451
+#EXTINF:-1  tvg-id="Viaplay2(src01).uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/viaplay-sports-2-hz-uk.png?raw=true" ,Viaplay Sports 2 UK
+https://daddylive-new.vercel.app/api/stream?id=550
+#EXTINF:-1  tvg-id="A.and.E.HD.East.us2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/A%26E.png" ,A&E USA
+https://daddylive-new.vercel.app/api/stream?id=302
+#EXTINF:-1  tvg-id="WSB-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-butterscotch-us.png?raw=true" ,ABC USA
+https://daddylive-new.vercel.app/api/stream?id=51
+#EXTINF:-1  tvg-id="WABC-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-butterscotch-us.png?raw=true" ,ABCNY USA
+https://daddylive-new.vercel.app/api/stream?id=766
+#EXTINF:-1  tvg-id="ACC.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" ,ACC Network USA
+https://daddylive-new.vercel.app/api/stream?id=664
+#EXTINF:-1  tvg-id="Adult.Swim.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/adult-swim-us.png?raw=true" ,Adult Swim
+https://daddylive-new.vercel.app/api/stream?id=295
+#EXTINF:-1  tvg-id="Altitude.Sports.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true" ,Altitude Sports
+https://daddylive-new.vercel.app/api/stream?id=923
+#EXTINF:-1  tvg-id="AMC.HD.us2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AMC.png" ,AMC USA
+https://daddylive-new.vercel.app/api/stream?id=303
+#EXTINF:-1  tvg-id="Animal.Planet.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/animal-planet-us.png?raw=true" ,Animal Planet
+https://daddylive-new.vercel.app/api/stream?id=304
+#EXTINF:-1  tvg-id="AXS.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/axs-tv-us.png?raw=true" ,AXS TV USA
+https://daddylive-new.vercel.app/api/stream?id=742
+#EXTINF:-1  tvg-id="BBC.America.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-hz-us.png?raw=true" ,BBC America (BBCA)
+https://daddylive-new.vercel.app/api/stream?id=305
+#EXTINF:-1  tvg-id="BBC.News.(North.America).HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-world-news-hz-uk.png?raw=true" ,BBC News Channel HD
+https://daddylive-new.vercel.app/api/stream?id=349
+#EXTINF:-1  tvg-id="beIN.Sports.USA.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" ,BeIN SPORTS USA
+https://daddylive-new.vercel.app/api/stream?id=425
+#EXTINF:-1  tvg-id="BET.HD.us2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/BET.png" ,BET USA
+https://daddylive-new.vercel.app/api/stream?id=306
+#EXTINF:-1  tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" ,BIG TEN Network (BTN USA)
+https://daddylive-new.vercel.app/api/stream?id=397
+#EXTINF:-1  tvg-id="Boomerang.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" ,Boomerang
+https://daddylive-new.vercel.app/api/stream?id=648
+#EXTINF:-1  tvg-id="Bravo.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bravo-us.png?raw=true" ,Bravo USA
+https://daddylive-new.vercel.app/api/stream?id=307
+#EXTINF:-1  tvg-id="CSPAN.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-1-us.png?raw=true" ,C SPAN 1
+https://daddylive-new.vercel.app/api/stream?id=750
+#EXTINF:-1  tvg-id="Cartoon.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" ,Cartoon Network
+https://daddylive-new.vercel.app/api/stream?id=339
+#EXTINF:-1  tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-golazo-network-us.png?raw=true" ,CBS Sports Golazo
+https://daddylive-new.vercel.app/api/stream?id=910
+#EXTINF:-1  tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" ,CBS Sports Network (CBSSN)
+https://daddylive-new.vercel.app/api/stream?id=308
+#EXTINF:-1  tvg-id="WFOR-DT.us_locals1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CBS.png" ,CBS USA
+https://daddylive-new.vercel.app/api/stream?id=52
+#EXTINF:-1  tvg-id="WCBS-DT.us_locals1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CBS2.png" ,CBSNY USA
+https://daddylive-new.vercel.app/api/stream?id=767
+#EXTINF:-1  tvg-id="CHSN.Chicago.Sports.Network.us2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/ChicagoSportsNetwork.png" ,Chicago Sports Network
+https://daddylive-new.vercel.app/api/stream?id=776
+#EXTINF:-1  tvg-id="Cinemax.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" ,Cinemax USA
+https://daddylive-new.vercel.app/api/stream?id=374
+#EXTINF:-1  tvg-id="Cleo.TV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" ,Cleo TV
+https://daddylive-new.vercel.app/api/stream?id=715
+#EXTINF:-1  tvg-id="CMT.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cmt-us.png?raw=true" ,CMT USA
+https://daddylive-new.vercel.app/api/stream?id=647
+#EXTINF:-1  tvg-id="CNBC.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-prime-neon-us.png?raw=true" ,CNBC USA
+https://daddylive-new.vercel.app/api/stream?id=309
+#EXTINF:-1  tvg-id="CNN.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" ,CNN USA
+https://daddylive-new.vercel.app/api/stream?id=345
+#EXTINF:-1  tvg-id="Comedy.Central.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comedy-central-us.png?raw=true" ,Comedy Central
+https://daddylive-new.vercel.app/api/stream?id=310
+#EXTINF:-1  tvg-id="Comet.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true" ,Comet USA
+https://daddylive-new.vercel.app/api/stream?id=696
+#EXTINF:-1  tvg-id="Cooking.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cooking-channel-us.png?raw=true" ,Cooking Channel USA
+https://daddylive-new.vercel.app/api/stream?id=697
+#EXTINF:-1  tvg-id="Court.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/court-tv-us.png?raw=true" ,Court TV USA
+https://daddylive-new.vercel.app/api/stream?id=281
+#EXTINF:-1  tvg-id="COZI.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cozi-tv-us.png?raw=true" ,COZI TV USA
+https://daddylive-new.vercel.app/api/stream?id=748
+#EXTINF:-1  tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" ,Crime+ Investigation USA
+https://daddylive-new.vercel.app/api/stream?id=669
+#EXTINF:-1  tvg-id="WPIX-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" ,CW PIX 11 USA
+https://daddylive-new.vercel.app/api/stream?id=280
+#EXTINF:-1  tvg-id="WUCW-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" ,CW USA
+https://daddylive-new.vercel.app/api/stream?id=300
+#EXTINF:-1  tvg-id="Destination.America.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" ,Destination America
+https://daddylive-new.vercel.app/api/stream?id=651
+#EXTINF:-1  tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-3-us.png?raw=true" ,Discovery Channel
+https://daddylive-new.vercel.app/api/stream?id=313
+#EXTINF:-1  tvg-id="Discovery.Family.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-family-us.png?raw=true" ,Discovery Family
+https://daddylive-new.vercel.app/api/stream?id=657
+#EXTINF:-1  tvg-id="Discovery.Life.Channel.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-life-us.png?raw=true" ,Discovery Life Channel
+https://daddylive-new.vercel.app/api/stream?id=311
+#EXTINF:-1  tvg-id="Disney.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-channel-us.png?raw=true" ,Disney Channel
+https://daddylive-new.vercel.app/api/stream?id=312
+#EXTINF:-1  tvg-id="Disney.Junior.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" ,Disney JR
+https://daddylive-new.vercel.app/api/stream?id=652
+#EXTINF:-1  tvg-id="Disney.XD.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-xd-us.png?raw=true" ,Disney XD
+https://daddylive-new.vercel.app/api/stream?id=314
+#EXTINF:-1  tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true" ,E! Entertainment Television
+https://daddylive-new.vercel.app/api/stream?id=315
+#EXTINF:-1  tvg-id="ESPN.Deportes.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-deportes-us.png?raw=true" ,ESPN Deportes
+https://daddylive-new.vercel.app/api/stream?id=375
+#EXTINF:-1  tvg-id="ESPN.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-us.png?raw=true" ,ESPN USA
+https://daddylive-new.vercel.app/api/stream?id=44
+#EXTINF:-1  tvg-id="ESPN.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-2-us.png?raw=true" ,ESPN2 USA
+https://daddylive-new.vercel.app/api/stream?id=45
+#EXTINF:-1  tvg-id="ESPNEWS.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espnews-us.png?raw=true" ,ESPNews
+https://daddylive-new.vercel.app/api/stream?id=288
+#EXTINF:-1  tvg-id="ESPNU.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png?raw=true" ,ESPNU USA
+https://daddylive-new.vercel.app/api/stream?id=316
+#EXTINF:-1  tvg-id="FanDuel.Sports.Network.Midwest.24/7.HDTV.(Kansas.City).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-midwest-us.png?raw=true" ,FanDuel Sports Network Kansas City
+https://daddylive-new.vercel.app/api/stream?id=895
+#EXTINF:-1  tvg-id="FanDuel.Sports.Network.Midwest.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-midwest-us.png?raw=true" ,FanDuel Sports Network Midwest
+https://daddylive-new.vercel.app/api/stream?id=896
+#EXTINF:-1  tvg-id="FanDuel.Sports.Network.SoCal.HDTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-socal-us.png?raw=true" ,FanDuel Sports Network SoCal
+https://daddylive-new.vercel.app/api/stream?id=902
+#EXTINF:-1  tvg-id="FanDuel.Sports.Network.Sun.South.24/7.HDTV.(South.Marlins,.Rays,.Heat).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bally-sports-sun-us.png?raw=true" ,FanDuel Sports Network Sun
+https://daddylive-new.vercel.app/api/stream?id=905
+#EXTINF:-1  tvg-id="Family.Entertainment.Television.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fetv-us.png?raw=true" ,FETV - Family Entertainment Television
+https://daddylive-new.vercel.app/api/stream?id=751
+#EXTINF:-1  tvg-id="Fight.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fight-network-us.png?raw=true" ,Fight Network
+https://daddylive-new.vercel.app/api/stream?id=757
+#EXTINF:-1  tvg-id="Fox.Business.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-hz-us.png?raw=true" ,Fox Business
+https://daddylive-new.vercel.app/api/stream?id=297
+#EXTINF:-1  tvg-id="Fox.Deportes.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-deportes-flat-us.png?raw=true" ,FOX Deportes USA
+https://daddylive-new.vercel.app/api/stream?id=643
+#EXTINF:-1  tvg-id="Fox.News.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true" ,Fox News
+https://daddylive-new.vercel.app/api/stream?id=347
+#EXTINF:-1  tvg-id="Fox.Soccer.Plus.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soccer-plus-us.png?raw=true" ,FOX Soccer Plus
+https://daddylive-new.vercel.app/api/stream?id=756
+#EXTINF:-1  tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" ,Fox Sports 1 USA
+https://daddylive-new.vercel.app/api/stream?id=39
+#EXTINF:-1  tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" ,Fox Sports 2 USA
+https://daddylive-new.vercel.app/api/stream?id=758
+#EXTINF:-1  tvg-id="WSVN-DT.us_locals1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/FOX.png" ,FOX USA
+https://daddylive-new.vercel.app/api/stream?id=54
+#EXTINF:-1  tvg-id="plex.tv.FOX.Weather.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-weather-us.png?raw=true" ,Fox Weather Channel
+https://daddylive-new.vercel.app/api/stream?id=775
+#EXTINF:-1  tvg-id="WNYW-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" ,FOXNY USA
+https://daddylive-new.vercel.app/api/stream?id=768
+#EXTINF:-1  tvg-id="Freeform.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/freeform-us.png?raw=true" ,Freeform
+https://daddylive-new.vercel.app/api/stream?id=301
+#EXTINF:-1  tvg-id="Fuse.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fuse-us.png?raw=true" ,FUSE TV USA
+https://daddylive-new.vercel.app/api/stream?id=279
+#EXTINF:-1  tvg-id="FX.Movie.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" ,FX Movie Channel
+https://daddylive-new.vercel.app/api/stream?id=381
+#EXTINF:-1  tvg-id="FX.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" ,FX USA
+https://daddylive-new.vercel.app/api/stream?id=317
+#EXTINF:-1  tvg-id="FXX.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxx-us.png?raw=true" ,FXX USA
+https://daddylive-new.vercel.app/api/stream?id=298
+#EXTINF:-1  tvg-id="FYI.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" ,FYI
+https://daddylive-new.vercel.app/api/stream?id=665
+#EXTINF:-1  tvg-id="Game.Show.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" ,Game Show Network
+https://daddylive-new.vercel.app/api/stream?id=319
+#EXTINF:-1  tvg-id="Golf.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" ,GOLF Channel USA
+https://daddylive-new.vercel.app/api/stream?id=318
+#EXTINF:-1  tvg-id="Grit.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/grit-us.png?raw=true" ,Grit Channel
+https://daddylive-new.vercel.app/api/stream?id=752
+#EXTINF:-1  tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" ,Hallmark Movies & Mysteries
+https://daddylive-new.vercel.app/api/stream?id=296
+#EXTINF:-1  tvg-id="HBO.Comedy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-comedy-us.png?raw=true" ,HBO Comedy USA
+https://daddylive-new.vercel.app/api/stream?id=690
+#EXTINF:-1  tvg-id="Hallmark.Family.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-family-hz-us.png?raw=true" ,HBO Family USA
+https://daddylive-new.vercel.app/api/stream?id=691
+#EXTINF:-1  tvg-id="HBO.Latino.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-latino-hz-us.png?raw=true" ,HBO Latino USA
+https://daddylive-new.vercel.app/api/stream?id=692
+#EXTINF:-1  tvg-id="HBO.Signature.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-signature-us.png?raw=true" ,HBO Signature USA
+https://daddylive-new.vercel.app/api/stream?id=693
+#EXTINF:-1  tvg-id="HBO.Drama.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" ,HBO USA
+https://daddylive-new.vercel.app/api/stream?id=321
+#EXTINF:-1  tvg-id="HBO.Zone.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-zone-hz-us.png?raw=true" ,HBO Zone USA
+https://daddylive-new.vercel.app/api/stream?id=694
+#EXTINF:-1  tvg-id="HBO2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-2-us.png?raw=true" ,HBO2 USA
+https://daddylive-new.vercel.app/api/stream?id=689
+#EXTINF:-1  tvg-id="HLN.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hln-us.png?raw=true" ,Headline News
+https://daddylive-new.vercel.app/api/stream?id=323
+#EXTINF:-1  tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true" ,HGTV
+https://daddylive-new.vercel.app/api/stream?id=382
+#EXTINF:-1  tvg-id="History.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/history-channel-us.png?raw=true" ,History USA
+https://daddylive-new.vercel.app/api/stream?id=322
+#EXTINF:-1  tvg-id="IFC.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ifc-us.png?raw=true" ,IFC TV USA
+https://daddylive-new.vercel.app/api/stream?id=656
+#EXTINF:-1  tvg-id="Investigation.Discovery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true" ,Investigation Discovery (ID USA)
+https://daddylive-new.vercel.app/api/stream?id=324
+#EXTINF:-1  tvg-id="ION.Plus.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" ,ION USA
+https://daddylive-new.vercel.app/api/stream?id=325
+#EXTINF:-1  tvg-id="Law.and.Crime.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/law-and-crime-network-us.png?raw=true" ,Law & Crime Network
+https://daddylive-new.vercel.app/api/stream?id=278
+#EXTINF:-1  tvg-id="LMN.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-movies-us.png?raw=true" ,Lifetime Movies Network
+https://daddylive-new.vercel.app/api/stream?id=389
+#EXTINF:-1  tvg-id="Lifetime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-us.png?raw=true" ,Lifetime Network
+https://daddylive-new.vercel.app/api/stream?id=326
+#EXTINF:-1  tvg-id="Magnolia.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/magnolia-network-us.png?raw=true" ,Magnolia Network
+https://daddylive-new.vercel.app/api/stream?id=299
+#EXTINF:-1  tvg-id="Marquee.Sports.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/marquee-sports-network-us.png?raw=true" ,Marquee Sports Network
+https://daddylive-new.vercel.app/api/stream?id=770
+#EXTINF:-1  tvg-id="MASN.-.Mid.Atlantic.Sports.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/masn-us.png?raw=true" ,MASN USA
+https://daddylive-new.vercel.app/api/stream?id=829
+#EXTINF:-1  tvg-id="plex.tv.MAVTV.Select.plex" tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2019/08/mavtv-logo-678.png" ,MAVTV USA
+https://daddylive-new.vercel.app/api/stream?id=646
+#EXTINF:-1  tvg-id="MeTV.Toons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" ,METV USA
+https://daddylive-new.vercel.app/api/stream?id=662
+#EXTINF:-1  tvg-id="MGM+.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" ,MGM+ USA / Epix
+https://daddylive-new.vercel.app/api/stream?id=791
+#EXTINF:-1  tvg-id="MLB.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" ,MLB Network USA
+https://daddylive-new.vercel.app/api/stream?id=399
+#EXTINF:-1  tvg-id="Monumental.Sports.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/monumental-sports-network-us.png?raw=true" ,Monumental Sports Network
+https://daddylive-new.vercel.app/api/stream?id=778
+#EXTINF:-1  tvg-id="MOTORTREND.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/motor-trend-us.png?raw=true" ,Motor Trend
+https://daddylive-new.vercel.app/api/stream?id=661
+#EXTINF:-1  tvg-id="MSG.National.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msg-us.png?raw=true" ,MSG USA
+https://daddylive-new.vercel.app/api/stream?id=765
+#EXTINF:-1  tvg-id="MSNBC.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msnbc-alt-us.png?raw=true" ,MSNBC
+https://daddylive-new.vercel.app/api/stream?id=327
+#EXTINF:-1  tvg-id="MTV.-.Music.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-us.png?raw=true" ,MTV USA
+https://daddylive-new.vercel.app/api/stream?id=371
+#EXTINF:-1  tvg-id="WWOR-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/my-network-tv-us.png?raw=true" ,MY9TV USA
+https://daddylive-new.vercel.app/api/stream?id=654
+#EXTINF:-1  tvg-id="National.Geographic.Wild.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" ,Nat Geo Wild USA
+https://daddylive-new.vercel.app/api/stream?id=745
+#EXTINF:-1  tvg-id="National.Geographic.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true" ,National Geographic (NGC)
+https://daddylive-new.vercel.app/api/stream?id=328
+#EXTINF:-1  tvg-id="NBA.TV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" ,NBA TV USA
+https://daddylive-new.vercel.app/api/stream?id=404
+#EXTINF:-1  tvg-id="NBC.Sports.Bay.Area.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-bay-area-hz-us.png?raw=true" ,NBC Sports Bay Area
+https://daddylive-new.vercel.app/api/stream?id=753
+#EXTINF:-1  tvg-id="NBC.Sports.Boston.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-boston-hz-us.png?raw=true" ,NBC Sports Boston
+https://daddylive-new.vercel.app/api/stream?id=754
+#EXTINF:-1  tvg-id="NBC.Sports.California.Plus.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-hz-us.png?raw=true" ,NBC Sports California
+https://daddylive-new.vercel.app/api/stream?id=755
+#EXTINF:-1  tvg-id="WMAQ-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" ,NBC USA
+https://daddylive-new.vercel.app/api/stream?id=53
+#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Big-Brother-Logo.png/960px-Big-Brother-Logo.png?20231024160807" ,Big Brother 24/7
+https://daddylive-new.vercel.app/api/stream?id=277
+#EXTINF:-1  tvg-id="WNBC-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" ,NBCNY USA
+https://daddylive-new.vercel.app/api/stream?id=769
+#EXTINF:-1  tvg-id="NESN+.New.England.Sports.Network.Plus.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nesn-hz-us.png?raw=true" ,NESN USA
+https://daddylive-new.vercel.app/api/stream?id=762
+#EXTINF:-1  tvg-id="Newsmax.TV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true" ,Newsmax USA
+https://daddylive-new.vercel.app/api/stream?id=613
+#EXTINF:-1  tvg-id="NewsNation.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-hz-us.png?raw=true" ,NewsNation USA
+https://daddylive-new.vercel.app/api/stream?id=292
+#EXTINF:-1  tvg-id="NFL.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-hz-us.png?raw=true" ,NFL Network
+https://daddylive-new.vercel.app/api/stream?id=405
+#EXTINF:-1  tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" ,NFL Redzone
+https://daddylive-new.vercel.app/api/stream?id=667
+#EXTINF:-1  tvg-id="NHL.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" ,NHL Network USA
+https://daddylive-new.vercel.app/api/stream?id=663
+#EXTINF:-1  tvg-id="Nick.Music.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nickelodeon-us.png?raw=true" ,NICK
+https://daddylive-new.vercel.app/api/stream?id=330
+#EXTINF:-1  tvg-id="Nick.Jr.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true" ,NICK JR
+https://daddylive-new.vercel.app/api/stream?id=329
+#EXTINF:-1  tvg-id="Nick.Music.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" ,NICK Music
+https://daddylive-new.vercel.app/api/stream?id=666
+#EXTINF:-1  tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" ,Nicktoons
+https://daddylive-new.vercel.app/api/stream?id=649
+#EXTINF:-1  tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" ,Oprah Winfrey Network (OWN)
+https://daddylive-new.vercel.app/api/stream?id=331
+#EXTINF:-1  tvg-id="Oxygen.True.Crime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" ,Oxygen True Crime
+https://daddylive-new.vercel.app/api/stream?id=332
+#EXTINF:-1  tvg-id="plex.tv.Pac-12.Insider.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pac-12-network-hz-us.png?raw=true" ,Pac-12 Network USA
+https://daddylive-new.vercel.app/api/stream?id=287
+#EXTINF:-1  tvg-id="Paramount.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" ,Paramount Network
+https://daddylive-new.vercel.app/api/stream?id=334
+#EXTINF:-1  tvg-id="POP.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pop-us.png?raw=true" ,POP TV USA
+https://daddylive-new.vercel.app/api/stream?id=653
+#EXTINF:-1  tvg-id="Racing.Dummy.us" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=4nqgl5qe0yrj16hhbq1fq356d_image-header_pRow_1716204577000&quality=70" ,Rally Tv
+https://daddylive-new.vercel.app/api/stream?id=607
+#EXTINF:-1  tvg-id="ReelzChannel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/reelz-us.png?raw=true" ,Reelz Channel
+https://daddylive-new.vercel.app/api/stream?id=293
+#EXTINF:-1  tvg-id="ROOT.Sports.Northwest.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/root-sports-us.png?raw=true" ,Root Sports Northwest
+https://daddylive-new.vercel.app/api/stream?id=920
+#EXTINF:-1  tvg-id="Science.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-icon-shade-us.png?raw=true" ,Science Channel
+https://daddylive-new.vercel.app/api/stream?id=294
+#EXTINF:-1  tvg-id="SEC.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" ,SEC Network USA
+https://daddylive-new.vercel.app/api/stream?id=385
+#EXTINF:-1  tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" ,Showtime 2 USA (SHO2) USA
+https://daddylive-new.vercel.app/api/stream?id=792
+#EXTINF:-1  tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" ,Showtime Extreme USA
+https://daddylive-new.vercel.app/api/stream?id=794
+#EXTINF:-1  tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-family-zone-us.png?raw=true" ,Showtime Family Zone (SHO Family Zone) USA
+https://daddylive-new.vercel.app/api/stream?id=795
+#EXTINF:-1  tvg-id="Showtime.Next.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" ,Showtime Next (SHO Next) USA
+https://daddylive-new.vercel.app/api/stream?id=796
+#EXTINF:-1  tvg-id="Showtime.Showcase.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-showcase-us.png?raw=true" ,Showtime Showcase USA
+https://daddylive-new.vercel.app/api/stream?id=793
+#EXTINF:-1  tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-plus-with-showtime-us.png?raw=true" ,Showtime USA
+https://daddylive-new.vercel.app/api/stream?id=333
+#EXTINF:-1  tvg-id="Showtime.Women.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" ,Showtime Women USA
+https://daddylive-new.vercel.app/api/stream?id=797
+#EXTINF:-1  tvg-id="Smithsonian.HD.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true" ,Smithsonian Channel
+https://daddylive-new.vercel.app/api/stream?id=603
+#EXTINF:-1  tvg-id="Space.City.Home.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/space-city-home-network-us.png?raw=true" ,Space City Home Network
+https://daddylive-new.vercel.app/api/stream?id=921
+#EXTINF:-1  tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-logo="https://cdn.nba.com/manage/2024/10/lalspectrum-1.png" ,Spectrum Sportsnet LA
+https://daddylive-new.vercel.app/api/stream?id=764
+#EXTINF:-1  tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sny-us.png?raw=true" ,SportsNet New York (SNY)
+https://daddylive-new.vercel.app/api/stream?id=759
+#EXTINF:-1  tvg-id="Sportsnet.Ontario.HD.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-ontario-hd-ca.png?raw=true" ,Sportsnet Ontario
+https://daddylive-new.vercel.app/api/stream?id=406
+#EXTINF:-1  tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsnet-pittsburgh-us.png?raw=true" ,SportsNet Pittsburgh
+https://daddylive-new.vercel.app/api/stream?id=922
+#EXTINF:-1  tvg-id="Sportsnet.East.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-west-hd-ca.png?raw=true" ,Sportsnet West
+https://daddylive-new.vercel.app/api/stream?id=407
+#EXTINF:-1  tvg-id="Sportsnet.World.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-world-hd-ca.png?raw=true" ,Sportsnet World
+https://daddylive-new.vercel.app/api/stream?id=410
+#EXTINF:-1  tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" ,Starz
+https://daddylive-new.vercel.app/api/stream?id=335
+#EXTINF:-1  tvg-id="SundanceTV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sundance-tv-us.png?raw=true" ,Sundance TV
+https://daddylive-new.vercel.app/api/stream?id=658
+#EXTINF:-1  tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-hz-us.png?raw=true" ,SYFY USA
+https://daddylive-new.vercel.app/api/stream?id=373
+#EXTINF:-1  tvg-id="TBS.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" ,TBS USA
+https://daddylive-new.vercel.app/api/stream?id=336
+#EXTINF:-1  tvg-id="Turner.Classic.Movies.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tcm-movies-ca.png?raw=true" ,TCM USA
+https://daddylive-new.vercel.app/api/stream?id=644
+#EXTINF:-1  tvg-id="Teen.Nick.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/teen-nick-us.png?raw=true" ,TeenNick
+https://daddylive-new.vercel.app/api/stream?id=650
+#EXTINF:-1  tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/telemundo-us.png?raw=true" ,Telemundo
+https://daddylive-new.vercel.app/api/stream?id=131
+#EXTINF:-1  tvg-id="Tennis.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tennis-channel-hz-us.png?raw=true" ,Tennis Channel
+https://daddylive-new.vercel.app/api/stream?id=40
+#EXTINF:-1  tvg-id="Food.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/food-network-us.png?raw=true" ,The Food Network
+https://daddylive-new.vercel.app/api/stream?id=384
+#EXTINF:-1  tvg-id="The.Weather.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/weather-channel-us.png?raw=true" ,The Weather Channel
+https://daddylive-new.vercel.app/api/stream?id=394
+#EXTINF:-1  tvg-id="TLC.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tlc-us.png?raw=true" ,TLC
+https://daddylive-new.vercel.app/api/stream?id=337
+#EXTINF:-1  tvg-id="The.Movie.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/the-movie-channel-icon-us.png?raw=true" ,TMC Channel USA
+https://daddylive-new.vercel.app/api/stream?id=698
+#EXTINF:-1  tvg-id="TNT.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true" ,TNT USA
+https://daddylive-new.vercel.app/api/stream?id=338
+#EXTINF:-1  tvg-id="The.Travel.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" ,Travel Channel
+https://daddylive-new.vercel.app/api/stream?id=340
+#EXTINF:-1  tvg-id="truTV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true" ,TruTV USA
+https://daddylive-new.vercel.app/api/stream?id=341
+#EXTINF:-1  tvg-id="TUDN.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tudn-us.png?raw=true" ,TUDN USA
+https://daddylive-new.vercel.app/api/stream?id=66
+#EXTINF:-1  tvg-id="TV.ONE.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/TV_One_US_2012.png" ,TV ONE USA
+https://daddylive-new.vercel.app/api/stream?id=660
+#EXTINF:-1  tvg-id="TV.Land.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" ,TVLAND
+https://daddylive-new.vercel.app/api/stream?id=342
+#EXTINF:-1  tvg-id="UniMas.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/unimas-us.png?raw=true" ,Unimas
+https://daddylive-new.vercel.app/api/stream?id=133
+#EXTINF:-1  tvg-id="Univision.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/univision-us.png?raw=true" ,Univision
+https://daddylive-new.vercel.app/api/stream?id=132
+#EXTINF:-1  tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" ,USA Network
+https://daddylive-new.vercel.app/api/stream?id=343
+#EXTINF:-1  tvg-id="VH1.HD.us2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/VH1.png" ,VH1 USA
+https://daddylive-new.vercel.app/api/stream?id=344
+#EXTINF:-1  tvg-id="Vice.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vice-us.png?raw=true" ,VICE TV
+https://daddylive-new.vercel.app/api/stream?id=659
+#EXTINF:-1  tvg-id="WE.tv.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/2560px-Wetv-july-2024-logo.svg.png" ,WETV USA
+https://daddylive-new.vercel.app/api/stream?id=655
+#EXTINF:-1  tvg-id="Willow.Cricket.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-us.png?raw=true" ,Willow Cricket
+https://daddylive-new.vercel.app/api/stream?id=346
+#EXTINF:-1  tvg-id="Willow.Xtra.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-xtra-us.png?raw=true" ,Willow XTRA
+https://daddylive-new.vercel.app/api/stream?id=598
+#EXTINF:-1  tvg-id="Peacock.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE.png" ,WWE Network (Peacock)
+https://daddylive-new.vercel.app/api/stream?id=376
+#EXTINF:-1  tvg-id="Yes.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" ,YES Network USA
+https://daddylive-new.vercel.app/api/stream?id=763
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-01)
+https://daddylive-new.vercel.app/api/stream?id=501
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-02)
+https://daddylive-new.vercel.app/api/stream?id=502
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-03)
+https://daddylive-new.vercel.app/api/stream?id=503
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-04)
+https://daddylive-new.vercel.app/api/stream?id=504
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-05)
+https://daddylive-new.vercel.app/api/stream?id=505
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-06)
+https://daddylive-new.vercel.app/api/stream?id=506
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-07)
+https://daddylive-new.vercel.app/api/stream?id=507
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-08)
+https://daddylive-new.vercel.app/api/stream?id=508
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-09)
+https://daddylive-new.vercel.app/api/stream?id=509
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-10)
+https://daddylive-new.vercel.app/api/stream?id=510
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-11)
+https://daddylive-new.vercel.app/api/stream?id=511
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-12)
+https://daddylive-new.vercel.app/api/stream?id=512
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-13)
+https://daddylive-new.vercel.app/api/stream?id=513
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-14)
+https://daddylive-new.vercel.app/api/stream?id=514
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-15)
+https://daddylive-new.vercel.app/api/stream?id=515
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-16)
+https://daddylive-new.vercel.app/api/stream?id=516
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-17)
+https://daddylive-new.vercel.app/api/stream?id=517
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-18)
+https://daddylive-new.vercel.app/api/stream?id=518
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-19)
+https://daddylive-new.vercel.app/api/stream?id=519
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-20)
+https://daddylive-new.vercel.app/api/stream?id=520
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Supercars Championship-Bathurst 1000-Super2 Race 1 (Oct 10-2025 4:00 AM UK / Oct 9-2025 9:00 PM MT / Oct 9-2025 11:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=590
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Supercars Championship-Bathurst 1000-Qualifying Race 27 (Oct 10-2025 5:00 AM UK / Oct 9-2025 10:00 PM MT / Oct 10-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=590
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldSBK | Round 11 | Estoril Free Practice 1 (Oct 10-2025 9:30 AM UK / Oct 10-2025 2:30 AM MT / Oct 10-2025 4:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=32
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldSBK | Round 11 | Estoril Free Practice 1 (Oct 10-2025 9:30 AM UK / Oct 10-2025 2:30 AM MT / Oct 10-2025 4:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=592
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldSSP | Round 11 | Estoril Superpole (Oct 10-2025 12:45 PM UK / Oct 10-2025 5:45 AM MT / Oct 10-2025 7:45 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=32
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldSSP | Round 11 | Estoril Superpole (Oct 10-2025 12:45 PM UK / Oct 10-2025 5:45 AM MT / Oct 10-2025 7:45 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=592
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldSBK | Round 11 | Estoril Free Practice 2 (Oct 10-2025 2:00 PM UK / Oct 10-2025 7:00 AM MT / Oct 10-2025 9:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=32
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldSBK | Round 11 | Estoril Free Practice 2 (Oct 10-2025 2:00 PM UK / Oct 10-2025 7:00 AM MT / Oct 10-2025 9:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=592
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,NASCAR Canada Series Autodrome Montmagny (Oct 10-2025 5:30 PM UK / Oct 10-2025 10:30 AM MT / Oct 10-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=111
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Supercars Championship-Bathurst 1000-Practice 5 (Co-Drivers Only) (Oct 10-2025 10:30 PM UK / Oct 10-2025 3:30 PM MT / Oct 10-2025 5:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=590
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Supercars Championship-Bathurst 1000-Practice 6 (All Drivers) (Oct 10-2025 12:30 AM UK / Oct 9-2025 5:30 PM MT / Oct 9-2025 7:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=590
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,ONE Friday Fights 128 (Oct 10-2025 12:30 PM UK / Oct 10-2025 5:30 AM MT / Oct 10-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=425
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,ONE Friday Fights 128 (Oct 10-2025 12:30 PM UK / Oct 10-2025 5:30 AM MT / Oct 10-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=127
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,ONE Friday Fights 128 (Oct 10-2025 12:30 PM UK / Oct 10-2025 5:30 AM MT / Oct 10-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=395
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,ONE Friday Fights 128 (Oct 10-2025 12:30 PM UK / Oct 10-2025 5:30 AM MT / Oct 10-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=123
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,ONE Friday Fights 128 (Oct 10-2025 12:30 PM UK / Oct 10-2025 5:30 AM MT / Oct 10-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=635
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,ONE Friday Fights 128 (Oct 10-2025 12:30 PM UK / Oct 10-2025 5:30 AM MT / Oct 10-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=120
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,ONE Friday Fights 128 (Oct 10-2025 12:30 PM UK / Oct 10-2025 5:30 AM MT / Oct 10-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=61
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,ONE Friday Fights 128 (Oct 10-2025 12:30 PM UK / Oct 10-2025 5:30 AM MT / Oct 10-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=91
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,ONE Friday Fights 128 (Oct 10-2025 12:30 PM UK / Oct 10-2025 5:30 AM MT / Oct 10-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=275
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE.png" ,WWE Friday Night SmackDown (Oct 10-2025 12:00 AM UK / Oct 9-2025 5:00 PM MT / Oct 9-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=343
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE.png" ,WWE Friday Night SmackDown (Oct 10-2025 12:00 AM UK / Oct 9-2025 5:00 PM MT / Oct 9-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=145
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,PGA Tour Baycurrent Championship (Oct 10-2025 3:00 AM UK / Oct 9-2025 8:00 PM MT / Oct 9-2025 10:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=70
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,PGA Tour Baycurrent Championship (Oct 10-2025 3:00 AM UK / Oct 9-2025 8:00 PM MT / Oct 9-2025 10:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=318
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,PGA Tour Baycurrent Championship (Oct 10-2025 3:00 AM UK / Oct 9-2025 8:00 PM MT / Oct 9-2025 10:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=528
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,PGA Tour Baycurrent Championship (Oct 10-2025 3:00 AM UK / Oct 9-2025 8:00 PM MT / Oct 9-2025 10:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=422
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,PGA Tour Baycurrent Championship (Oct 10-2025 3:00 AM UK / Oct 9-2025 8:00 PM MT / Oct 9-2025 10:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=710
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,PGA Tour Baycurrent Championship (Oct 10-2025 3:00 AM UK / Oct 9-2025 8:00 PM MT / Oct 9-2025 10:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=785
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,PGA Tour Baycurrent Championship (Oct 10-2025 3:00 AM UK / Oct 9-2025 8:00 PM MT / Oct 9-2025 10:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=901
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LGPA Tour Buick LGPA Shanghai (Oct 10-2025 3:00 AM UK / Oct 9-2025 8:00 PM MT / Oct 9-2025 10:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=449
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,Golf: Int. Series Cambodia Day 2 (Oct 10-2025 6:00 AM UK / Oct 9-2025 11:00 PM MT / Oct 10-2025 1:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=454
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LGPA Tour Buick LGPA Shanghai (Oct 10-2025 7:00 AM UK / Oct 10-2025 12:00 AM MT / Oct 10-2025 2:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=70
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LGPA Tour Buick LGPA Shanghai (Oct 10-2025 7:00 AM UK / Oct 10-2025 12:00 AM MT / Oct 10-2025 2:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=318
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LGPA Tour Buick LGPA Shanghai (Oct 10-2025 7:00 AM UK / Oct 10-2025 12:00 AM MT / Oct 10-2025 2:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=528
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LGPA Tour Buick LGPA Shanghai (Oct 10-2025 7:00 AM UK / Oct 10-2025 12:00 AM MT / Oct 10-2025 2:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=422
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LGPA Tour Buick LGPA Shanghai (Oct 10-2025 7:00 AM UK / Oct 10-2025 12:00 AM MT / Oct 10-2025 2:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=710
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LGPA Tour Buick LGPA Shanghai (Oct 10-2025 7:00 AM UK / Oct 10-2025 12:00 AM MT / Oct 10-2025 2:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=785
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LGPA Tour Buick LGPA Shanghai (Oct 10-2025 7:00 AM UK / Oct 10-2025 12:00 AM MT / Oct 10-2025 2:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=901
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour Acciona Open de Espana Presented By Madrid (Oct 10-2025 12:00 PM UK / Oct 10-2025 5:00 AM MT / Oct 10-2025 7:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=70
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour Acciona Open de Espana Presented By Madrid (Oct 10-2025 12:00 PM UK / Oct 10-2025 5:00 AM MT / Oct 10-2025 7:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=318
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour Acciona Open de Espana Presented By Madrid (Oct 10-2025 12:00 PM UK / Oct 10-2025 5:00 AM MT / Oct 10-2025 7:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=528
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour Acciona Open de Espana Presented By Madrid (Oct 10-2025 12:00 PM UK / Oct 10-2025 5:00 AM MT / Oct 10-2025 7:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=422
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour Acciona Open de Espana Presented By Madrid (Oct 10-2025 12:00 PM UK / Oct 10-2025 5:00 AM MT / Oct 10-2025 7:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=591
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour Acciona Open de Espana Presented By Madrid (Oct 10-2025 12:00 PM UK / Oct 10-2025 5:00 AM MT / Oct 10-2025 7:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=710
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour Acciona Open de Espana Presented By Madrid (Oct 10-2025 12:00 PM UK / Oct 10-2025 5:00 AM MT / Oct 10-2025 7:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=785
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour Acciona Open de Espana Presented By Madrid (Oct 10-2025 12:00 PM UK / Oct 10-2025 5:00 AM MT / Oct 10-2025 7:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=901
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,Korn Ferry Tour Championship-Second Round (Oct 10-2025 7:00 PM UK / Oct 10-2025 12:00 PM MT / Oct 10-2025 2:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=318
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Western Bulldogs W vs Essendon Bombers W (Oct 10-2025 8:00 AM UK / Oct 10-2025 1:00 AM MT / Oct 10-2025 3:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=758
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Western Bulldogs W vs Essendon Bombers W (Oct 10-2025 8:00 AM UK / Oct 10-2025 1:00 AM MT / Oct 10-2025 3:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=34
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Western Bulldogs W vs Essendon Bombers W (Oct 10-2025 8:00 AM UK / Oct 10-2025 1:00 AM MT / Oct 10-2025 3:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=591
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Adelaide Crows W vs West Coast Eagles W (Oct 10-2025 2:00 AM UK / Oct 9-2025 7:00 PM MT / Oct 9-2025 9:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=758
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Adelaide Crows W vs West Coast Eagles W (Oct 10-2025 2:00 AM UK / Oct 9-2025 7:00 PM MT / Oct 9-2025 9:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=34
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB Finals : Detroit Tigers vs Seattle Mariners (Oct 10-2025 12:08 AM UK / Oct 9-2025 5:08 PM MT / Oct 9-2025 7:08 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=768
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB Finals : Detroit Tigers vs Seattle Mariners (Oct 10-2025 12:08 AM UK / Oct 9-2025 5:08 PM MT / Oct 9-2025 7:08 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=54
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB Finals : Detroit Tigers vs Seattle Mariners (Oct 10-2025 12:08 AM UK / Oct 9-2025 5:08 PM MT / Oct 9-2025 7:08 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=643
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB Finals : Detroit Tigers vs Seattle Mariners (Oct 10-2025 12:08 AM UK / Oct 9-2025 5:08 PM MT / Oct 9-2025 7:08 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=411
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Women's Rapid League : Pouakai vs Whai (Oct 10-2025 5:30 AM UK / Oct 9-2025 10:30 PM MT / Oct 10-2025 12:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=587
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,SÃ¼per Ligi : Besiktas JK vs. Buyukcekmece Basketbol (Oct 10-2025 4:00 PM UK / Oct 10-2025 9:00 AM MT / Oct 10-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=139
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Fenerbahce Istanbul vs. KK Crvena zvezda Belgrade (Oct 10-2025 5:45 PM UK / Oct 10-2025 10:45 AM MT / Oct 10-2025 12:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=438
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Fenerbahce Istanbul vs. KK Crvena zvezda Belgrade (Oct 10-2025 5:45 PM UK / Oct 10-2025 10:45 AM MT / Oct 10-2025 12:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=134
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Fenerbahce Istanbul vs. KK Crvena zvezda Belgrade (Oct 10-2025 5:45 PM UK / Oct 10-2025 10:45 AM MT / Oct 10-2025 12:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=635
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Fenerbahce Istanbul vs. KK Crvena zvezda Belgrade (Oct 10-2025 5:45 PM UK / Oct 10-2025 10:45 AM MT / Oct 10-2025 12:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=472
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Fenerbahce Istanbul vs. KK Crvena zvezda Belgrade (Oct 10-2025 5:45 PM UK / Oct 10-2025 10:45 AM MT / Oct 10-2025 12:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=103
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Poland-PLK : Anwil Wroclawek vs. Arka Gdynia (Oct 10-2025 6:15 PM UK / Oct 10-2025 11:15 AM MT / Oct 10-2025 1:15 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=50
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : BC Olympiakos Piraeus vs. Dubai Basketball (Oct 10-2025 6:15 PM UK / Oct 10-2025 11:15 AM MT / Oct 10-2025 1:15 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=527
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : BC Olympiakos Piraeus vs. Dubai Basketball (Oct 10-2025 6:15 PM UK / Oct 10-2025 11:15 AM MT / Oct 10-2025 1:15 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=135
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : BC Olympiakos Piraeus vs. Dubai Basketball (Oct 10-2025 6:15 PM UK / Oct 10-2025 11:15 AM MT / Oct 10-2025 1:15 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=634
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : BC Olympiakos Piraeus vs. Dubai Basketball (Oct 10-2025 6:15 PM UK / Oct 10-2025 11:15 AM MT / Oct 10-2025 1:15 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=473
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : BC Olympiakos Piraeus vs. Dubai Basketball (Oct 10-2025 6:15 PM UK / Oct 10-2025 11:15 AM MT / Oct 10-2025 1:15 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=291
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : BC Olympiakos Piraeus vs. Dubai Basketball (Oct 10-2025 6:15 PM UK / Oct 10-2025 11:15 AM MT / Oct 10-2025 1:15 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=104
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Bayern Munich vs. BC Zalgiris Kaunas (Oct 10-2025 6:30 PM UK / Oct 10-2025 11:30 AM MT / Oct 10-2025 1:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=636
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Bayern Munich vs. BC Zalgiris Kaunas (Oct 10-2025 6:30 PM UK / Oct 10-2025 11:30 AM MT / Oct 10-2025 1:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=475
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Bayern Munich vs. BC Zalgiris Kaunas (Oct 10-2025 6:30 PM UK / Oct 10-2025 11:30 AM MT / Oct 10-2025 1:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=453
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : FC Barcelona vs. Valencia Basket (Oct 10-2025 6:30 PM UK / Oct 10-2025 11:30 AM MT / Oct 10-2025 1:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=436
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : FC Barcelona vs. Valencia Basket (Oct 10-2025 6:30 PM UK / Oct 10-2025 11:30 AM MT / Oct 10-2025 1:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=139
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : FC Barcelona vs. Valencia Basket (Oct 10-2025 6:30 PM UK / Oct 10-2025 11:30 AM MT / Oct 10-2025 1:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=633
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : FC Barcelona vs. Valencia Basket (Oct 10-2025 6:30 PM UK / Oct 10-2025 11:30 AM MT / Oct 10-2025 1:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=474
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : FC Barcelona vs. Valencia Basket (Oct 10-2025 6:30 PM UK / Oct 10-2025 11:30 AM MT / Oct 10-2025 1:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=101
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : FC Barcelona vs. Valencia Basket (Oct 10-2025 6:30 PM UK / Oct 10-2025 11:30 AM MT / Oct 10-2025 1:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=144
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Women's Rapid League : Hoiho vs Queens (Oct 10-2025 1:00 AM UK / Oct 9-2025 6:00 PM MT / Oct 9-2025 8:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=591
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Phoenix Suns vs Brooklyn Nets (Oct 10-2025 12:00 PM UK / Oct 10-2025 5:00 AM MT / Oct 10-2025 7:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=404
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Philadelphia 76ers vs Orlando Magic (Oct 10-2025 11:00 PM UK / Oct 10-2025 4:00 PM MT / Oct 10-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=404
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Philadelphia 76ers vs Orlando Magic (Oct 10-2025 11:00 PM UK / Oct 10-2025 4:00 PM MT / Oct 10-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=777
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Toronto Raptors vs Boston Celtics (Oct 10-2025 11:00 PM UK / Oct 10-2025 4:00 PM MT / Oct 10-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=754
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Toronto Raptors vs Boston Celtics (Oct 10-2025 11:00 PM UK / Oct 10-2025 4:00 PM MT / Oct 10-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=411
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,WNBA : Phoenix Mercury W vs Las Vegas Aces W (Oct 10-2025 12:00 AM UK / Oct 9-2025 5:00 PM MT / Oct 9-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=32
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,WNBA : Phoenix Mercury W vs Las Vegas Aces W (Oct 10-2025 12:00 AM UK / Oct 9-2025 5:00 PM MT / Oct 9-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=44
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,WNBA : Phoenix Mercury W vs Las Vegas Aces W (Oct 10-2025 12:00 AM UK / Oct 9-2025 5:00 PM MT / Oct 9-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=114
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,WNBA : Phoenix Mercury W vs Las Vegas Aces W (Oct 10-2025 12:00 AM UK / Oct 9-2025 5:00 PM MT / Oct 9-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=375
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,WNBA : Phoenix Mercury W vs Las Vegas Aces W (Oct 10-2025 12:00 AM UK / Oct 9-2025 5:00 PM MT / Oct 9-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=707
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,WNBA : Phoenix Mercury W vs Las Vegas Aces W (Oct 10-2025 12:00 AM UK / Oct 9-2025 5:00 PM MT / Oct 9-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=82
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,HockeyAllsvenskan : AIK vs Mora (Oct 10-2025 5:00 PM UK / Oct 10-2025 10:00 AM MT / Oct 10-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=703
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,HockeyAllsvenskan : Vimmerby vs Nybro (Oct 10-2025 5:00 PM UK / Oct 10-2025 10:00 AM MT / Oct 10-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=706
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,HockeyAllsvenskan : Troja/Ljungby vs Vasteras (Oct 10-2025 5:00 PM UK / Oct 10-2025 10:00 AM MT / Oct 10-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=704
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,HockeyAllsvenskan : Ostersund vs BIK Karlskoga (Oct 10-2025 5:00 PM UK / Oct 10-2025 10:00 AM MT / Oct 10-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=705
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,HockeyAllsvenskan : Modo vs Sodertalje (Oct 10-2025 5:00 PM UK / Oct 10-2025 10:00 AM MT / Oct 10-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=700
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,HockeyAllsvenskan : Kalmar vs IF Bjorkloven (Oct 10-2025 5:00 PM UK / Oct 10-2025 10:00 AM MT / Oct 10-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=707
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldSBK | Round 11 | Estoril Free Practice 3 (Oct 11-2025 8:00 AM UK / Oct 11-2025 1:00 AM MT / Oct 11-2025 3:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=32
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldSBK | Round 11 | Estoril Free Practice 3 (Oct 11-2025 8:00 AM UK / Oct 11-2025 1:00 AM MT / Oct 11-2025 3:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=275
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldSBK | Round 11 | Estoril Free Practice 3 (Oct 11-2025 8:00 AM UK / Oct 11-2025 1:00 AM MT / Oct 11-2025 3:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=592
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldSBK | Round 11 | Estoril Superpole (Oct 11-2025 9:30 AM UK / Oct 11-2025 2:30 AM MT / Oct 11-2025 4:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=32
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldSBK | Round 11 | Estoril Superpole (Oct 11-2025 9:30 AM UK / Oct 11-2025 2:30 AM MT / Oct 11-2025 4:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=275
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldSBK | Round 11 | Estoril Superpole (Oct 11-2025 9:30 AM UK / Oct 11-2025 2:30 AM MT / Oct 11-2025 4:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=592
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldSBK | Round 11 | Estoril Race 1 (Oct 11-2025 12:30 PM UK / Oct 11-2025 5:30 AM MT / Oct 11-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=32
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldSBK | Round 11 | Estoril Race 1 (Oct 11-2025 12:30 PM UK / Oct 11-2025 5:30 AM MT / Oct 11-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=275
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldSBK | Round 11 | Estoril Race 1 (Oct 11-2025 12:30 PM UK / Oct 11-2025 5:30 AM MT / Oct 11-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=592
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,IMSA WeatherTech SportsCar Championship 2025 (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=53
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,IMSA WeatherTech SportsCar Championship 2025 (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=769
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,IMSA WeatherTech SportsCar Championship 2025 (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=290
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Supercars Championship-Bathurst 1000-Super2 Race 2 (Oct 11-2025 5:00 PM UK / Oct 11-2025 10:00 AM MT / Oct 11-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=590
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,NASCAR Cup Series South Point 400-Qualifying (Oct 11-2025 8:30 PM UK / Oct 11-2025 1:30 PM MT / Oct 11-2025 3:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=341
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Little Le Mans The race (Oct 11-2025 10:00 PM UK / Oct 11-2025 3:00 PM MT / Oct 11-2025 5:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=290
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Supercars Championship-Bathurst 1000-Race 27 (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=588
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Supercars Championship Race 27 | Bathurst (Oct 11-2025 11:15 PM UK / Oct 11-2025 4:15 PM MT / Oct 11-2025 6:15 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=33
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Supercars Championship Race 27 | Bathurst (Oct 11-2025 11:15 PM UK / Oct 11-2025 4:15 PM MT / Oct 11-2025 6:15 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=640
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Nascar-Xfinity Series Focused Health 302 (Oct 11-2025 11:30 PM UK / Oct 11-2025 4:30 PM MT / Oct 11-2025 6:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=300
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Nascar-Xfinity Series Focused Health 302 (Oct 11-2025 11:30 PM UK / Oct 11-2025 4:30 PM MT / Oct 11-2025 6:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=280
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Nascar-Xfinity Series Focused Health 302 (Oct 11-2025 11:30 PM UK / Oct 11-2025 4:30 PM MT / Oct 11-2025 6:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=289
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Nascar-Xfinity Series Focused Health 302 (Oct 11-2025 11:30 PM UK / Oct 11-2025 4:30 PM MT / Oct 11-2025 6:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=383
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Boxing-2.png" ,Boxing : David Allen vs Arslanbek Makhmudov (Oct 11-2025 6:00 PM UK / Oct 11-2025 11:00 AM MT / Oct 11-2025 1:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=82
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,UFC Fight Night Prelims : Jafel Filho vs Clayton Carpenter (Oct 11-2025 8:00 PM UK / Oct 11-2025 1:00 PM MT / Oct 11-2025 3:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=31
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,UFC Fight Night Prelims : Jafel Filho vs Clayton Carpenter (Oct 11-2025 8:00 PM UK / Oct 11-2025 1:00 PM MT / Oct 11-2025 3:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=834
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,UFC Fight Night Prelims : Jafel Filho vs Clayton Carpenter (Oct 11-2025 8:00 PM UK / Oct 11-2025 1:00 PM MT / Oct 11-2025 3:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=47
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,UFC Fight Night Prelims : Jafel Filho vs Clayton Carpenter (Oct 11-2025 8:00 PM UK / Oct 11-2025 1:00 PM MT / Oct 11-2025 3:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=395
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,UFC Fight Night Prelims : Jafel Filho vs Clayton Carpenter (Oct 11-2025 8:00 PM UK / Oct 11-2025 1:00 PM MT / Oct 11-2025 3:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=127
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,UFC Fight Night Prelims : Jafel Filho vs Clayton Carpenter (Oct 11-2025 8:00 PM UK / Oct 11-2025 1:00 PM MT / Oct 11-2025 3:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=123
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=31
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=834
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=49
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=119
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=123
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=395
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=47
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=525
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=878
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=473
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,UFC Fight Night Main Card : Charles Oliveira vs Mateusz Gamrot (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=146
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" ,Judo: Lima Grand Prix Lima Grand Prix. Day 1. (Oct 11-2025 10:00 PM UK / Oct 11-2025 3:00 PM MT / Oct 11-2025 5:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=120
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" ,Judo: Lima Grand Prix Lima Grand Prix. Day 1. (Oct 11-2025 10:00 PM UK / Oct 11-2025 3:00 PM MT / Oct 11-2025 5:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=454
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" ,Judo: Lima Grand Prix Lima Grand Prix. Day 1. (Oct 11-2025 10:00 PM UK / Oct 11-2025 3:00 PM MT / Oct 11-2025 5:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=144
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,PGA Tour Baycurrent Championship (Oct 11-2025 3:00 AM UK / Oct 10-2025 8:00 PM MT / Oct 10-2025 10:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=70
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,PGA Tour Baycurrent Championship (Oct 11-2025 3:00 AM UK / Oct 10-2025 8:00 PM MT / Oct 10-2025 10:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=318
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,PGA Tour Baycurrent Championship (Oct 11-2025 3:00 AM UK / Oct 10-2025 8:00 PM MT / Oct 10-2025 10:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=528
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,PGA Tour Baycurrent Championship (Oct 11-2025 3:00 AM UK / Oct 10-2025 8:00 PM MT / Oct 10-2025 10:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=422
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,PGA Tour Baycurrent Championship (Oct 11-2025 3:00 AM UK / Oct 10-2025 8:00 PM MT / Oct 10-2025 10:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=592
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,PGA Tour Baycurrent Championship (Oct 11-2025 3:00 AM UK / Oct 10-2025 8:00 PM MT / Oct 10-2025 10:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=710
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,PGA Tour Baycurrent Championship (Oct 11-2025 3:00 AM UK / Oct 10-2025 8:00 PM MT / Oct 10-2025 10:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=785
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,PGA Tour Baycurrent Championship (Oct 11-2025 3:00 AM UK / Oct 10-2025 8:00 PM MT / Oct 10-2025 10:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=901
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LGPA Tour Buick LGPA Shanghai (Oct 11-2025 3:00 AM UK / Oct 10-2025 8:00 PM MT / Oct 10-2025 10:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=449
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,Golf: Int. Series Cambodia Day 3 (Oct 11-2025 6:00 AM UK / Oct 10-2025 11:00 PM MT / Oct 11-2025 1:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=454
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LGPA Tour Buick LGPA Shanghai (Oct 11-2025 7:00 AM UK / Oct 11-2025 12:00 AM MT / Oct 11-2025 2:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=70
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LGPA Tour Buick LGPA Shanghai (Oct 11-2025 7:00 AM UK / Oct 11-2025 12:00 AM MT / Oct 11-2025 2:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=318
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LGPA Tour Buick LGPA Shanghai (Oct 11-2025 7:00 AM UK / Oct 11-2025 12:00 AM MT / Oct 11-2025 2:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=528
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LGPA Tour Buick LGPA Shanghai (Oct 11-2025 7:00 AM UK / Oct 11-2025 12:00 AM MT / Oct 11-2025 2:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=422
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LGPA Tour Buick LGPA Shanghai (Oct 11-2025 7:00 AM UK / Oct 11-2025 12:00 AM MT / Oct 11-2025 2:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=592
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LGPA Tour Buick LGPA Shanghai (Oct 11-2025 7:00 AM UK / Oct 11-2025 12:00 AM MT / Oct 11-2025 2:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=710
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LGPA Tour Buick LGPA Shanghai (Oct 11-2025 7:00 AM UK / Oct 11-2025 12:00 AM MT / Oct 11-2025 2:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=785
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LGPA Tour Buick LGPA Shanghai (Oct 11-2025 7:00 AM UK / Oct 11-2025 12:00 AM MT / Oct 11-2025 2:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=901
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour Acciona Open de Espana Presented By Madrid (Oct 11-2025 10:30 AM UK / Oct 11-2025 3:30 AM MT / Oct 11-2025 5:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=70
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour Acciona Open de Espana Presented By Madrid (Oct 11-2025 10:30 AM UK / Oct 11-2025 3:30 AM MT / Oct 11-2025 5:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=318
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour Acciona Open de Espana Presented By Madrid (Oct 11-2025 10:30 AM UK / Oct 11-2025 3:30 AM MT / Oct 11-2025 5:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=528
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour Acciona Open de Espana Presented By Madrid (Oct 11-2025 10:30 AM UK / Oct 11-2025 3:30 AM MT / Oct 11-2025 5:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=422
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour Acciona Open de Espana Presented By Madrid (Oct 11-2025 10:30 AM UK / Oct 11-2025 3:30 AM MT / Oct 11-2025 5:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=593
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour Acciona Open de Espana Presented By Madrid (Oct 11-2025 10:30 AM UK / Oct 11-2025 3:30 AM MT / Oct 11-2025 5:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=710
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour Acciona Open de Espana Presented By Madrid (Oct 11-2025 10:30 AM UK / Oct 11-2025 3:30 AM MT / Oct 11-2025 5:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=785
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour Acciona Open de Espana Presented By Madrid (Oct 11-2025 10:30 AM UK / Oct 11-2025 3:30 AM MT / Oct 11-2025 5:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=901
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,PGA Korn Ferry Tour Golf : Korn Ferry Tour Championship-Third Round (Oct 11-2025 7:00 PM UK / Oct 11-2025 12:00 PM MT / Oct 11-2025 2:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=318
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,CFL : Hamilton Tiger-Cats vs Calgary Stampeders (Oct 11-2025 7:00 PM UK / Oct 11-2025 12:00 PM MT / Oct 11-2025 2:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=111
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,CFL : Hamilton Tiger-Cats vs Calgary Stampeders (Oct 11-2025 7:00 PM UK / Oct 11-2025 12:00 PM MT / Oct 11-2025 2:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=114
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,CFL : Hamilton Tiger-Cats vs Calgary Stampeders (Oct 11-2025 7:00 PM UK / Oct 11-2025 12:00 PM MT / Oct 11-2025 2:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=840
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,CFL : Edmonton Eskimos vs Winnipeg Blue Bombers (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=111
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,CFL : Edmonton Eskimos vs Winnipeg Blue Bombers (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=113
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,CFL : Edmonton Eskimos vs Winnipeg Blue Bombers (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=114
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 1 Ohio State at No. 17 Illinois (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=54
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 1 Ohio State at No. 17 Illinois (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=768
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 1 Ohio State at No. 17 Illinois (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=643
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 8 Alabama at No. 14 Missouri (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=51
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 8 Alabama at No. 14 Missouri (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=766
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 8 Alabama at No. 14 Missouri (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=112
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 8 Alabama at No. 14 Missouri (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=453
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Pittsburgh at No. 25 Florida State (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=44
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Pittsburgh at No. 25 Florida State (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=664
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : UCLA at Michigan State (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=397
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,College Football : Mercer vs Princeton (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=759
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Stanford at SMU (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=300
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Stanford at SMU (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=280
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : UCF at Cincinnati (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=39
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Houston at Oklahoma State (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=338
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Houston at Oklahoma State (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=341
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Louisiana at James Madison (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=45
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Charlotte at Army (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=308
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Toledo at Bowling Green (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=316
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Washington State at No. 4 Ole Miss (Oct 11-2025 4:45 PM UK / Oct 11-2025 9:45 AM MT / Oct 11-2025 11:45 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=385
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,College Football : Maine vs Merrimack (Oct 11-2025 5:00 PM UK / Oct 11-2025 10:00 AM MT / Oct 11-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=762
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,College Football : St. Francis (Pa.) vs Duquesne (Oct 11-2025 5:00 PM UK / Oct 11-2025 10:00 AM MT / Oct 11-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=922
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 7 Indiana at No. 3 Oregon (Oct 11-2025 7:30 PM UK / Oct 11-2025 12:30 PM MT / Oct 11-2025 2:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=52
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 7 Indiana at No. 3 Oregon (Oct 11-2025 7:30 PM UK / Oct 11-2025 12:30 PM MT / Oct 11-2025 2:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=767
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 6 Oklahoma vs. Texas (in Dallas) (Oct 11-2025 7:30 PM UK / Oct 11-2025 12:30 PM MT / Oct 11-2025 2:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=51
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 6 Oklahoma vs. Texas (in Dallas) (Oct 11-2025 7:30 PM UK / Oct 11-2025 12:30 PM MT / Oct 11-2025 2:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=766
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 6 Oklahoma vs. Texas (in Dallas) (Oct 11-2025 7:30 PM UK / Oct 11-2025 12:30 PM MT / Oct 11-2025 2:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=375
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 6 Oklahoma vs. Texas (in Dallas) (Oct 11-2025 7:30 PM UK / Oct 11-2025 12:30 PM MT / Oct 11-2025 2:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=112
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 6 Oklahoma vs. Texas (in Dallas) (Oct 11-2025 7:30 PM UK / Oct 11-2025 12:30 PM MT / Oct 11-2025 2:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=453
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Northwestern at Penn State (Oct 11-2025 7:30 PM UK / Oct 11-2025 12:30 PM MT / Oct 11-2025 2:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=39
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 22 Iowa State at Colorado (Oct 11-2025 7:30 PM UK / Oct 11-2025 12:30 PM MT / Oct 11-2025 2:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=44
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Virginia Tech at No. 13 Georgia Tech (Oct 11-2025 7:30 PM UK / Oct 11-2025 12:30 PM MT / Oct 11-2025 2:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=664
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : NC State at No. 16 Notre Dame (Oct 11-2025 7:30 PM UK / Oct 11-2025 12:30 PM MT / Oct 11-2025 2:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=37
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Nebraska at Maryland (Oct 11-2025 7:30 PM UK / Oct 11-2025 12:30 PM MT / Oct 11-2025 2:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=397
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Wake Forest at Oregon State (Oct 11-2025 7:30 PM UK / Oct 11-2025 12:30 PM MT / Oct 11-2025 2:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=300
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Wake Forest at Oregon State (Oct 11-2025 7:30 PM UK / Oct 11-2025 12:30 PM MT / Oct 11-2025 2:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=280
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : TCU at Kansas State (Oct 11-2025 7:30 PM UK / Oct 11-2025 12:30 PM MT / Oct 11-2025 2:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=54
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : TCU at Kansas State (Oct 11-2025 7:30 PM UK / Oct 11-2025 12:30 PM MT / Oct 11-2025 2:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=768
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Air Force at UNLV (Oct 11-2025 7:30 PM UK / Oct 11-2025 12:30 PM MT / Oct 11-2025 2:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=308
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Navy at Temple (Oct 11-2025 8:00 PM UK / Oct 11-2025 1:00 PM MT / Oct 11-2025 3:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=45
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,College Football : Alabama State at Jackson State (Oct 11-2025 8:00 PM UK / Oct 11-2025 1:00 PM MT / Oct 11-2025 3:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=316
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Arkansas at No. 12 Tennessee (Oct 11-2025 8:15 PM UK / Oct 11-2025 1:15 PM MT / Oct 11-2025 3:15 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=385
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Florida at No. 5 Texas A&amp;M (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=44
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Florida at No. 5 Texas A&amp;M (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=101
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Iowa at Wisconsin (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=39
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : San Jose State at Wyoming (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=308
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 10 Georgia at Auburn (Oct 11-2025 11:30 PM UK / Oct 11-2025 4:30 PM MT / Oct 11-2025 6:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=51
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 10 Georgia at Auburn (Oct 11-2025 11:30 PM UK / Oct 11-2025 4:30 PM MT / Oct 11-2025 6:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=112
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 10 Georgia at Auburn (Oct 11-2025 11:30 PM UK / Oct 11-2025 4:30 PM MT / Oct 11-2025 6:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=766
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 10 Georgia at Auburn (Oct 11-2025 11:30 PM UK / Oct 11-2025 4:30 PM MT / Oct 11-2025 6:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=375
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Kansas at No. 9 Texas Tech (Oct 11-2025 11:30 PM UK / Oct 11-2025 4:30 PM MT / Oct 11-2025 6:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=54
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Kansas at No. 9 Texas Tech (Oct 11-2025 11:30 PM UK / Oct 11-2025 4:30 PM MT / Oct 11-2025 6:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=768
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 15 Michigan at USC (Oct 11-2025 11:30 PM UK / Oct 11-2025 4:30 PM MT / Oct 11-2025 6:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=53
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 15 Michigan at USC (Oct 11-2025 11:30 PM UK / Oct 11-2025 4:30 PM MT / Oct 11-2025 6:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=769
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Purdue at Minnesota (Oct 11-2025 11:30 PM UK / Oct 11-2025 4:30 PM MT / Oct 11-2025 6:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=397
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Clemson at Boston College (Oct 11-2025 11:30 PM UK / Oct 11-2025 4:30 PM MT / Oct 11-2025 6:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=664
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Rice at UTSA (Oct 11-2025 11:30 PM UK / Oct 11-2025 4:30 PM MT / Oct 11-2025 6:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=316
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : South Carolina at No. 11 LSU (Oct 11-2025 11:45 PM UK / Oct 11-2025 4:45 PM MT / Oct 11-2025 6:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=385
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,High School Football : Sycamore vs LaSalle-Peru (Oct 11-2025 12:00 AM UK / Oct 10-2025 5:00 PM MT / Oct 10-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=770
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 18 BYU at Arizona (Oct 11-2025 12:30 AM UK / Oct 10-2025 5:30 PM MT / Oct 10-2025 7:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=45
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : New Mexico at Boise State (Oct 11-2025 1:45 AM UK / Oct 10-2025 6:45 PM MT / Oct 10-2025 8:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=39
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 21 Arizona State at Utah (Oct 11-2025 2:15 AM UK / Oct 10-2025 7:15 PM MT / Oct 10-2025 9:15 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=44
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : No. 21 Arizona State at Utah (Oct 11-2025 2:15 AM UK / Oct 10-2025 7:15 PM MT / Oct 10-2025 9:15 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=101
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : San Diego State at Nevada (Oct 11-2025 2:30 AM UK / Oct 10-2025 7:30 PM MT / Oct 10-2025 9:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=308
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Geelong Cats W vs Greater Western Sydney W (Oct 11-2025 4:05 AM UK / Oct 10-2025 9:05 PM MT / Oct 10-2025 11:05 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=32
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Hawthorn Hawks W vs Gold Coast Suns W (Oct 11-2025 4:05 AM UK / Oct 10-2025 9:05 PM MT / Oct 10-2025 11:05 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=758
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Hawthorn Hawks W vs Gold Coast Suns W (Oct 11-2025 4:05 AM UK / Oct 10-2025 9:05 PM MT / Oct 10-2025 11:05 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=34
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Brisbane Lions W vs Port Adelaide W (Oct 11-2025 6:00 AM UK / Oct 10-2025 11:00 PM MT / Oct 11-2025 1:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=758
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Brisbane Lions W vs Port Adelaide W (Oct 11-2025 6:00 AM UK / Oct 10-2025 11:00 PM MT / Oct 11-2025 1:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=32
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Richmond W vs North Melbourne Kangaroos W (Oct 11-2025 8:00 AM UK / Oct 11-2025 1:00 AM MT / Oct 11-2025 3:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=758
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Richmond W vs North Melbourne Kangaroos W (Oct 11-2025 8:00 AM UK / Oct 11-2025 1:00 AM MT / Oct 11-2025 3:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=596
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Sydney Swans W vs Carlton Blues W (Oct 11-2025 2:00 AM UK / Oct 10-2025 7:00 PM MT / Oct 10-2025 9:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=756
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Sydney Swans W vs Carlton Blues W (Oct 11-2025 2:00 AM UK / Oct 10-2025 7:00 PM MT / Oct 10-2025 9:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=34
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Sydney Swans W vs Carlton Blues W (Oct 11-2025 2:00 AM UK / Oct 10-2025 7:00 PM MT / Oct 10-2025 9:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=115
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Sydney Swans W vs Carlton Blues W (Oct 11-2025 2:00 AM UK / Oct 10-2025 7:00 PM MT / Oct 10-2025 9:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=593
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Chicago Cubs vs Milwaukee Brewers (Oct 11-2025 12:08 AM UK / Oct 10-2025 5:08 PM MT / Oct 10-2025 7:08 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=336
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Chicago Cubs vs Milwaukee Brewers (Oct 11-2025 12:08 AM UK / Oct 10-2025 5:08 PM MT / Oct 10-2025 7:08 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=409
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Chicago Cubs vs Milwaukee Brewers (Oct 11-2025 12:08 AM UK / Oct 10-2025 5:08 PM MT / Oct 10-2025 7:08 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=150
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Chicago Cubs vs Milwaukee Brewers (Oct 11-2025 12:08 AM UK / Oct 10-2025 5:08 PM MT / Oct 10-2025 7:08 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=133
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBL : Adelaide vs Sydney (Oct 11-2025 8:55 AM UK / Oct 11-2025 1:55 AM MT / Oct 11-2025 3:55 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=102
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBL : Adelaide vs Sydney (Oct 11-2025 8:55 AM UK / Oct 11-2025 1:55 AM MT / Oct 11-2025 3:55 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=144
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,SÃ¼per Ligi : Bahcesehir Koleji vs Mersin BSB (Oct 11-2025 10:00 AM UK / Oct 11-2025 3:00 AM MT / Oct 11-2025 5:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=139
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,SÃ¼per Ligi : Tofas vs Turk Telekom (Oct 11-2025 12:30 PM UK / Oct 11-2025 5:30 AM MT / Oct 11-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=139
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,LKL : Lietuvos Rytas vs Lietkabelis (Oct 11-2025 1:50 PM UK / Oct 11-2025 6:50 AM MT / Oct 11-2025 8:50 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=101
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Portugal-LPB : Imortal BC vs. Vitoria Sport Clube (Oct 11-2025 2:00 PM UK / Oct 11-2025 7:00 AM MT / Oct 11-2025 9:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=455
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Romania-Liga Nationala : Rapid Bucuresti vs Dinamo Bucharest (Oct 11-2025 2:15 PM UK / Oct 11-2025 7:15 AM MT / Oct 11-2025 9:15 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=403
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,LPB : Imortal vs Vitoria (Oct 11-2025 3:00 PM UK / Oct 11-2025 8:00 AM MT / Oct 11-2025 10:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=455
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,KLS : Mladost Zemun vs Borac Zemun (Oct 11-2025 3:00 PM UK / Oct 11-2025 8:00 AM MT / Oct 11-2025 10:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=431
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Poland-PLK : Gornik Walbrzych vs. Slask Wroclaw (Oct 11-2025 3:30 PM UK / Oct 11-2025 8:30 AM MT / Oct 11-2025 10:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=50
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,ACB : Basquet Girona vs. CB Murcia (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=465
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,ACB : Basquet Girona vs. CB Murcia (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=103
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Bulgaria NBL : Balkan Botevgrad vs. Lokomotiv Plovdiv 1926 (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=473
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,ABA Liga : Kk Split vs. KK Partizan Nis Belgrade (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=134
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,ABA Liga : Kk Split vs. KK Partizan Nis Belgrade (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=432
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,ABA Liga : Spartak Subotica vs. BC Vienna (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=139
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Romania-Liga Nationala : CSM CSU Oradea vs. CS Valcea 1924 Rm Valcea (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=403
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Italy Serie A : Pallacanestro Varese vs. Olimpia Milano (Oct 11-2025 4:15 PM UK / Oct 11-2025 9:15 AM MT / Oct 11-2025 11:15 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=429
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Italy Serie A : Pallacanestro Varese vs. Olimpia Milano (Oct 11-2025 4:15 PM UK / Oct 11-2025 9:15 AM MT / Oct 11-2025 11:15 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=143
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,LNB : Boulazac vs Nancy (Oct 11-2025 4:20 PM UK / Oct 11-2025 9:20 AM MT / Oct 11-2025 11:20 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=146
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,LPB : Oliveirense vs FC Porto (Oct 11-2025 5:00 PM UK / Oct 11-2025 10:00 AM MT / Oct 11-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=455
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,BBL : Syntainics MBC vs Ulm (Oct 11-2025 6:00 PM UK / Oct 11-2025 11:00 AM MT / Oct 11-2025 1:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=146
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,ACB : Gran Canaria vs Unicaja (Oct 11-2025 6:00 PM UK / Oct 11-2025 11:00 AM MT / Oct 11-2025 1:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=430
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,ABA Liga : KK Buducnost Voli vs. KK Cedevita Olimpija Ljubljana (Oct 11-2025 6:00 PM UK / Oct 11-2025 11:00 AM MT / Oct 11-2025 1:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=139
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,ABA Liga : KK Buducnost Voli vs. KK Cedevita Olimpija Ljubljana (Oct 11-2025 6:00 PM UK / Oct 11-2025 11:00 AM MT / Oct 11-2025 1:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=432
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Portugal-Liga Feminina-Women : Clube Dos Galitos vs. Basquete C Barcelos (Oct 11-2025 8:00 PM UK / Oct 11-2025 1:00 PM MT / Oct 11-2025 3:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=455
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Women's Rapid League : Kahu vs Whai (Oct 11-2025 1:00 AM UK / Oct 10-2025 6:00 PM MT / Oct 10-2025 8:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=592
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Indiana Pacers vs Oklahoma City Thunder (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=404
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Los Angeles Kings vs Winnipeg Jets (Oct 11-2025 5:30 PM UK / Oct 11-2025 10:30 AM MT / Oct 11-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=113
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Los Angeles Kings vs Winnipeg Jets (Oct 11-2025 5:30 PM UK / Oct 11-2025 10:30 AM MT / Oct 11-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=833
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Los Angeles Kings vs Winnipeg Jets (Oct 11-2025 5:30 PM UK / Oct 11-2025 10:30 AM MT / Oct 11-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=438
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Los Angeles Kings vs Winnipeg Jets (Oct 11-2025 5:30 PM UK / Oct 11-2025 10:30 AM MT / Oct 11-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=559
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Los Angeles Kings vs Winnipeg Jets (Oct 11-2025 5:30 PM UK / Oct 11-2025 10:30 AM MT / Oct 11-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=557
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Los Angeles Kings vs Winnipeg Jets (Oct 11-2025 5:30 PM UK / Oct 11-2025 10:30 AM MT / Oct 11-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=290
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Los Angeles Kings vs Winnipeg Jets (Oct 11-2025 5:30 PM UK / Oct 11-2025 10:30 AM MT / Oct 11-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=117
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Los Angeles Kings vs Winnipeg Jets (Oct 11-2025 5:30 PM UK / Oct 11-2025 10:30 AM MT / Oct 11-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=472
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Los Angeles Kings vs Winnipeg Jets (Oct 11-2025 5:30 PM UK / Oct 11-2025 10:30 AM MT / Oct 11-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=906
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Los Angeles Kings vs Winnipeg Jets (Oct 11-2025 5:30 PM UK / Oct 11-2025 10:30 AM MT / Oct 11-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=433
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Los Angeles Kings vs Winnipeg Jets (Oct 11-2025 5:30 PM UK / Oct 11-2025 10:30 AM MT / Oct 11-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=223
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Los Angeles Kings vs Winnipeg Jets (Oct 11-2025 5:30 PM UK / Oct 11-2025 10:30 AM MT / Oct 11-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=82
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Los Angeles Kings vs Winnipeg Jets (Oct 11-2025 5:30 PM UK / Oct 11-2025 10:30 AM MT / Oct 11-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=147
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : St. Louis Blues vs Calgary Flames (Oct 11-2025 8:00 PM UK / Oct 11-2025 1:00 PM MT / Oct 11-2025 3:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=407
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : St. Louis Blues vs Calgary Flames (Oct 11-2025 8:00 PM UK / Oct 11-2025 1:00 PM MT / Oct 11-2025 3:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=408
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : St. Louis Blues vs Calgary Flames (Oct 11-2025 8:00 PM UK / Oct 11-2025 1:00 PM MT / Oct 11-2025 3:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=406
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : St. Louis Blues vs Calgary Flames (Oct 11-2025 8:00 PM UK / Oct 11-2025 1:00 PM MT / Oct 11-2025 3:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=557
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : St. Louis Blues vs Calgary Flames (Oct 11-2025 8:00 PM UK / Oct 11-2025 1:00 PM MT / Oct 11-2025 3:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=559
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : St. Louis Blues vs Calgary Flames (Oct 11-2025 8:00 PM UK / Oct 11-2025 1:00 PM MT / Oct 11-2025 3:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=556
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : St. Louis Blues vs Calgary Flames (Oct 11-2025 8:00 PM UK / Oct 11-2025 1:00 PM MT / Oct 11-2025 3:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=432
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : St. Louis Blues vs Calgary Flames (Oct 11-2025 8:00 PM UK / Oct 11-2025 1:00 PM MT / Oct 11-2025 3:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=223
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : St. Louis Blues vs Calgary Flames (Oct 11-2025 8:00 PM UK / Oct 11-2025 1:00 PM MT / Oct 11-2025 3:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=147
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Buffalo Sabres vs Boston Bruins (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=762
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Toronto Maple Leafs vs Detroit Red Wings (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=406
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Toronto Maple Leafs vs Detroit Red Wings (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=407
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Ottawa Senators vs Florida Panthers (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=411
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Washington Capitals vs New York Islanders (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=778
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Washington Capitals vs New York Islanders (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=550
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : New York Rangers vs Pittsburgh Penguins (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=922
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : New York Rangers vs Pittsburgh Penguins (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=765
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Philadelphia Flyers vs Carolina Hurricanes (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=777
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Philadelphia Flyers vs Carolina Hurricanes (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=809
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Montreal Canadiens vs Chicago Blackhawks (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=663
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Montreal Canadiens vs Chicago Blackhawks (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=833
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Montreal Canadiens vs Chicago Blackhawks (Oct 11-2025 11:00 PM UK / Oct 11-2025 4:00 PM MT / Oct 11-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=408
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Dallas Stars vs Colorado Avalanche (Oct 11-2025 1:00 AM UK / Oct 10-2025 6:00 PM MT / Oct 10-2025 8:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=923
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Vancouver Canucks vs Edmonton Oilers (Oct 11-2025 2:00 AM UK / Oct 10-2025 7:00 PM MT / Oct 10-2025 9:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=451
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Vancouver Canucks vs Edmonton Oilers (Oct 11-2025 2:00 AM UK / Oct 10-2025 7:00 PM MT / Oct 10-2025 9:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=408
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Vancouver Canucks vs Edmonton Oilers (Oct 11-2025 2:00 AM UK / Oct 10-2025 7:00 PM MT / Oct 10-2025 9:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=411
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Vancouver Canucks vs Edmonton Oilers (Oct 11-2025 2:00 AM UK / Oct 10-2025 7:00 PM MT / Oct 10-2025 9:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=406
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Vancouver Canucks vs Edmonton Oilers (Oct 11-2025 2:00 AM UK / Oct 10-2025 7:00 PM MT / Oct 10-2025 9:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=407
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Vancouver Canucks vs Edmonton Oilers (Oct 11-2025 2:00 AM UK / Oct 10-2025 7:00 PM MT / Oct 10-2025 9:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=557
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Vancouver Canucks vs Edmonton Oilers (Oct 11-2025 2:00 AM UK / Oct 10-2025 7:00 PM MT / Oct 10-2025 9:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=556
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Anaheim Ducks vs San Jose Sharks (Oct 11-2025 2:00 AM UK / Oct 10-2025 7:00 PM MT / Oct 10-2025 9:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=755
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Vegas Golden Knights vs Seattle Kraken (Oct 11-2025 2:00 AM UK / Oct 10-2025 7:00 PM MT / Oct 10-2025 9:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=809
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,SHL : Malmo vs Timra (Oct 11-2025 1:15 PM UK / Oct 11-2025 6:15 AM MT / Oct 11-2025 8:15 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=706
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,SHL : Lulea vs Vaxjo (Oct 11-2025 1:15 PM UK / Oct 11-2025 6:15 AM MT / Oct 11-2025 8:15 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=705
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,SHL : Leksands vs Djurgardens (Oct 11-2025 1:15 PM UK / Oct 11-2025 6:15 AM MT / Oct 11-2025 8:15 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=700
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,SHL : Frolunda vs Rogle (Oct 11-2025 1:15 PM UK / Oct 11-2025 6:15 AM MT / Oct 11-2025 8:15 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=704
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,SHL : Skelleftea vs HV 71 (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=705
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,SHL : Farjestad BK vs Orebro (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=700
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,SHL : Brynas vs Linkopings (Oct 11-2025 4:00 PM UK / Oct 11-2025 9:00 AM MT / Oct 11-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=704
+
