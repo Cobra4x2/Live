@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/DrewLive.xml.gz"
-# Last forced update: 2025-10-11T17:26:53.978342Z
+# Last forced update: 2025-10-12T01:53:38.872968Z
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Air Force vs UNLV
 https://saz.blitzen.store/ncaa2.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Alabama vs Missouri
@@ -16,10 +16,12 @@ https://saz.blitzen.store/ncaa9.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Ma
 https://saz.blitzen.store/nba3.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Charlotte vs Army
 https://saz.blitzen.store/ncaa2.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Chicago Cubs vs Milwaukee Brewers
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Chicago Cubs vs Milwaukee Brewers (Stream 1)
 https://saz.blitzen.store/mlb.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Chicago Cubs vs Milwaukee Brewers (Stream 2)
+https://saz.blitzen.store/mlbalt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Clemson vs Boston College
-https://fr.assadosoba.com.br/ncaa11.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
+https://saz.blitzen.store/ncaa11.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Florida vs Texas A&amp;M
 https://saz.blitzen.store/ncaa5.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Georgia vs Auburn
@@ -39,7 +41,7 @@ https://saz.blitzen.store/ncaa3.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Ma
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Louisiana vs James Madison
 https://saz.blitzen.store/ncaa9.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Michigan vs USC
-https://fr.assadosoba.com.br/ncaa13.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
+https://saz.blitzen.store/ncaa13.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png",NASCAR Cup Series
 https://saz.blitzen.store/nascar.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png",NASCAR Xfinity Series - Race
@@ -75,13 +77,11 @@ https://saz.blitzen.store/ncaa8.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Ma
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",UCF vs Cincinnati
 https://saz.blitzen.store/ncaa.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/ufc-logo.png",UFC Rio: Oliverira vs Gamrot (Stream 1)
-https://fr.assadosoba.com.br/ufc.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
+https://sluc.zaynic.my.id/ufc.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/ufc-logo.png",UFC Rio: Oliverira vs Gamrot (Stream 2)
 https://saz.blitzen.store/ufc.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/ufc-logo.png",UFC Rio: Oliverira vs Gamrot (Stream 3)
-https://fr.assadosoba.com.br/tnt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Virginia Tech vs Georgia Tech
-https://fr.assadosoba.com.br/ncaa11.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
+https://saz.blitzen.store/ncaa11.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png",WWE Crown Jewel
 https://saz.blitzen.store/wwe.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Wake Forest vs Oregon State
