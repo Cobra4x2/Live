@@ -89,3 +89,58 @@ https://live.webcastserver.online/hdstream/embed/434.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://mlbwebcast.com/
 https://embed.frpanels.top/hd100/hd100/135.m3u8
+#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Austin @ San Jose" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLSWebcast ⚽ - Live Games",Austin @ San Jose
+#EXTVLCOPT:http-referrer=https://mlswebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlswebcast.com/
+https://live.webcastserver.online/hdstream/embed/508.m3u8
+#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Chicago @ New England" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLSWebcast ⚽ - Live Games",Chicago @ New England
+#EXTVLCOPT:http-referrer=https://mlswebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlswebcast.com/
+https://live.webcastserver.online/hdstream/embed/500.m3u8
+#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="D.C. United @ Atlanta" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLSWebcast ⚽ - Live Games",D.C. United @ Atlanta
+#EXTVLCOPT:http-referrer=https://mlswebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlswebcast.com/
+https://live.webcastserver.online/hdstream/embed/484.m3u8
+#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Fc Dallas @ Vancouver" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLSWebcast ⚽ - Live Games",Fc Dallas @ Vancouver
+#EXTVLCOPT:http-referrer=https://mlswebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlswebcast.com/
+https://live.webcastserver.online/hdstream/embed/513.m3u8
+#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Houston @ Kansas City" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLSWebcast ⚽ - Live Games",Houston @ Kansas City
+#EXTVLCOPT:http-referrer=https://mlswebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlswebcast.com/
+https://live.webcastserver.online/hdstream/embed/510.m3u8
+#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Inter Miami @ Nashville" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLSWebcast ⚽ - Live Games",Inter Miami @ Nashville
+#EXTVLCOPT:http-referrer=https://mlswebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlswebcast.com/
+https://live.webcastserver.online/hdstream/embed/499.m3u8
+#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Los Angeles @ Colorado" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLSWebcast ⚽ - Live Games",Los Angeles @ Colorado
+#EXTVLCOPT:http-referrer=https://mlswebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlswebcast.com/
+https://live.webcastserver.online/hdstream/embed/489.m3u8
+#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Minnesota @ La Galaxy" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLSWebcast ⚽ - Live Games",Minnesota @ La Galaxy
+#EXTVLCOPT:http-referrer=https://mlswebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlswebcast.com/
+https://live.webcastserver.online/hdstream/embed/496.m3u8
+#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="New York Red @ Columbus" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLSWebcast ⚽ - Live Games",New York Red @ Columbus
+#EXTVLCOPT:http-referrer=https://mlswebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlswebcast.com/
+https://live.webcastserver.online/hdstream/embed/490.m3u8
+#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Real Salt @ St. Louis" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLSWebcast ⚽ - Live Games",Real Salt @ St. Louis
+#EXTVLCOPT:http-referrer=https://mlswebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlswebcast.com/
+https://live.webcastserver.online/hdstream/embed/511.m3u8
+#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="San Diego @ Portland" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLSWebcast ⚽ - Live Games",San Diego @ Portland
+#EXTVLCOPT:http-referrer=https://mlswebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlswebcast.com/
+https://live.webcastserver.online/hdstream/embed/505.m3u8
