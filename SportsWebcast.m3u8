@@ -1,24 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="49Ers @ Buccaneers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast 🏈 - Live Games",49Ers @ Buccaneers
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-https://live.webcastserver.online/newz/newz/56.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Bengals @ Packers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast 🏈 - Live Games",Bengals @ Packers
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-https://live.webcastserver.online/newz/newz/69.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Lions @ Chiefs" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast 🏈 - Live Games",Lions @ Chiefs
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 https://live.webcastserver.online/newz/newz/59.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Titans @ Raiders" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast 🏈 - Live Games",Titans @ Raiders
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-https://live.webcastserver.online/newz/newz/72.m3u8
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-us.png?raw=true" group-title="NFLWebcast 🏈 - 24/7 Channels",ESPN
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
