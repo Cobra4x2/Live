@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://drewlive24.duckdns.org:8081/DrewLive.xml.gz"
 
-# Generated on 2025-10-14T13:23:22.531617 UTC
+# Generated on 2025-10-14T18:42:34.199973 UTC
 
 # 📺 Source: http://daddylive-new.vercel.app/api/stream?playlist=true
 #EXTINF:-1  tvg-id="beINSports1.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" ,beIN SPORTS Australia 1
@@ -721,164 +721,138 @@ https://daddylive-new.vercel.app/api/stream?id=518
 https://daddylive-new.vercel.app/api/stream?id=519
 #EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-20)
 https://daddylive-new.vercel.app/api/stream?id=520
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE.png" ,WWE Monday Night RAW (Oct 13-2025 12:00 AM UK / Oct 12-2025 5:00 PM MT / Oct 12-2025 7:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=419
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE.png" ,WWE Monday Night RAW (Oct 13-2025 12:00 AM UK / Oct 12-2025 5:00 PM MT / Oct 12-2025 7:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=412
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE.png" ,WWE Monday Night RAW (Oct 13-2025 12:00 AM UK / Oct 12-2025 5:00 PM MT / Oct 12-2025 7:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=420
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" ,Judo: Lima Grand Prix Lima Grand Prix. Day 3 (Oct 13-2025 10:00 PM UK / Oct 13-2025 3:00 PM MT / Oct 13-2025 5:00 PM EST)
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,Dana White's Contender Series-Week 10 : Freddy Vidal vs Levi Rodrigues (Oct 14-2025 12:00 AM UK / Oct 13-2025 5:00 PM MT / Oct 13-2025 7:00 PM EST)
 https://daddylive-new.vercel.app/api/stream?id=119
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" ,Judo: Lima Grand Prix Lima Grand Prix. Day 3 (Oct 13-2025 10:00 PM UK / Oct 13-2025 3:00 PM MT / Oct 13-2025 5:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=74
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" ,Judo: Lima Grand Prix Lima Grand Prix. Day 3 (Oct 13-2025 10:00 PM UK / Oct 13-2025 3:00 PM MT / Oct 13-2025 5:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=80
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" ,Judo: Lima Grand Prix Lima Grand Prix. Day 3 (Oct 13-2025 10:00 PM UK / Oct 13-2025 3:00 PM MT / Oct 13-2025 5:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=145
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,CFL : Montreal Alouettes vs Ottawa Redblacks (Oct 13-2025 5:00 PM UK / Oct 13-2025 10:00 AM MT / Oct 13-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=308
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,CFL : Montreal Alouettes vs Ottawa Redblacks (Oct 13-2025 5:00 PM UK / Oct 13-2025 10:00 AM MT / Oct 13-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=839
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,CFL : Montreal Alouettes vs Ottawa Redblacks (Oct 13-2025 5:00 PM UK / Oct 13-2025 10:00 AM MT / Oct 13-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=114
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,CFL : Montreal Alouettes vs Ottawa Redblacks (Oct 13-2025 5:00 PM UK / Oct 13-2025 10:00 AM MT / Oct 13-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=111
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NFL : Atlanta Falcons vs Buffalo Bills (Oct 13-2025 11:15 PM UK / Oct 13-2025 4:15 PM MT / Oct 13-2025 6:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=44
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NFL : Atlanta Falcons vs Buffalo Bills (Oct 13-2025 11:15 PM UK / Oct 13-2025 4:15 PM MT / Oct 13-2025 6:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=38
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NFL : Atlanta Falcons vs Buffalo Bills (Oct 13-2025 11:15 PM UK / Oct 13-2025 4:15 PM MT / Oct 13-2025 6:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=37
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NFL : Atlanta Falcons vs Buffalo Bills (Oct 13-2025 11:15 PM UK / Oct 13-2025 4:15 PM MT / Oct 13-2025 6:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=114
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NFL : Atlanta Falcons vs Buffalo Bills (Oct 13-2025 11:15 PM UK / Oct 13-2025 4:15 PM MT / Oct 13-2025 6:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=111
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NFL : Atlanta Falcons vs Buffalo Bills (Oct 13-2025 11:15 PM UK / Oct 13-2025 4:15 PM MT / Oct 13-2025 6:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=840
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NFL : Atlanta Falcons vs Buffalo Bills (Oct 13-2025 11:15 PM UK / Oct 13-2025 4:15 PM MT / Oct 13-2025 6:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=116
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NFL : Atlanta Falcons vs Buffalo Bills (Oct 13-2025 11:15 PM UK / Oct 13-2025 4:15 PM MT / Oct 13-2025 6:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=375
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NFL : Atlanta Falcons vs Buffalo Bills (Oct 13-2025 11:15 PM UK / Oct 13-2025 4:15 PM MT / Oct 13-2025 6:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=386
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NFL : Atlanta Falcons vs Buffalo Bills (Oct 13-2025 11:15 PM UK / Oct 13-2025 4:15 PM MT / Oct 13-2025 6:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=134
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NFL : Atlanta Falcons vs Buffalo Bills (Oct 13-2025 11:15 PM UK / Oct 13-2025 4:15 PM MT / Oct 13-2025 6:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=150
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NFL : Atlanta Falcons vs Buffalo Bills (Oct 13-2025 11:15 PM UK / Oct 13-2025 4:15 PM MT / Oct 13-2025 6:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=82
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NFL : Washington Commanders vs Chicago Bears (Oct 13-2025 12:15 AM UK / Oct 12-2025 5:15 PM MT / Oct 12-2025 7:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=51
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NFL : Washington Commanders vs Chicago Bears (Oct 13-2025 12:15 AM UK / Oct 12-2025 5:15 PM MT / Oct 12-2025 7:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=766
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NFL : Washington Commanders vs Chicago Bears (Oct 13-2025 12:15 AM UK / Oct 12-2025 5:15 PM MT / Oct 12-2025 7:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=38
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NFL : Washington Commanders vs Chicago Bears (Oct 13-2025 12:15 AM UK / Oct 12-2025 5:15 PM MT / Oct 12-2025 7:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=840
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NFL : Washington Commanders vs Chicago Bears (Oct 13-2025 12:15 AM UK / Oct 12-2025 5:15 PM MT / Oct 12-2025 7:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=115
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NFL : Washington Commanders vs Chicago Bears (Oct 13-2025 12:15 AM UK / Oct 12-2025 5:15 PM MT / Oct 12-2025 7:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=113
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NFL : Washington Commanders vs Chicago Bears (Oct 13-2025 12:15 AM UK / Oct 12-2025 5:15 PM MT / Oct 12-2025 7:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=798
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NFL : Washington Commanders vs Chicago Bears (Oct 13-2025 12:15 AM UK / Oct 12-2025 5:15 PM MT / Oct 12-2025 7:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=85
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NFL : Washington Commanders vs Chicago Bears (Oct 13-2025 12:15 AM UK / Oct 12-2025 5:15 PM MT / Oct 12-2025 7:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=144
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,College Golf 2025 St Andrews Links Collegiate-First Round (Oct 13-2025 1:00 PM UK / Oct 13-2025 6:00 AM MT / Oct 13-2025 8:00 AM EST)
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,Dana White's Contender Series-Week 10 : Freddy Vidal vs Levi Rodrigues (Oct 14-2025 12:00 AM UK / Oct 13-2025 5:00 PM MT / Oct 13-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=409
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE.png" ,WWE NXT (Oct 14-2025 12:00 AM UK / Oct 13-2025 5:00 PM MT / Oct 13-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=300
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE.png" ,WWE NXT (Oct 14-2025 12:00 AM UK / Oct 13-2025 5:00 PM MT / Oct 13-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=280
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE.png" ,WWE NXT (Oct 14-2025 12:00 AM UK / Oct 13-2025 5:00 PM MT / Oct 13-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=418
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE.png" ,WWE NXT (Oct 14-2025 12:00 AM UK / Oct 13-2025 5:00 PM MT / Oct 13-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=412
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,College Golf 2025 St Andrews Links Collegiate-Second Round (Oct 14-2025 1:00 PM UK / Oct 14-2025 6:00 AM MT / Oct 14-2025 8:00 AM EST)
 https://daddylive-new.vercel.app/api/stream?id=318
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Seattle Mariners vs Toronto Blue Jays (Oct 13-2025 9:00 PM UK / Oct 13-2025 2:00 PM MT / Oct 13-2025 4:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=39
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Seattle Mariners vs Toronto Blue Jays (Oct 13-2025 9:00 PM UK / Oct 13-2025 2:00 PM MT / Oct 13-2025 4:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=643
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Seattle Mariners vs Toronto Blue Jays (Oct 13-2025 9:00 PM UK / Oct 13-2025 2:00 PM MT / Oct 13-2025 4:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=408
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Seattle Mariners vs Toronto Blue Jays (Oct 13-2025 9:00 PM UK / Oct 13-2025 2:00 PM MT / Oct 13-2025 4:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=406
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Seattle Mariners vs Toronto Blue Jays (Oct 13-2025 9:00 PM UK / Oct 13-2025 2:00 PM MT / Oct 13-2025 4:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=407
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Los Angeles Dodgers vs Milwaukee Brewers (Oct 13-2025 12:00 AM UK / Oct 12-2025 5:00 PM MT / Oct 12-2025 7:00 PM EST)
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,Golf Pass Academy Tour TPC Tampa Bay Live (Oct 14-2025 11:00 PM UK / Oct 14-2025 4:00 PM MT / Oct 14-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=318
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Los Angeles Dodgers vs Milwaukee Brewers (Oct 14-2025 12:00 AM UK / Oct 13-2025 5:00 PM MT / Oct 13-2025 7:00 PM EST)
 https://daddylive-new.vercel.app/api/stream?id=341
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Los Angeles Dodgers vs Milwaukee Brewers (Oct 13-2025 12:00 AM UK / Oct 12-2025 5:00 PM MT / Oct 12-2025 7:00 PM EST)
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Los Angeles Dodgers vs Milwaukee Brewers (Oct 14-2025 12:00 AM UK / Oct 13-2025 5:00 PM MT / Oct 13-2025 7:00 PM EST)
 https://daddylive-new.vercel.app/api/stream?id=336
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Super League : Maccabi Ra'anana vs Elitzur Netanya (Oct 13-2025 10:30 AM UK / Oct 13-2025 3:30 AM MT / Oct 13-2025 5:30 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=144
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,ABA League 2 : Cibona vs TFT Skopje (Oct 13-2025 4:00 PM UK / Oct 13-2025 9:00 AM MT / Oct 13-2025 11:00 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=430
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,ABA League 2 : Cibona vs TFT Skopje (Oct 13-2025 4:00 PM UK / Oct 13-2025 9:00 AM MT / Oct 13-2025 11:00 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=432
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Bulgaria NBL : Minyor 2015 vs Academic Bultex 99 Plovdiv (Oct 13-2025 4:15 PM UK / Oct 13-2025 9:15 AM MT / Oct 13-2025 11:15 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=473
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Women's College Basketball : Boston College vs Connecticut (Oct 13-2025 6:00 PM UK / Oct 13-2025 11:00 AM MT / Oct 13-2025 1:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=754
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Women's College Basketball : Boston College vs. Connecticut (Oct 13-2025 11:00 PM UK / Oct 13-2025 4:00 PM MT / Oct 13-2025 6:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=754
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Atlanta Hawks vs Miami Heat (Oct 13-2025 10:00 PM UK / Oct 13-2025 3:00 PM MT / Oct 13-2025 5:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=404
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Atlanta Hawks vs Miami Heat (Oct 13-2025 10:00 PM UK / Oct 13-2025 3:00 PM MT / Oct 13-2025 5:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=905
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : New York Knicks vs Washington Wizards (Oct 13-2025 11:30 PM UK / Oct 13-2025 4:30 PM MT / Oct 13-2025 6:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=765
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : New York Knicks vs Washington Wizards (Oct 13-2025 11:30 PM UK / Oct 13-2025 4:30 PM MT / Oct 13-2025 6:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=778
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Utah Jazz vs Dallas Mavericks (Oct 13-2025 1:00 AM UK / Oct 12-2025 6:00 PM MT / Oct 12-2025 8:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=404
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,KHL : SKA St. Petersburg vs Yekaterinburg (Oct 13-2025 4:30 PM UK / Oct 13-2025 9:30 AM MT / Oct 13-2025 11:30 AM EST)
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Los Angeles Dodgers vs Milwaukee Brewers (Oct 14-2025 12:00 AM UK / Oct 13-2025 5:00 PM MT / Oct 13-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=133
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,United League : Enisey Krasnoyarsk vs. BC Uniks Kazan (Oct 14-2025 12:30 PM UK / Oct 14-2025 5:30 AM MT / Oct 14-2025 7:30 AM EST)
 https://daddylive-new.vercel.app/api/stream?id=127
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,KHL : SKA St. Petersburg vs Yekaterinburg (Oct 13-2025 4:30 PM UK / Oct 13-2025 9:30 AM MT / Oct 13-2025 11:30 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=431
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Colorado Avalanche vs Buffalo Sabres (Oct 13-2025 4:30 PM UK / Oct 13-2025 9:30 AM MT / Oct 13-2025 11:30 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=550
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Colorado Avalanche vs Buffalo Sabres (Oct 13-2025 4:30 PM UK / Oct 13-2025 9:30 AM MT / Oct 13-2025 11:30 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=923
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Colorado Avalanche vs Buffalo Sabres (Oct 13-2025 4:30 PM UK / Oct 13-2025 9:30 AM MT / Oct 13-2025 11:30 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=809
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Tampa Bay Lightning vs Boston Bruins (Oct 13-2025 5:00 PM UK / Oct 13-2025 10:00 AM MT / Oct 13-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=762
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Tampa Bay Lightning vs Boston Bruins (Oct 13-2025 5:00 PM UK / Oct 13-2025 10:00 AM MT / Oct 13-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=663
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Tampa Bay Lightning vs Boston Bruins (Oct 13-2025 5:00 PM UK / Oct 13-2025 10:00 AM MT / Oct 13-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=559
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Tampa Bay Lightning vs Boston Bruins (Oct 13-2025 5:00 PM UK / Oct 13-2025 10:00 AM MT / Oct 13-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=557
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Tampa Bay Lightning vs Boston Bruins (Oct 13-2025 5:00 PM UK / Oct 13-2025 10:00 AM MT / Oct 13-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=556
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Tampa Bay Lightning vs Boston Bruins (Oct 13-2025 5:00 PM UK / Oct 13-2025 10:00 AM MT / Oct 13-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=83
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Nashville Predators vs Ottawa Senators (Oct 13-2025 5:00 PM UK / Oct 13-2025 10:00 AM MT / Oct 13-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=903
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Nashville Predators vs Ottawa Senators (Oct 13-2025 5:00 PM UK / Oct 13-2025 10:00 AM MT / Oct 13-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=118
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Nashville Predators vs Ottawa Senators (Oct 13-2025 5:00 PM UK / Oct 13-2025 10:00 AM MT / Oct 13-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=115
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Nashville Predators vs Ottawa Senators (Oct 13-2025 5:00 PM UK / Oct 13-2025 10:00 AM MT / Oct 13-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=840
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Nashville Predators vs Ottawa Senators (Oct 13-2025 5:00 PM UK / Oct 13-2025 10:00 AM MT / Oct 13-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=472
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Winnipeg Jets vs New York Islanders (Oct 13-2025 5:00 PM UK / Oct 13-2025 10:00 AM MT / Oct 13-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=113
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Detroit Red Wings vs Toronto Maple Leafs (Oct 13-2025 8:00 PM UK / Oct 13-2025 1:00 PM MT / Oct 13-2025 3:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=559
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Detroit Red Wings vs Toronto Maple Leafs (Oct 13-2025 8:00 PM UK / Oct 13-2025 1:00 PM MT / Oct 13-2025 3:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=891
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Detroit Red Wings vs Toronto Maple Leafs (Oct 13-2025 8:00 PM UK / Oct 13-2025 1:00 PM MT / Oct 13-2025 3:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=834
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Detroit Red Wings vs Toronto Maple Leafs (Oct 13-2025 8:00 PM UK / Oct 13-2025 1:00 PM MT / Oct 13-2025 3:00 PM EST)
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,United League : Enisey Krasnoyarsk vs. BC Uniks Kazan (Oct 14-2025 12:30 PM UK / Oct 14-2025 5:30 AM MT / Oct 14-2025 7:30 AM EST)
 https://daddylive-new.vercel.app/api/stream?id=432
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Detroit Red Wings vs Toronto Maple Leafs (Oct 13-2025 8:00 PM UK / Oct 13-2025 1:00 PM MT / Oct 13-2025 3:00 PM EST)
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,European North Basketball League : Alkar vs Voluntari (Oct 14-2025 3:55 PM UK / Oct 14-2025 8:55 AM MT / Oct 14-2025 10:55 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=779
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Eurocup : Turk Telekom vs Buducnost (Oct 14-2025 4:00 PM UK / Oct 14-2025 9:00 AM MT / Oct 14-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=135
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Eurocup : Turk Telekom vs Buducnost (Oct 14-2025 4:00 PM UK / Oct 14-2025 9:00 AM MT / Oct 14-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=142
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Eurocup : Cedevita Olimpija vs Aris (Oct 14-2025 4:30 PM UK / Oct 14-2025 9:30 AM MT / Oct 14-2025 11:30 AM EST)
 https://daddylive-new.vercel.app/api/stream?id=429
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Detroit Red Wings vs Toronto Maple Leafs (Oct 13-2025 8:00 PM UK / Oct 13-2025 1:00 PM MT / Oct 13-2025 3:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=557
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Detroit Red Wings vs Toronto Maple Leafs (Oct 13-2025 8:00 PM UK / Oct 13-2025 1:00 PM MT / Oct 13-2025 3:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=556
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Detroit Red Wings vs Toronto Maple Leafs (Oct 13-2025 8:00 PM UK / Oct 13-2025 1:00 PM MT / Oct 13-2025 3:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=809
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Florida Panthers vs Philadelphia Flyers (Oct 13-2025 11:00 PM UK / Oct 13-2025 4:00 PM MT / Oct 13-2025 6:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=777
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Florida Panthers vs Philadelphia Flyers (Oct 13-2025 11:00 PM UK / Oct 13-2025 4:00 PM MT / Oct 13-2025 6:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=833
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Florida Panthers vs Philadelphia Flyers (Oct 13-2025 11:00 PM UK / Oct 13-2025 4:00 PM MT / Oct 13-2025 6:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=809
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : New Jersey Devils vs Columbus Blue Jackets (Oct 13-2025 11:00 PM UK / Oct 13-2025 4:00 PM MT / Oct 13-2025 6:00 PM EST)
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Eurocup : Cedevita Olimpija vs Aris (Oct 14-2025 4:30 PM UK / Oct 14-2025 9:30 AM MT / Oct 14-2025 11:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=635
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Eurocup : Cedevita Olimpija vs Aris (Oct 14-2025 4:30 PM UK / Oct 14-2025 9:30 AM MT / Oct 14-2025 11:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=101
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Champions League : Hapoel Holon vs Joventut Badalona (Oct 14-2025 4:30 PM UK / Oct 14-2025 9:30 AM MT / Oct 14-2025 11:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=146
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Maccabi Tel Aviv vs Barcelona (Oct 14-2025 5:00 PM UK / Oct 14-2025 10:00 AM MT / Oct 14-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=521
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Maccabi Tel Aviv vs Barcelona (Oct 14-2025 5:00 PM UK / Oct 14-2025 10:00 AM MT / Oct 14-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=139
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Maccabi Tel Aviv vs Barcelona (Oct 14-2025 5:00 PM UK / Oct 14-2025 10:00 AM MT / Oct 14-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=636
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Maccabi Tel Aviv vs Barcelona (Oct 14-2025 5:00 PM UK / Oct 14-2025 10:00 AM MT / Oct 14-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=474
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Maccabi Tel Aviv vs Barcelona (Oct 14-2025 5:00 PM UK / Oct 14-2025 10:00 AM MT / Oct 14-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=104
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Maccabi Tel Aviv vs Barcelona (Oct 14-2025 5:00 PM UK / Oct 14-2025 10:00 AM MT / Oct 14-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=145
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Fenerbahce vs Dubai (Oct 14-2025 5:45 PM UK / Oct 14-2025 10:45 AM MT / Oct 14-2025 12:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=436
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Fenerbahce vs Dubai (Oct 14-2025 5:45 PM UK / Oct 14-2025 10:45 AM MT / Oct 14-2025 12:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=430
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Fenerbahce vs Dubai (Oct 14-2025 5:45 PM UK / Oct 14-2025 10:45 AM MT / Oct 14-2025 12:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=632
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Crvena zvezda vs Zalgiris Kaunas (Oct 14-2025 6:00 PM UK / Oct 14-2025 11:00 AM MT / Oct 14-2025 1:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=526
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Crvena zvezda vs Zalgiris Kaunas (Oct 14-2025 6:00 PM UK / Oct 14-2025 11:00 AM MT / Oct 14-2025 1:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=134
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Crvena zvezda vs Zalgiris Kaunas (Oct 14-2025 6:00 PM UK / Oct 14-2025 11:00 AM MT / Oct 14-2025 1:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=633
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Olympiakos vs Anadolu Efes (Oct 14-2025 6:15 PM UK / Oct 14-2025 11:15 AM MT / Oct 14-2025 1:15 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=438
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Olympiakos vs Anadolu Efes (Oct 14-2025 6:15 PM UK / Oct 14-2025 11:15 AM MT / Oct 14-2025 1:15 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=431
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Olympiakos vs Anadolu Efes (Oct 14-2025 6:15 PM UK / Oct 14-2025 11:15 AM MT / Oct 14-2025 1:15 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=634
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Olympiakos vs Anadolu Efes (Oct 14-2025 6:15 PM UK / Oct 14-2025 11:15 AM MT / Oct 14-2025 1:15 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=473
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Bayern Munich vs. Olimpia Milano (Oct 14-2025 6:30 PM UK / Oct 14-2025 11:30 AM MT / Oct 14-2025 1:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=527
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Bayern Munich vs. Olimpia Milano (Oct 14-2025 6:30 PM UK / Oct 14-2025 11:30 AM MT / Oct 14-2025 1:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=637
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Bayern Munich vs. Olimpia Milano (Oct 14-2025 6:30 PM UK / Oct 14-2025 11:30 AM MT / Oct 14-2025 1:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=475
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Champions League : Tofas SK Bursa vs. Trapani Shark (Oct 14-2025 6:30 PM UK / Oct 14-2025 11:30 AM MT / Oct 14-2025 1:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=433
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Champions League : CB 1939 Canarias vs. Bnei Herzelia (Oct 14-2025 7:00 PM UK / Oct 14-2025 12:00 PM MT / Oct 14-2025 2:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=580
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Champions League : CB 1939 Canarias vs. Bnei Herzelia (Oct 14-2025 7:00 PM UK / Oct 14-2025 12:00 PM MT / Oct 14-2025 2:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=146
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Champions League : CB 1939 Canarias vs. Bnei Herzelia (Oct 14-2025 7:00 PM UK / Oct 14-2025 12:00 PM MT / Oct 14-2025 2:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=145
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,EuroCup Women : Elitzur Ramla W vs Uniao Sportiva W (Oct 14-2025 8:30 PM UK / Oct 14-2025 1:30 PM MT / Oct 14-2025 3:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=145
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Cleveland Cavaliers vs Detroit Pistons (Oct 14-2025 11:00 PM UK / Oct 14-2025 4:00 PM MT / Oct 14-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=82
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Milwaukee Bucks vs Oklahoma City Thunder (Oct 14-2025 12:00 AM UK / Oct 13-2025 5:00 PM MT / Oct 13-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=36
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : New Orleans Pelicans vs Houston Rockets (Oct 14-2025 12:00 AM UK / Oct 13-2025 5:00 PM MT / Oct 13-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=921
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,Champions Hockey League : Ilves Tampere vs. ZSC Lions Zurich (Oct 14-2025 3:30 PM UK / Oct 14-2025 8:30 AM MT / Oct 14-2025 10:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=580
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,Champions Hockey League : Ilves Tampere vs. ZSC Lions Zurich (Oct 14-2025 3:30 PM UK / Oct 14-2025 8:30 AM MT / Oct 14-2025 10:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=129
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Nashville Predators vs Toronto Maple Leafs (Oct 14-2025 11:00 PM UK / Oct 14-2025 4:00 PM MT / Oct 14-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=114
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Edmonton Oilers vs New York Rangers (Oct 14-2025 11:00 PM UK / Oct 14-2025 4:00 PM MT / Oct 14-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=550
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Edmonton Oilers vs New York Rangers (Oct 14-2025 11:00 PM UK / Oct 14-2025 4:00 PM MT / Oct 14-2025 6:00 PM EST)
 https://daddylive-new.vercel.app/api/stream?id=765
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Edmonton Oilers vs New York Rangers (Oct 14-2025 11:00 PM UK / Oct 14-2025 4:00 PM MT / Oct 14-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=407
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Edmonton Oilers vs New York Rangers (Oct 14-2025 11:00 PM UK / Oct 14-2025 4:00 PM MT / Oct 14-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=556
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Edmonton Oilers vs New York Rangers (Oct 14-2025 11:00 PM UK / Oct 14-2025 4:00 PM MT / Oct 14-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=557
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Edmonton Oilers vs New York Rangers (Oct 14-2025 11:00 PM UK / Oct 14-2025 4:00 PM MT / Oct 14-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=289
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Seattle Kraken vs Montreal Canadiens (Oct 14-2025 11:00 PM UK / Oct 14-2025 4:00 PM MT / Oct 14-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=112
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Seattle Kraken vs Montreal Canadiens (Oct 14-2025 11:00 PM UK / Oct 14-2025 4:00 PM MT / Oct 14-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=494
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Tampa Bay Lightning vs Washington Capitals (Oct 14-2025 11:00 PM UK / Oct 14-2025 4:00 PM MT / Oct 14-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=44
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Tampa Bay Lightning vs Washington Capitals (Oct 14-2025 11:00 PM UK / Oct 14-2025 4:00 PM MT / Oct 14-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=778
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Tampa Bay Lightning vs Washington Capitals (Oct 14-2025 11:00 PM UK / Oct 14-2025 4:00 PM MT / Oct 14-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=809
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Tampa Bay Lightning vs Washington Capitals (Oct 14-2025 11:00 PM UK / Oct 14-2025 4:00 PM MT / Oct 14-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=82
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Vegas Golden Knights vs Calgary Flames (Oct 14-2025 1:00 AM UK / Oct 13-2025 6:00 PM MT / Oct 13-2025 8:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=411
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Vegas Golden Knights vs Calgary Flames (Oct 14-2025 1:00 AM UK / Oct 13-2025 6:00 PM MT / Oct 13-2025 8:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=451
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Minnesota Wild vs Dallas Stars (Oct 14-2025 1:30 AM UK / Oct 13-2025 6:30 PM MT / Oct 13-2025 8:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=44
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Carolina Hurricanes vs San Jose Sharks (Oct 14-2025 2:00 AM UK / Oct 13-2025 7:00 PM MT / Oct 13-2025 9:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=755
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Pittsburgh Penguins vs Anaheim Ducks (Oct 14-2025 2:30 AM UK / Oct 13-2025 7:30 PM MT / Oct 13-2025 9:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=922
 
