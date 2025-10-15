@@ -1,19 +1,55 @@
 #EXTM3U x-tvg-url="http://drewlive24.duckdns.org:8081/DrewLive.xml.gz"
 
-# Generated on 2025-10-15T11:28:09.181182 UTC
+# Generated on 2025-10-15T17:57:16.388229 UTC
 
 # 📺 Source: Webcast
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" ,Penguins - Ducks  October 14, 2025 (AWAY)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" ,Blackhawks - Blues  October 15, 2025 (AWAY)
 #EXTVLCOPT:http-origin=https://nhlwebcast.com
 #EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/newz/newz/99.m3u8
+https://live.webcastserver.online/newz/newz/85.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" ,Penguins - Ducks  October 14, 2025 (HOME)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" ,Blackhawks - Blues  October 15, 2025 (HOME)
 #EXTVLCOPT:http-origin=https://nhlwebcast.com
 #EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/newz/newz/90.m3u8
+https://live.webcastserver.online/newz/newz/86.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" ,Flames - Utah  October 15, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://nhlwebcast.com
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/newz/newz/91.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" ,Flames - Utah  October 15, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://nhlwebcast.com
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/newz/newz/89.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" ,Panthers - Wings  October 15, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://nhlwebcast.com
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/newz/newz/170.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" ,Panthers - Wings  October 15, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://nhlwebcast.com
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/newz/newz/178.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" ,Senators - Sabres  October 15, 2025 (AWAY)
+#EXTVLCOPT:http-origin=https://nhlwebcast.com
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/newz/newz/102.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" ,Senators - Sabres  October 15, 2025 (HOME)
+#EXTVLCOPT:http-origin=https://nhlwebcast.com
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/newz/newz/101.m3u8
 
 
 # 📺 Source: Webcast
@@ -31,90 +67,66 @@ https://live.webcastserver.online/newz/newz/52.m3u8
 
 
 # 📺 Source: Webcast
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Dodgers - Brewers  October 14, 2025 (AWAY)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Jays - Mariners  October 15, 2025 (AWAY)
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/newz/newz/133.m3u8
+https://live.webcastserver.online/newz/newz/125.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Dodgers - Brewers  October 14, 2025 (HOME)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" ,Jays - Mariners  October 15, 2025 (HOME)
 #EXTVLCOPT:http-origin=https://mlbwebcast.com
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/newz/newz/130.m3u8
+https://live.webcastserver.online/newz/newz/110.m3u8
 
 
 # 📺 Source: Webcast
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,Chicago Bulls - Denver Nuggets (AWAY)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,Dallas Mavericks - Los Angeles Lakers (AWAY)
 #EXTVLCOPT:http-origin=https://nbawebcast.app/
 #EXTVLCOPT:http-referrer=https://nbawebcast.app//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/hdstream/embed/166.m3u8
+https://live.webcastserver.online/hdstream/embed/156.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,Chicago Bulls - Denver Nuggets (HOME)
-#EXTVLCOPT:http-origin=https://nbawebcast.app/
-#EXTVLCOPT:http-referrer=https://nbawebcast.app//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/hdstream/embed/157.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,Detroit Pistons - Cleveland Cavaliers (AWAY)
-#EXTVLCOPT:http-origin=https://nbawebcast.app/
-#EXTVLCOPT:http-referrer=https://nbawebcast.app//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/hdstream/embed/158.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,Detroit Pistons - Cleveland Cavaliers (HOME)
-#EXTVLCOPT:http-origin=https://nbawebcast.app/
-#EXTVLCOPT:http-referrer=https://nbawebcast.app//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/hdstream/embed/167.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,Golden State Warriors - Portland Trail Blazers (AWAY)
-#EXTVLCOPT:http-origin=https://nbawebcast.app/
-#EXTVLCOPT:http-referrer=https://nbawebcast.app//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/hdstream/embed/159.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,Golden State Warriors - Portland Trail Blazers (HOME)
-#EXTVLCOPT:http-origin=https://nbawebcast.app/
-#EXTVLCOPT:http-referrer=https://nbawebcast.app//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/hdstream/embed/145.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,Houston Rockets - New Orleans Pelicans (AWAY)
-#EXTVLCOPT:http-origin=https://nbawebcast.app/
-#EXTVLCOPT:http-referrer=https://nbawebcast.app//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/hdstream/embed/160.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,Houston Rockets - New Orleans Pelicans (HOME)
-#EXTVLCOPT:http-origin=https://nbawebcast.app/
-#EXTVLCOPT:http-referrer=https://nbawebcast.app//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/hdstream/embed/150.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,Los Angeles Lakers - Phoenix Suns (AWAY)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,Dallas Mavericks - Los Angeles Lakers (HOME)
 #EXTVLCOPT:http-origin=https://nbawebcast.app/
 #EXTVLCOPT:http-referrer=https://nbawebcast.app//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/163.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,Los Angeles Lakers - Phoenix Suns (HOME)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,La Clippers - Sacramento Kings (AWAY)
 #EXTVLCOPT:http-origin=https://nbawebcast.app/
 #EXTVLCOPT:http-referrer=https://nbawebcast.app//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/hdstream/embed/155.m3u8
+https://live.webcastserver.online/hdstream/embed/162.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,Oklahoma City Thunder - Milwaukee Bucks (AWAY)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,La Clippers - Sacramento Kings (HOME)
 #EXTVLCOPT:http-origin=https://nbawebcast.app/
 #EXTVLCOPT:http-referrer=https://nbawebcast.app//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/hdstream/embed/520.m3u8
+https://live.webcastserver.online/hdstream/embed/144.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,Oklahoma City Thunder - Milwaukee Bucks (HOME)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,Memphis Grizzlies - Charlotte Hornets (AWAY)
 #EXTVLCOPT:http-origin=https://nbawebcast.app/
 #EXTVLCOPT:http-referrer=https://nbawebcast.app//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.webcastserver.online/hdstream/embed/148.m3u8
+https://live.webcastserver.online/hdstream/embed/146.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,Memphis Grizzlies - Charlotte Hornets (HOME)
+#EXTVLCOPT:http-origin=https://nbawebcast.app/
+#EXTVLCOPT:http-referrer=https://nbawebcast.app//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/165.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,Toronto Raptors - Boston Celtics (AWAY)
+#EXTVLCOPT:http-origin=https://nbawebcast.app/
+#EXTVLCOPT:http-referrer=https://nbawebcast.app//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/142.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" ,Toronto Raptors - Boston Celtics (HOME)
+#EXTVLCOPT:http-origin=https://nbawebcast.app/
+#EXTVLCOPT:http-referrer=https://nbawebcast.app//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/138.m3u8
 
 
