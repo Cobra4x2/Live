@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/DrewLive.xml.gz"
-# Last forced update: 2025-10-15T00:07:50.415294Z
+# Last forced update: 2025-10-15T04:19:24.949145Z
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sports" tvg-logo="https://i.imgur.com/3XIe0au.png",🌍 Intro 🌍
 https://7pal.short.gy/intro
 --- 📺 Sports | 4K UHD
@@ -115,7 +115,7 @@ https://7pal.short.gy/fox503au
 https://7pal.short.gy/fox504au
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sports" tvg-logo="https://i.imgur.com/pnrLdcb.png", Fox Sports 505
 https://7pal.short.gy/fox505au
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sports" tvg-logo="https://i.imgur.com/XkOpNPe.png, Fox Sports 506
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sports" tvg-logo="https://i.imgur.com/XkOpNPe.png", Fox Sports 506
 https://7pal.short.gy/fox506au
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sports" tvg-logo="https://i.imgur.com/PeDP6zC.png", Fox Sports 507
 https://7pal.short.gy/fox507au
