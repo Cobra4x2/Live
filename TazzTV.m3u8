@@ -1,39 +1,55 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/DrewLive.xml.gz"
-# Last forced update: 2025-10-15T18:01:20.636221Z
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/138.png",AS Monaco Basket - Virtus Bologna [EUROLEAGUE HD 2]
-https://world-proxifier.xyz/tazz/p/CIDHACB5FI2DGKTSBESCUWSXI4KB2EDGLEQSCJJWOIDDUPBKGUSSI4Y3CJ3ECQS7LRKTEMRFEBZAYELQO5ZGC33ZLFDEORCDBIPR6PRUEMQCAN33GY3TOLRREMPUUSSOD5CFCSRJGMRCAN3KEU4DK3J6PA6EIQC4AY/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/138.png",Lyon-Villeurbanne - Panathinaikos BC [EUROLEAGUE HD 1]
-https://world-proxifier.xyz/tazz/p/D4WD6K37CI6DYKJXHY3TWUC4LVIRAHIQMAZDWMJRHIWTWMJMHESDM6LTOEMR4EDVIVBDYOJVEQ2TCMDQBULGW5DZDMMBGXCEIRAEG2L2P4UDGNZQEI3HYLJXHRKEMSI2JBEUUHZHGQVD6NBWGA2WWIRDGVTEID2WIFBF6AI/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png",Scottish Open - Snooker [MAX-1]
-https://world-proxifier.xyz/tazz/p/AA3D6MJGFUTDQZI5HMQDOEI7CNTV4X27LM3CO6TPOIERICDIMNVW64YRLJDUAQCDBIPXYOBRGY3TMJT6EMQC4IBNJMOEWTKKD5CFCKJPGY3TOIL3EAWSE5BQMR6HG2YZAE/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png",Scottish Open - Snooker [MAX-2]
-https://world-proxifier.xyz/tazz/p/AA3D6MJGFUTDQZI5HMQDOEI7CNTV4X27LM3CO6TPOIERICDIMBVW64YRLJDUAQCDBIPXYOBRGY3TMJT6EMQC4IBNJMOEWTKKD5CFCKJPGY3TOIL3EAWSE5BQMR6HG2YZAI/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png",Scottish Open - Snooker [MAX-3]
-https://world-proxifier.xyz/tazz/p/AA3D6MJGFUTDQZI5HMQDOEI7CNTV4X27LM3CO6TPOIERICDIMFVW64YRLJDUAQCDBIPXYOBRGY3TMJT6EMQC4IBNJMOEWTKKD5CFCKJPGY3TOIL3EAWSE5BQMR6HG2YZAM/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/ZcAnvpiyMwEibgdjvoNtwHfgqWcJbqmFuq5WQOfVKRH9KPXqg4.png",Scottish Open - Snooker [MAX-4]
-https://world-proxifier.xyz/tazz/p/AA3D6MJGFUTDQZI5HMQDOEI7CNTV4X27LM3CO6TPOIERICDIMZVW64YRLJDUAQCDBIPXYOBRGY3TMJT6EMQC4IBNJMOEWTKKD5CFCKJPGY3TOIL3EAWSE5BQMR6HG2YZAQ/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/Zotqge7C7Rza2Y92mzFtJEAsdYLmLqqZaTCPGIevKu9zlfJOkA.png",SKN St. Pölten W - Olympique Lyonnais W [PARAMOUNT-EVENT-1]
-https://world-proxifier.xyz/tazz/p/AAPB4ZIBGB5XAFMR7UUS2VC4CNRRAHIQP47SYPJVHM2SANLFDYZCUN27KNNEOEDHDINHGBJRG4ZSSORFFMTGMAAPOR6GOGIBCANBU4Z5EQYSEN3PP5VD6KRWHRBUCHKSIJKVKRBJPMUDYKDLEEYT6KBNG46FIHCDLRAA6RINAM2CEJB7FMQD4ML7BYJRY73GDYCQ/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/Zotqge7C7Rza2Y92mzFtJEAsdYLmLqqZaTCPGIevKu9zlfJOkA.png",SKN St. Pölten W - Olympique Lyonnais W [ESPN DEPORTES]
-https://world-proxifier.xyz/tazz/p/AAPB4ZIBGB5XAFMR7UUS2VC4CNRRAHIQP47SYPJVHM2SANLFDYZCUN27KNNEOEDHDINHGEADCUOGIEJVGU6TSMJ4IIJBSHQQLBCEIIZGNJVH2KJUEMQCAODLH5BVOVSAJIPEQSJJPISCIKB6GMRCAN3FGUYUCDKGBFKUGQC6G4YCAKRAGAYCG/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/Zotqge7C7Rza2Y92mzFtJEAsdYLmLqqZaTCPGIevKu9zlfJOkA.png",VfL Wolfsburg W - Vålerenga W [PARAMOUNT-EVENT-2]
-https://world-proxifier.xyz/tazz/p/AUZRYZIFFM4TMNRQHY3T4ELFCMMRAZXTSU7TAIRAHQRTI4ASPBQWKCKQIBJFSX2FLZCH4EAGAAOBA6DCMV4GCZJRIVDEGRYKD4PV2MRGGU3SC2RTEIQDOPZ7O5EUWSI3IRIUUSRVE42SA7BUHUQHUJ3WCU4EGU26LNCV4RA5CYBRKCYGNFTQ/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FZ1HbdtymeW3Qi4B6Hm4dgDZLBmKjo2ePpzFly6DfzJ07OzfPR.png",Comesaña F. - Collignon R. [TENNIS 9]
-https://world-proxifier.xyz/tazz/p/CA5D2IBBEWLOCJDSBVVXSHASOBNVYXCZK46TUPTFABVH66TFAYXCWN2YIEJQ2EA2DIIDWIJEGUQX46T7FAZTQIBLIIOFKRSVKVCEU7JNFE7X2MBUFI7TIOJAHQPUEW2EB5CQ2RBWHM7CYIL5/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FZ1HbdtymeW3Qi4B6Hm4dgDZLBmKjo2ePpzFly6DfzJ07OzfPR.png",Comesaña F. - Collignon R. [TENNIS CHANNEL 2]
-https://world-proxifier.xyz/tazz/p/CA5D2IBBEWLOCJDSBVVXSHASOBNVYXCZK46TUPTFABVH66TFAYXCWN2YIEJXOWCRLZPDMOLQO5ZG473QFUTD6NJKBMORYWKRINKUEID3GY3TOIJBFJVSUMR7OZCVGSKOKZBFKVL5EU4DK3JRNASCAPBFFQVFEWQB/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FZ1HbdtymeW3Qi4B6Hm4dgDZLBmKjo2ePpzFly6DfzJ07OzfPR.png",Comesaña F. - Collignon R. [SKY SPORTS + HD]
-https://world-proxifier.xyz/tazz/p/CA5D2IBBEWLOCJDSBVVXSHASOBNVYXCZK46TUPTFABVH66TFAEQDY6LCIJOEMRCDCANXGHIUMV4G45JYGETDWNTDDYOV4VKDKVBEG7JTEIQDOMBPPY6SWMLKFVIEQSKSIJKVKHRDHUQHUJ3ZEY5TYIRHGAVA/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/FZ1HbdtymeW3Qi4B6Hm4dgDZLBmKjo2ePpzFly6DfzJ07OzfPR.png",Davidovich Fokina A. - Giron M. [TENNIS 9]
-https://world-proxifier.xyz/tazz/p/C42CMLBWFMRTSJR2NMBTMWS3LVKRA4I6CB7HKFZMEAVTW4AIPRQW66LFK5OVUWKDCAEXG732MU5DAIJAGZUGI2RUKBAVMRSDDZLEENRQEQ7XYPBMFJVCMKR7ENLUAVSRDZAFQQDMEBWTCNZKHM4TM2Y/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/CXDd4Cs9yWTuGTd0wn9ib0FnI4qq3GiguNp8JqQJJ5UpnZzyqQ.png",Ruud C. - Čilić M. [TENNIS 10]
-https://world-proxifier.xyz/tazz/p/AEQCKILSA55XA2DSR7ETAXK366ZRA7I6DJ4XKBBAHQVDYI3FMN5WK4Y3CJNUARCAIMFHY6R5EQQSCJZDNM2DSIB4IVEB2TCJJIPUIMRPFIRSAIJQPY2TUO32FQGEMVS2LZMUGALD/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/CXDd4Cs9yWTuGTd0wn9ib0FnI4qq3GiguNp8JqQJJ5UpnZzyqQ.png",Ruud C. - Čilić M. [TENNIS CHANNEL]
-https://world-proxifier.xyz/tazz/p/AEQCKILSA55XA2DSR7ETAXK366ZRA7I6DJ4XKBBAHQVDYI3FCERSIN27K5PRIGQ2CBMCOIJAGZUGW6R5EQQS4NZKD5KECUKVIRFB4KZMFJVCMJJPFIRSALRAO5AVUQYLIUGUIVJ5HM4TMMJM/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/CXDd4Cs9yWTuGTd0wn9ib0FnI4qq3GiguNp8JqQJJ5UpnZzyqQ.png",Ruud C. - Čilić M. [SKY SPORTS TENNIS HD]
-https://world-proxifier.xyz/tazz/p/AEQCKILSA55XA2DSR7ETAXK366ZRA7I6DJ4XKAZOFNSAMIBKEA7TM6LFK5OVUWKDCB4BO5L2N5ZCYIJEGUQXC2TWLRJUAUKCIMPFMIJQGUYSQ2RNFE7X2PZEENFVIQKRKUPEAWBDNISXQIJPFQSCAPBFFQVEIWI/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/CXDd4Cs9yWTuGTd0wn9ib0FnI4qq3GiguNp8JqQJJ5UpnZzyqQ.png",Shapovalov D. - Borg L. [TENNIS 10]
-https://world-proxifier.xyz/tazz/p/AA6TCNJ5GI2DYKRENMAXOEI7CN3F6QSXCAPXW6TPOIIDAPRLHM4GK2ABCIMR4ECYIRCCGJTKNJ6SSNBDEAQDQ2Z7INLVMQCKDZEESKL2EQSCQPRTEIQDOZJVGFAQ2RQJIRKV4XR2EZQXK/index.m3u8
+# Last forced update: 2025-10-16T00:33:59.932756Z
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png",Seattle Mariners - Toronto Blue Jays [SN ONTARIO]
+https://world-proxifier.xyz/tazz/p/AAYDCMJGFAYHACBTHEWDOVCAIAKB2EDEL4QTUPRRHVSBOPBQG5VQ6OCIIEMR4EDDPYIBYOZEEQQC2OTQN54GWLJNIVBEADQ7D5OVCIBQEI3HYIRHGUQCMMLLEFEEQHCAKFFEUVRBGA2WWIRMEVXTA3ZYFM3F6RSSIZMV6/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png",Seattle Mariners - Toronto Blue Jays [SN PACIFIC]
+https://world-proxifier.xyz/tazz/p/AAYDCMJGFAYHACBTHEWDOVCAIAKB2EDEL4QTUPRRHVSBOPBQG5VQ6OCIIEMR4EDDPYIAGNBTFQ2C2NTQN54GWLJNIVBEADQ7D5OVCIBQEI3HYIRHGUQCMMLLEFEEQHCAKFFEUVRBGA2WWIRMEVXTA3ZYFMUVAUK2KJMVG/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png",Seattle Mariners - Toronto Blue Jays [SN WEST]
+https://world-proxifier.xyz/tazz/p/AAYDCMJGFAYHACBTHEWDOVCAIAKB2EDEL4QTUPRRHVSBOPBQG5VQ6OCIIEMR4EDDPYIAIMBDGFZG473QFUTD6NJKBMORYWKRINKUEID3GY3TOIJBFJVSUMR7OZCVGSKOKZBFKVL5EU4DK3JRNARSWJJOGYWQ/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png",Seattle Mariners - Toronto Blue Jays [SN EAST]
+https://world-proxifier.xyz/tazz/p/AAYDCMJGFAYHACBTHEWDOVCAIAKB2EDEL4QTUPRRHVSBOPBQG5VQ6OCIIEMR4EDDPYIBMNBDGFZG473QFUTD6NJKBMORYWKRINKUEID3GY3TOIJBFJVSUMR7OZCVGSKOKZBFKVL5EU4DK3JRNARSWNZKGYWQ/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png",Seattle Mariners - Toronto Blue Jays [FOX SPORTS 1]
+https://world-proxifier.xyz/tazz/p/AAYDCMJGFAYHACBTHEWDOVCAIAKB2EDEL4QTUPRRHVSBOPBQG5VQ6OCIIEMR4EDWP5UHGBRAFIQDAJTQORZGC33ZLFDEORCDBIPR6PRUEMQCAN33GY3TOLRREMPUUSSOD5CFCSRJGMRCAN3KEU4DK3J6PA7UEAY/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png",Seattle Mariners - Toronto Blue Jays [FOX DEPORTES]
+https://world-proxifier.xyz/tazz/p/AAYDCMJGFAYHACBTHEWDOVCAIAKB2EDEL4QTUPRRHVSBOPBQG5VQ6OCIIEMR4EDWP5UHGEJVGU6TMIJVGZZGC33ZLFDEORCDBIPR6PRUEMQCAN33GY3TOLRREMPUUSSOD5CFCSRJGMRCAN3KEU4DK3J6PA7V4SSXKFAF6QSEGYTA/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/11205.png",Seattle Mariners - Toronto Blue Jays [PRIME-EVENT-5]
+https://world-proxifier.xyz/tazz/p/AAYDCMJGFAYHACBTHEWDOVCAIAKB2EDEL4QTUPRRHVSBOPBQG5VQ6OCIIEMR4EDAMJ4R4ED5AACACGYENBTWW33TCFNEOQCAIMFB67BYGE3DONRGPYRSALRAFVFRYS2NJIPUIUJJF43DONZBPMQC2ITUGBSGCYD2PF2R25LGCYNQI2DH/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/2329.png",Boston Celtics - Toronto Raptors [NBA TV]
+https://world-proxifier.xyz/tazz/p/CE5CGMJ5FJ2RGIB6H4WDUQQSDYKGIX2CL46SCP3FAASSKJBKEA4G64YRPRYXKEDEMYIHS73QFUTDAJJDP56WIKBYIJLUCRY6KZBFKNRBFJVSUPJPP4YTGMJ7H5BVOVQ2IBMEADZGNA7COMZQEM/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/2329.png",Boston Celtics - Toronto Raptors [TSN 1]
+https://world-proxifier.xyz/tazz/p/CE5CGMJ5FJ2RGIB6H4WDUQQSDYKGIX2CL46SCP3FAASSKJBKEA4G64YRMZQHUEABCANHS5JYGETDIJTKNJ6SMJBKKRAEAGSWIJKVKJZPPY6SWPT2EQSCQMJDFNKFOHKELBAA6RLOEERSWYY/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/2329.png",Boston Celtics - Toronto Raptors [TSN 3]
+https://world-proxifier.xyz/tazz/p/CE5CGMJ5FJ2RGIB6H4WDUQQSDYKGIX2CL46SCP3FAASSKJBKEA4G64YRMZQHUEADCANHS5JYGETDIJTKNJ6SMJBKKRAEAGSWIJKVKJZPPY6SWPT2EQSCQMJDFNKFOHKELBAA6RLOEERSWYI/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/2329.png",Boston Celtics - Toronto Raptors [TSN 4]
+https://world-proxifier.xyz/tazz/p/CE5CGMJ5FJ2RGIB6H4WDUQQSDYKGIX2CL46SCP3FAASSKJBKEA4G64YRMZQHUEAECANHS5JYGETDIJTKNJ6SMJBKKRAEAGSWIJKVKJZPPY6SWPT2EQSCQMJDFNKFOHKELBAA6RLOEERSWZQ/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/2329.png",Boston Celtics - Toronto Raptors [NBC SPORTS BOSTON]
+https://world-proxifier.xyz/tazz/p/CE5CGMJ5FJ2RGIB6H4WDUQQSDYKGIX2CL46SCP3FAASSKJBKEA4G64YRPRYXOEDDIBPSCIJDMUICWJREFI6GW33TCFNEOQCAIMFB67BYGE3DONRGPYRSALRAFVFRYS2NJIPUIUJJF43DONZBPMQC2ITUGBSF6UCQDFJF6Q2EHQ5Q/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/2329.png",Charlotte Hornets - Memphis Grizzlies [NBA-LP-EVENT-1]
+https://world-proxifier.xyz/tazz/p/CA6TCNZ6FMQSIIDSAMVCWX2XI5DRAHIQPU3DQIBNHM3XKFZXHMYT6NKYK5AB4GQQPZZBE6A4CV7QCAYVBMDGM5DZDMMBGXCEIRAEG2L2P4UDGNZQEI3HYLJXHRKEMSI2JBEUUHZHGQVD6NBWGA2WWIRDGVTEID35OZYR27DAPYIAMAA4CB4GC/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/3T4hFax9CX1p2YzpbOXhoUNP4vspvu9LyUEET5jHMk7Mel7j5s.png",Delaware Blue Hens - Jacksonville State Gamecocks [ESPN]
+https://world-proxifier.xyz/tazz/p/C4YDYJBFEUTTKZIQE4YDYEL2KZNEGEA5CAMTIMZOEEVTWJRMHYTSA6LCIZJEAVIQO5IT4MBTFIYS6JT2N5ZA4FQJP4JBSHQQLBCEIIZGNJVH2KJUEMQCAODLH5BVOVSAJIPEQSJJPISCIKB6GMRCAN3FGUYUCDKGBFKUGQC6/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io/leagues/logos/3T4hFax9CX1p2YzpbOXhoUNP4vspvu9LyUEET5jHMk7Mel7j5s.png",UTEP Miners - Sam Houston State Bearkats [CBS SPORTS NETWORK]
+https://world-proxifier.xyz/tazz/p/AYARKFLSBE6D4IBAHBSXIELBKJMRA6C7IUQCCPZLOILSCMJRG5VQOPCQIBMFKRCDDINHGFQSCZZBOJJ7G4TDQZIXKRDEIW2CLMIBU6LVHAYSMNBGNJVH2JREFJKEAQA2KZBFKVJHF57D2KZ6PISCIKBREMVVIVY5IRMEAD2FNY3DENT7G4ST6NZGMYVTYRKFLRDFW/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/234.png",Buffalo Sabres - Ottawa Senators [SN ONE]
+https://world-proxifier.xyz/tazz/p/CEQDMIZTFA5HAFRTFE3TYQQSDYKH6RCEKESDI4AWG4VDIJBKEA4G64YRMF6RI726KUIHS73QFUTDAJJDP56WIKBYIJLUCRY6KZBFKNRBFJVSUPJPP4YTGMJ7H5BVOVQ2IBMEADZGNARSWPJKGA/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/234.png",Buffalo Sabres - Ottawa Senators [RDS]
+https://world-proxifier.xyz/tazz/p/CEQDMIZTFA5HAFRTFE3TYQQSDYKH6RCEKESDI4AWG4VDIJBKEA4G64YRMB3WOEA2DIIDWIJEGUQX46T7FAZTQIBLIIOFKRSVKVCEU7JNFE7X2MBUFI7TIOJAHQPUEW2EB5CQ2QRXEY/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/234.png",Buffalo Sabres - Ottawa Senators [ESPN-EVENT-4]
+https://world-proxifier.xyz/tazz/p/CEQDMIZTFA5HAFRTFE3TYQQSDYKH6RCEKESDI4AWG4VDIJBKEA4G64YRO5QGI7Q5OVTBMGYENBTGI732MU5D6MJJIIEBYG25KFBVKIJGPYRSAIJQEQ7XYMZ4EMPEMUSOJJLEEVJWPMQC2IT3EBWQAAI3BN2HIZDWPJSB2BA/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/234.png",Buffalo Sabres - Ottawa Senators [ESPN-EVENT-5]
+https://world-proxifier.xyz/tazz/p/CEQDMIZTFA5HAFRTFE3TYQQSDYKH6RCEKESDI4AWG4VDIJBKEA4G64YRO5QGI7Q5OVTBMGYENBTWI732MU5D6MJJIIEBYG25KFBVKIJGPYRSAIJQEQ7XYMZ4EMPEMUSOJJLEEVJWPMQC2IT3EBWQAAI3BN2HIZDWPJSB2BI/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/234.png",Buffalo Sabres - Ottawa Senators [NHL-DAZN-EVENT-15]
+https://world-proxifier.xyz/tazz/p/CEQDMIZTFA5HAFRTFE3TYQQSDYKH6RCEKESDI4AWG4VDIJBKEA4G64YRPR5XQHLUOFVB26AVCMLQUAL5ORTWW33TCFNEOQCAIMFB67BYGE3DONRGPYRSALRAFVFRYS2NJIPUIUJJF43DONZBPMQC2ITUGBSH66T7DF2HC2T6PYIAMAA4CB4GC4A/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/234.png",Buffalo Sabres - Ottawa Senators [NHL-DAZN-EVENT-18]
+https://world-proxifier.xyz/tazz/p/CEQDMIZTFA5HAFRTFE3TYQQSDYKH6RCEKESDI4AWG4VDIJBKEA4G64YRPR5XQHLUOFVB26AVCMLQUAL5ORVGW33TCFNEOQCAIMFB67BYGE3DONRGPYRSALRAFVFRYS2NJIPUIUJJF43DONZBPMQC2ITUGBSH66T7DF2HC2T6PYIAMAA4CB4GC7I/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/234.png",Detroit Red Wings - Florida Panthers [PREMIER SPORTS 2 UK]
+https://world-proxifier.xyz/tazz/p/C4YCINZ5FUQXAFZXF5SQ4WC4KRDRAHIQOY7TUIRMGYSXKABEHQ7S2PCDIEMR4EDAIJKT4PBVG5ZBOJJ7G4TDQZLLCFTVQFA2DIIFQJZBEA3GQ232HUSCCLRXFIPVIQKRKVCEUHRLFQVGUJRFF4VCGIBOEB3UCWSDBNCQ2QCCGY4DSIBAG4SWE/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/234.png",Detroit Red Wings - Florida Panthers [TNT]
+https://world-proxifier.xyz/tazz/p/C4YCINZ5FUQXAFZXF5SQ4WC4KRDRAHIQOY7TUIRMGYSXKABEHQ7S2PCDIEMR4EDEPZSHG732MU5DAIJAGZUGI2RUKBAVMRSDDZLEENRQEQ7XYPBMFJVCMKR7ENLUAVSRDZAFQQDMEBWTCPBQ/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/234.png",Detroit Red Wings - Florida Panthers [PRIME-EVENT-4]
+https://world-proxifier.xyz/tazz/p/C4YCINZ5FUQXAFZXF5SQ4WC4KRDRAHIQOY7TUIRMGYSXKABEHQ7S2PCDIEMR4EDAMJ4R4ED5AACACGYENBTGW33TCFNEOQCAIMFB67BYGE3DONRGPYRSALRAFVFRYS2NJIPUIUJJF43DONZBPMQC2ITUGBSGCYD2PF2R25LGCYNQI2DG/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazztv.io//league/234.png",Detroit Red Wings - Florida Panthers [NHL-DAZN-EVENT-20]
+https://world-proxifier.xyz/tazz/p/C4YCINZ5FUQXAFZXF5SQ4WC4KRDRAHIQOY7TUIRMGYSXKABEHQ7S2PCDIEMR4ED6PB6H4EIRD4OGSEAGAAOB62DLAEJBSHQQLBCEIIZGNJVH2KJUEMQCAODLH5BVOVSAJIPEQSJJPISCIKB6GMRCAN3FGUYUCDKGBF7HQ7A5C4KAUC37AEBRKCYGMZ3WS/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazz.tv/uploads/eptemplates/icons/GNsdxcIcY8tRPUBp7Tpz8ypKIlv1r1LJU1AhuB8CXbG3W5VmqY.png",ABC
 https://world-proxifier.xyz/tazz/p/CILRGZLYNZ2TQMJGHM3GGHQ5LZKUGVKCIN6TGIRAG4YC67R5FMYWULKQJBEVEQSVKUPCGPJAPITXSNBSEY/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazz.tv/uploads/eptemplates/icons/duRQBMXiD0RlLsD8TTAYTWCrghB3Fu9ejn0KXcuGDsKNqweDuc.png",ACC Network
@@ -139,7 +155,7 @@ https://world-proxifier.xyz/tazz/p/AA7CSZIBGQ5CEMJBNMCDURK3LRNBA6DUCB4X64BNEYYCK
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazz.tv/uploads/eptemplates/icons/Vgnzdu29eBxTUg07xI2tIytdEZdrplYKGCXeQfd3UjMfEIQJ1x.png",Sky Sports Cricket HD
 https://world-proxifier.xyz/tazz/p/AA7CSZIBGQ5CEMJBNMDCWWCRLBIUIEDYORZX66TFHIYCCIBWNBSGUNCQIFLEMQY6KZBDMMBEH56DYLBKNITCUPZDK5AFMUI6IBMEA3BANU3DSPJ5EUVTMOJAHVCFS/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazz.tv/uploads/eptemplates/icons/SPR4AWLqnyVCO14MMdm7t2j8EIa7u9CLaxl4sTPDz2u8a3w7k6.jpeg",Sky Sports F1 HD
-https://world-proxifier.xyz/tazz/p/AA7CSZIBGQ5CEMJBNMBWQEL2O4KBAGQ2CA5SCJBVEF7HU7ZIGM4CAK2CDRKUMVKVIRFH2LJJH56TANBKH42DSIB4D5BFWRAPIUGUGOBMGZ2COLY/index.m3u8
+https://world-proxifier.xyz/tazz/p/AA7CSZIBGQ5CEMJBNMBWQEL2O4KBAGQ2CA5SCJBVEF7HU7ZIGM4CAK2CDRKUMVKVIRFH2LJJH56TANBKH42DSIB4D5BFWRAPIUGUGOBMGZ2COL3THUVDMLTYHBJUA/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazz.tv/uploads/eptemplates/icons/QwzHWNmUTBiJo8PI1oKu8nMHdtkshbIZMADSBvDxFcEP5Juy4X.png",Sky Sports Football HD
 https://world-proxifier.xyz/tazz/p/AA7CSZIBGQ5CEMJBNMBTMXSGKFKVYXAQPALXK6TPOIWCCJBVEFYWU5S4KNAFCQSDDZLCCMBVGEUGULJJH56T6JBDJNKECUKVDZAFQI3KEV4CCLZMGYVD2PZHHBOV4RS7/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Tazz" tvg-logo="https://corsproxy.io/?url=https://assets.tazz.tv/uploads/eptemplates/icons/nbaoLJ9oy1mVvmMbDfhlvBlCuI4fm5AteI9VeIDmTJm5JBhC6r.png",Sky Sports Golf HD
