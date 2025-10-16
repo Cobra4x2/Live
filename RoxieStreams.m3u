@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/DrewLive.xml.gz"
-# Last forced update: 2025-10-15T18:01:15.788135Z
+# Last forced update: 2025-10-16T00:33:54.862355Z
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/fighting-logo.png",AEW
+https://slux.zaynic.my.id/aew.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Buffalo Bills vs Atlanta Falcons (Stream 1)
 https://slux.zaynic.my.id/nfl.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Buffalo Bills vs Atlanta Falcons (Stream 2)
@@ -12,23 +14,19 @@ https://slux.zaynic.my.id/nfl2.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac
 https://slux.zaynic.my.id/nfl2alt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png",Chicago Bears vs Washington Commanders (Stream 3)
 https://slux.zaynic.my.id/nfl2alty.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",Chicago Bulls vs Denver Nuggets
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",Dallas Mavericks vs Los Angeles Lakers
 https://saz.blitzen.store/nba4.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",Detroit Pistons vs Cavaliers vs Cavaliers
-https://slux.zaynic.my.id/nba.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",Golden State Warriors vs Portland Trail Blazers
-https://slux.zaynic.my.id/nba6.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",Houston Rockets vs New Orleans Pelicans
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",Los Angeles Clippers vs Sacromento Kings
 https://slux.zaynic.my.id/nba3.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Los Angeles Dodgers vs Milwaukee Brewers (Stream 1)
-https://slux.zaynic.my.id/mlb.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Los Angeles Dodgers vs Milwaukee Brewers (Stream 2)
-https://slux.zaynic.my.id/mlbalt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",Los Angeles Lakers vs Phoniex Suns
-https://slux.zaynic.my.id/nba5.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",Memphis Grizzlies vs Charlotte Hornets
+https://slux.zaynic.my.id/nba.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png",NASCAR Cup Series - Race
 https://saz.blitzen.store/nascar.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",Oklahoma City Thunder vs Milwaukee Bucks
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Toronto Blue Jays vs Seattle Mariners (Stream 1)
+https://slux.zaynic.my.id/mlb.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Toronto Blue Jays vs Seattle Mariners (Stream 2)
+https://slux.zaynic.my.id/tnt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",Toronto Blue Jays vs Seattle Mariners (Stream 3)
+https://slux.zaynic.my.id/bt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",Toronto Raptors vs Boston Celtics
 https://slux.zaynic.my.id/nba2.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="RoxieStreams" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png",WWE NXT
-https://slux.zaynic.my.id/wwe.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://roxiestreams.cc/|Origin=https://roxiestreams.cc
