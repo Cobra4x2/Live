@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://drewlive24.duckdns.org:8081/DrewLive.xml.gz"
 
-# Generated on 2025-10-16T19:53:27.322404 UTC
+# Generated on 2025-10-17T02:27:19.040412 UTC
 
 # 📺 Source: http://daddylive-new.vercel.app/api/stream?playlist=true
 #EXTINF:-1  tvg-id="beINSports1.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" ,beIN SPORTS Australia 1
@@ -721,218 +721,6 @@ https://daddylive-new.vercel.app/api/stream?id=518
 https://daddylive-new.vercel.app/api/stream?id=519
 #EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" ,18+ (Player-20)
 https://daddylive-new.vercel.app/api/stream?id=520
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE.png" ,All Elite Wrestling AEW : Dynamite (Oct 15-2025 12:00 AM UK / Oct 14-2025 5:00 PM MT / Oct 14-2025 7:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=336
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE.png" ,All Elite Wrestling AEW : Dynamite (Oct 15-2025 12:00 AM UK / Oct 14-2025 5:00 PM MT / Oct 14-2025 7:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=112
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE.png" ,All Elite Wrestling AEW : Dynamite (Oct 15-2025 12:00 AM UK / Oct 14-2025 5:00 PM MT / Oct 14-2025 7:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=830
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE.png" ,All Elite Wrestling AEW : Collision Saturday Tailgate Brawl: WrestleDream (Oct 15-2025 2:00 AM UK / Oct 14-2025 7:00 PM MT / Oct 14-2025 9:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=336
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,College Golf St Andrews Links Collegiate-Final Round (Oct 15-2025 1:00 PM UK / Oct 15-2025 6:00 AM MT / Oct 15-2025 8:00 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=318
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAA FBS : Delaware Fightin vs Jacksonville State (Oct 15-2025 11:00 PM UK / Oct 15-2025 4:00 PM MT / Oct 15-2025 6:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=44
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAA FBS : Delaware Fightin vs Jacksonville State (Oct 15-2025 11:00 PM UK / Oct 15-2025 4:00 PM MT / Oct 15-2025 6:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=45
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAA FBS : Delaware Fightin vs Jacksonville State (Oct 15-2025 11:00 PM UK / Oct 15-2025 4:00 PM MT / Oct 15-2025 6:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=101
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAA FBS : UTEP vs Sam Houston State (Oct 15-2025 11:00 PM UK / Oct 15-2025 4:00 PM MT / Oct 15-2025 6:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=308
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Toronto Blue Jays vs Seattle Mariners (Oct 15-2025 12:00 AM UK / Oct 14-2025 5:00 PM MT / Oct 14-2025 7:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=31
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Toronto Blue Jays vs Seattle Mariners (Oct 15-2025 12:00 AM UK / Oct 14-2025 5:00 PM MT / Oct 14-2025 7:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=39
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Toronto Blue Jays vs Seattle Mariners (Oct 15-2025 12:00 AM UK / Oct 14-2025 5:00 PM MT / Oct 14-2025 7:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=840
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Toronto Blue Jays vs Seattle Mariners (Oct 15-2025 12:00 AM UK / Oct 14-2025 5:00 PM MT / Oct 14-2025 7:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=408
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Toronto Blue Jays vs Seattle Mariners (Oct 15-2025 12:00 AM UK / Oct 14-2025 5:00 PM MT / Oct 14-2025 7:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=406
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Toronto Blue Jays vs Seattle Mariners (Oct 15-2025 12:00 AM UK / Oct 14-2025 5:00 PM MT / Oct 14-2025 7:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=407
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Toronto Blue Jays vs Seattle Mariners (Oct 15-2025 12:00 AM UK / Oct 14-2025 5:00 PM MT / Oct 14-2025 7:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=117
-#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Toronto Blue Jays vs Seattle Mariners (Oct 15-2025 12:00 AM UK / Oct 14-2025 5:00 PM MT / Oct 14-2025 7:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=643
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Slovenian League : Helios vs Ilirija (Oct 15-2025 3:00 PM UK / Oct 15-2025 8:00 AM MT / Oct 15-2025 10:00 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=103
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,United League : BC Krasnye Krylya Samara vs. Zenit Saint Petersburg (Oct 15-2025 3:30 PM UK / Oct 15-2025 8:30 AM MT / Oct 15-2025 10:30 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=580
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Europe Cup : CSM CSU Oradea vs. AEK Larnaca (Oct 15-2025 4:00 PM UK / Oct 15-2025 9:00 AM MT / Oct 15-2025 11:00 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=402
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,EuroCup-Women : Zaglebie Sosnowiec vs. SL Benfica (Oct 15-2025 4:00 PM UK / Oct 15-2025 9:00 AM MT / Oct 15-2025 11:00 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=380
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Eurocup : BC Lietkabelis Panevezys vs. Ulm Basketball (Oct 15-2025 4:00 PM UK / Oct 15-2025 9:00 AM MT / Oct 15-2025 11:00 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=475
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Eurocup : BC Lietkabelis Panevezys vs. Ulm Basketball (Oct 15-2025 4:00 PM UK / Oct 15-2025 9:00 AM MT / Oct 15-2025 11:00 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=102
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Eurocup : BC Lietkabelis Panevezys vs. Ulm Basketball (Oct 15-2025 4:00 PM UK / Oct 15-2025 9:00 AM MT / Oct 15-2025 11:00 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=141
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,FIBA Europe Cup : Lublin vs Bosna (Oct 15-2025 4:30 PM UK / Oct 15-2025 9:30 AM MT / Oct 15-2025 11:30 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=129
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Eurocup : Panionios vs JL Bourg (Oct 15-2025 4:30 PM UK / Oct 15-2025 9:30 AM MT / Oct 15-2025 11:30 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=634
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Eurocup : Panionios vs JL Bourg (Oct 15-2025 4:30 PM UK / Oct 15-2025 9:30 AM MT / Oct 15-2025 11:30 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=101
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Champions League : BC AEK Athens vs. Szolnoki Olaj Kk (Oct 15-2025 4:30 PM UK / Oct 15-2025 9:30 AM MT / Oct 15-2025 11:30 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=434
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,VTB United League : CSKA Moscow vs Nizhny Novgorod (Oct 15-2025 4:30 PM UK / Oct 15-2025 9:30 AM MT / Oct 15-2025 11:30 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=135
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,FIBA Europe Cup : Basketball Braunschweig vs Anwil Wloclawek (Oct 15-2025 4:30 PM UK / Oct 15-2025 9:30 AM MT / Oct 15-2025 11:30 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=147
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Eurocup : Besiktas JK vs. Niners Chemnitz (Oct 15-2025 5:00 PM UK / Oct 15-2025 10:00 AM MT / Oct 15-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=473
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Eurocup : Besiktas JK vs. Niners Chemnitz (Oct 15-2025 5:00 PM UK / Oct 15-2025 10:00 AM MT / Oct 15-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=429
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Eurocup : Slask Wroclaw vs Cluj Napoca (Oct 15-2025 5:00 PM UK / Oct 15-2025 10:00 AM MT / Oct 15-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=47
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Eurocup : Slask Wroclaw vs Cluj Napoca (Oct 15-2025 5:00 PM UK / Oct 15-2025 10:00 AM MT / Oct 15-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=583
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,FIBA Europe Cup : Pelister vs Cedevita Junior (Oct 15-2025 5:00 PM UK / Oct 15-2025 10:00 AM MT / Oct 15-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=780
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,FIBA Europe Cup : Pelister vs Cedevita Junior (Oct 15-2025 5:00 PM UK / Oct 15-2025 10:00 AM MT / Oct 15-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=779
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Champions League : Legia Warszawa vs. Promitheas Patras BC (Oct 15-2025 6:00 PM UK / Oct 15-2025 11:00 AM MT / Oct 15-2025 1:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=128
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Panathinaikos vs Lyon-Villeurbanne (Oct 15-2025 6:15 PM UK / Oct 15-2025 11:15 AM MT / Oct 15-2025 1:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=527
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Panathinaikos vs Lyon-Villeurbanne (Oct 15-2025 6:15 PM UK / Oct 15-2025 11:15 AM MT / Oct 15-2025 1:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=638
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Panathinaikos vs Lyon-Villeurbanne (Oct 15-2025 6:15 PM UK / Oct 15-2025 11:15 AM MT / Oct 15-2025 1:15 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=146
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Valencia Basket vs. Hapoel Tel-Aviv (Oct 15-2025 6:30 PM UK / Oct 15-2025 11:30 AM MT / Oct 15-2025 1:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=526
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Valencia Basket vs. Hapoel Tel-Aviv (Oct 15-2025 6:30 PM UK / Oct 15-2025 11:30 AM MT / Oct 15-2025 1:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=103
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Valencia Basket vs. Hapoel Tel-Aviv (Oct 15-2025 6:30 PM UK / Oct 15-2025 11:30 AM MT / Oct 15-2025 1:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=144
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Virtus Bologna vs. AS Monaco (Oct 15-2025 6:30 PM UK / Oct 15-2025 11:30 AM MT / Oct 15-2025 1:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=139
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Virtus Bologna vs. AS Monaco (Oct 15-2025 6:30 PM UK / Oct 15-2025 11:30 AM MT / Oct 15-2025 1:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=635
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Virtus Bologna vs. AS Monaco (Oct 15-2025 6:30 PM UK / Oct 15-2025 11:30 AM MT / Oct 15-2025 1:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=50
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Virtus Bologna vs. AS Monaco (Oct 15-2025 6:30 PM UK / Oct 15-2025 11:30 AM MT / Oct 15-2025 1:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=102
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Europe Cup : Sporting Cp vs. Dinamo Sassari (Oct 15-2025 6:30 PM UK / Oct 15-2025 11:30 AM MT / Oct 15-2025 1:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=716
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Champions League : Trieste 2004 vs. Galatasaray SK (Oct 15-2025 6:30 PM UK / Oct 15-2025 11:30 AM MT / Oct 15-2025 1:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=434
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Champions League : Trieste 2004 vs. Galatasaray SK (Oct 15-2025 6:30 PM UK / Oct 15-2025 11:30 AM MT / Oct 15-2025 1:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=434
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Eurocup : Basquet Manresa vs. Hapoel Jerusalem (Oct 15-2025 6:45 PM UK / Oct 15-2025 11:45 AM MT / Oct 15-2025 1:45 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=521
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Eurocup : Basquet Manresa vs. Hapoel Jerusalem (Oct 15-2025 6:45 PM UK / Oct 15-2025 11:45 AM MT / Oct 15-2025 1:45 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=454
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Eurocup : Basquet Manresa vs. Hapoel Jerusalem (Oct 15-2025 6:45 PM UK / Oct 15-2025 11:45 AM MT / Oct 15-2025 1:45 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=104
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Eurocup : Basquet Manresa vs. Hapoel Jerusalem (Oct 15-2025 6:45 PM UK / Oct 15-2025 11:45 AM MT / Oct 15-2025 1:45 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=140
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Paris Basketball vs. Baskonia Vitoria-Gasteiz (Oct 15-2025 6:45 PM UK / Oct 15-2025 11:45 AM MT / Oct 15-2025 1:45 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=438
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Paris Basketball vs. Baskonia Vitoria-Gasteiz (Oct 15-2025 6:45 PM UK / Oct 15-2025 11:45 AM MT / Oct 15-2025 1:45 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=135
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Paris Basketball vs. Baskonia Vitoria-Gasteiz (Oct 15-2025 6:45 PM UK / Oct 15-2025 11:45 AM MT / Oct 15-2025 1:45 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=637
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Paris Basketball vs. Baskonia Vitoria-Gasteiz (Oct 15-2025 6:45 PM UK / Oct 15-2025 11:45 AM MT / Oct 15-2025 1:45 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=453
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Real Madrid vs. KK Partizan Nis Belgrade (Oct 15-2025 6:45 PM UK / Oct 15-2025 11:45 AM MT / Oct 15-2025 1:45 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=436
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Real Madrid vs. KK Partizan Nis Belgrade (Oct 15-2025 6:45 PM UK / Oct 15-2025 11:45 AM MT / Oct 15-2025 1:45 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=50
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Real Madrid vs. KK Partizan Nis Belgrade (Oct 15-2025 6:45 PM UK / Oct 15-2025 11:45 AM MT / Oct 15-2025 1:45 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=134
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Real Madrid vs. KK Partizan Nis Belgrade (Oct 15-2025 6:45 PM UK / Oct 15-2025 11:45 AM MT / Oct 15-2025 1:45 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=632
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Real Madrid vs. KK Partizan Nis Belgrade (Oct 15-2025 6:45 PM UK / Oct 15-2025 11:45 AM MT / Oct 15-2025 1:45 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=475
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Real Madrid vs. KK Partizan Nis Belgrade (Oct 15-2025 6:45 PM UK / Oct 15-2025 11:45 AM MT / Oct 15-2025 1:45 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=101
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Real Madrid vs. KK Partizan Nis Belgrade (Oct 15-2025 6:45 PM UK / Oct 15-2025 11:45 AM MT / Oct 15-2025 1:45 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=147
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Champions League : CB Gran Canaria vs. Le Mans Sarthe Basket (Oct 15-2025 7:00 PM UK / Oct 15-2025 12:00 PM MT / Oct 15-2025 2:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=433
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Champions League : Benfica Lisboa vs. Spartak Subotica (Oct 15-2025 7:30 PM UK / Oct 15-2025 12:30 PM MT / Oct 15-2025 2:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=74
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Champions League : Benfica Lisboa vs. Spartak Subotica (Oct 15-2025 7:30 PM UK / Oct 15-2025 12:30 PM MT / Oct 15-2025 2:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=429
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Boston Celtics vs Toronto Raptors (Oct 15-2025 11:30 PM UK / Oct 15-2025 4:30 PM MT / Oct 15-2025 6:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=404
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Boston Celtics vs Toronto Raptors (Oct 15-2025 11:30 PM UK / Oct 15-2025 4:30 PM MT / Oct 15-2025 6:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=754
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Boston Celtics vs Toronto Raptors (Oct 15-2025 11:30 PM UK / Oct 15-2025 4:30 PM MT / Oct 15-2025 6:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=113
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Boston Celtics vs Toronto Raptors (Oct 15-2025 11:30 PM UK / Oct 15-2025 4:30 PM MT / Oct 15-2025 6:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=114
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Sacramento Kings vs Los Angeles Clippers (Oct 15-2025 2:00 AM UK / Oct 14-2025 7:00 PM MT / Oct 14-2025 9:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=755
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Los Angeles Lakers vs Dallas Mavericks (Oct 15-2025 2:30 AM UK / Oct 14-2025 7:30 PM MT / Oct 14-2025 9:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=44
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Los Angeles Lakers vs Dallas Mavericks (Oct 15-2025 2:30 AM UK / Oct 14-2025 7:30 PM MT / Oct 14-2025 9:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=111
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Los Angeles Lakers vs Dallas Mavericks (Oct 15-2025 2:30 AM UK / Oct 14-2025 7:30 PM MT / Oct 14-2025 9:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=114
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Los Angeles Lakers vs Dallas Mavericks (Oct 15-2025 2:30 AM UK / Oct 14-2025 7:30 PM MT / Oct 14-2025 9:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=375
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Los Angeles Lakers vs Dallas Mavericks (Oct 15-2025 2:30 AM UK / Oct 14-2025 7:30 PM MT / Oct 14-2025 9:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=379
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Los Angeles Lakers vs Dallas Mavericks (Oct 15-2025 2:30 AM UK / Oct 14-2025 7:30 PM MT / Oct 14-2025 9:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=150
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Los Angeles Lakers vs Dallas Mavericks (Oct 15-2025 2:30 AM UK / Oct 14-2025 7:30 PM MT / Oct 14-2025 9:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=81
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,Lokomotiv Yaroslavl vs CSKA Moscow (Oct 15-2025 4:00 PM UK / Oct 15-2025 9:00 AM MT / Oct 15-2025 11:00 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=431
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,Champions Hockey League : Gorniczy Klub Sportowy Tychy vs. Lukko Rauma (Oct 15-2025 4:00 PM UK / Oct 15-2025 9:00 AM MT / Oct 15-2025 11:00 AM EST)
-https://daddylive-new.vercel.app/api/stream?id=50
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,Champions Hockey League : ERC Ingolstadt vs. Odense Bulldogs (Oct 15-2025 5:30 PM UK / Oct 15-2025 10:30 AM MT / Oct 15-2025 12:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=223
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,Champions Hockey League : EV Zug vs. HC Kometa Brno (Oct 15-2025 5:45 PM UK / Oct 15-2025 10:45 AM MT / Oct 15-2025 12:45 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=580
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,United Kingdom Elite League : Glasgow Clan vs Sheffield Steelers (Oct 15-2025 6:30 PM UK / Oct 15-2025 11:30 AM MT / Oct 15-2025 1:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=451
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,HockeyAllsvenskan : AIK vs Troja/Ljungby (Oct 15-2025 5:00 PM UK / Oct 15-2025 10:00 AM MT / Oct 15-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=700
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,HockeyAllsvenskan : Vimmerby vs Sodertalje (Oct 15-2025 5:00 PM UK / Oct 15-2025 10:00 AM MT / Oct 15-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=703
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,HockeyAllsvenskan : Ostersund vs Oskarshamn (Oct 15-2025 5:00 PM UK / Oct 15-2025 10:00 AM MT / Oct 15-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=704
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,HockeyAllsvenskan : Modo vs Mora (Oct 15-2025 5:00 PM UK / Oct 15-2025 10:00 AM MT / Oct 15-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=707
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,HockeyAllsvenskan : Kalmar vs Vasteras (Oct 15-2025 5:00 PM UK / Oct 15-2025 10:00 AM MT / Oct 15-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=706
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,HockeyAllsvenskan : IF Bjorkloven vs Almtuna (Oct 15-2025 5:00 PM UK / Oct 15-2025 10:00 AM MT / Oct 15-2025 12:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=705
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Ottawa Senators vs Buffalo Sabres (Oct 15-2025 11:00 PM UK / Oct 15-2025 4:00 PM MT / Oct 15-2025 6:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=411
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Ottawa Senators vs Buffalo Sabres (Oct 15-2025 11:00 PM UK / Oct 15-2025 4:00 PM MT / Oct 15-2025 6:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=839
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Florida Panthers vs Detroit Red Wings (Oct 15-2025 11:00 PM UK / Oct 15-2025 4:00 PM MT / Oct 15-2025 6:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=338
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Florida Panthers vs Detroit Red Wings (Oct 15-2025 11:00 PM UK / Oct 15-2025 4:00 PM MT / Oct 15-2025 6:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=550
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Florida Panthers vs Detroit Red Wings (Oct 15-2025 11:00 PM UK / Oct 15-2025 4:00 PM MT / Oct 15-2025 6:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=341
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Florida Panthers vs Detroit Red Wings (Oct 15-2025 11:00 PM UK / Oct 15-2025 4:00 PM MT / Oct 15-2025 6:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=833
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Florida Panthers vs Detroit Red Wings (Oct 15-2025 11:00 PM UK / Oct 15-2025 4:00 PM MT / Oct 15-2025 6:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=557
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Florida Panthers vs Detroit Red Wings (Oct 15-2025 11:00 PM UK / Oct 15-2025 4:00 PM MT / Oct 15-2025 6:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=556
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Florida Panthers vs Detroit Red Wings (Oct 15-2025 11:00 PM UK / Oct 15-2025 4:00 PM MT / Oct 15-2025 6:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=496
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Florida Panthers vs Detroit Red Wings (Oct 15-2025 11:00 PM UK / Oct 15-2025 4:00 PM MT / Oct 15-2025 6:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=473
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Florida Panthers vs Detroit Red Wings (Oct 15-2025 11:00 PM UK / Oct 15-2025 4:00 PM MT / Oct 15-2025 6:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=82
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Florida Panthers vs Detroit Red Wings (Oct 15-2025 11:00 PM UK / Oct 15-2025 4:00 PM MT / Oct 15-2025 6:00 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=147
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Chicago Blackhawks vs St. Louis Blues (Oct 15-2025 1:30 AM UK / Oct 14-2025 6:30 PM MT / Oct 14-2025 8:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=338
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Chicago Blackhawks vs St. Louis Blues (Oct 15-2025 1:30 AM UK / Oct 14-2025 6:30 PM MT / Oct 14-2025 8:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=341
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Chicago Blackhawks vs St. Louis Blues (Oct 15-2025 1:30 AM UK / Oct 14-2025 6:30 PM MT / Oct 14-2025 8:30 PM EST)
-https://daddylive-new.vercel.app/api/stream?id=451
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WRC Rally Central European Rally: Shakedown Tocna (Oct 16-2025 6:00 AM UK / Oct 15-2025 11:00 PM MT / Oct 16-2025 1:00 AM EST)
 https://daddylive-new.vercel.app/api/stream?id=607
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WRC Rally Central European Rally: Shakedown Tocna (Oct 16-2025 6:00 AM UK / Oct 15-2025 11:00 PM MT / Oct 16-2025 1:00 AM EST)
@@ -1333,4 +1121,586 @@ https://daddylive-new.vercel.app/api/stream?id=762
 https://daddylive-new.vercel.app/api/stream?id=556
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Pittsburgh Penguins vs Los Angeles Kings (Oct 16-2025 2:00 AM UK / Oct 15-2025 7:00 PM MT / Oct 15-2025 9:00 PM EST)
 https://daddylive-new.vercel.app/api/stream?id=922
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 1 (Oct 17-2025 5:00 AM UK / Oct 16-2025 10:00 PM MT / Oct 17-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=32
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 1 (Oct 17-2025 5:00 AM UK / Oct 16-2025 10:00 PM MT / Oct 17-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=575
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 1 (Oct 17-2025 5:00 AM UK / Oct 16-2025 10:00 PM MT / Oct 17-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=271
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 1 (Oct 17-2025 5:00 AM UK / Oct 16-2025 10:00 PM MT / Oct 17-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=557
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 1 (Oct 17-2025 5:00 AM UK / Oct 16-2025 10:00 PM MT / Oct 17-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=556
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 1 (Oct 17-2025 5:00 AM UK / Oct 16-2025 10:00 PM MT / Oct 17-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=445
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 1 (Oct 17-2025 5:00 AM UK / Oct 16-2025 10:00 PM MT / Oct 17-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=464
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 1 (Oct 17-2025 5:00 AM UK / Oct 16-2025 10:00 PM MT / Oct 17-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=289
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 1 (Oct 17-2025 5:00 AM UK / Oct 16-2025 10:00 PM MT / Oct 17-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=149
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 1 (Oct 17-2025 5:00 AM UK / Oct 16-2025 10:00 PM MT / Oct 17-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=626
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 1 (Oct 17-2025 5:00 AM UK / Oct 16-2025 10:00 PM MT / Oct 17-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=916
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 1 (Oct 17-2025 5:00 AM UK / Oct 16-2025 10:00 PM MT / Oct 17-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=101
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 1 (Oct 17-2025 5:00 AM UK / Oct 16-2025 10:00 PM MT / Oct 17-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=473
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WRC Rally Central European Rally: Stage 3 (Oct 17-2025 6:30 AM UK / Oct 16-2025 11:30 PM MT / Oct 17-2025 1:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=607
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WRC Rally Central European Rally: Stage 3 (Oct 17-2025 6:30 AM UK / Oct 16-2025 11:30 PM MT / Oct 17-2025 1:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=33
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WRC Rally Central European Rally: Stage 3 (Oct 17-2025 6:30 AM UK / Oct 16-2025 11:30 PM MT / Oct 17-2025 1:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=702
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WRC Rally Central European Rally: Stage 3 (Oct 17-2025 6:30 AM UK / Oct 16-2025 11:30 PM MT / Oct 17-2025 1:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=289
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WRC Rally Central European Rally: Stage 3 (Oct 17-2025 6:30 AM UK / Oct 16-2025 11:30 PM MT / Oct 17-2025 1:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=464
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldSBK | Round 12 | Spain Free Practice 1 (Oct 17-2025 8:25 AM UK / Oct 17-2025 1:25 AM MT / Oct 17-2025 3:25 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=32
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldSBK | Round 12 | Spain Free Practice 1 (Oct 17-2025 8:25 AM UK / Oct 17-2025 1:25 AM MT / Oct 17-2025 3:25 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=445
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldSBK | Round 12 | Spain Free Practice 1 (Oct 17-2025 8:25 AM UK / Oct 17-2025 1:25 AM MT / Oct 17-2025 3:25 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=591
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WRC Rally Central European Rally: Stage 5 (Oct 17-2025 9:25 AM UK / Oct 17-2025 2:25 AM MT / Oct 17-2025 4:25 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=607
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WRC Rally Central European Rally: Stage 5 (Oct 17-2025 9:25 AM UK / Oct 17-2025 2:25 AM MT / Oct 17-2025 4:25 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=33
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WRC Rally Central European Rally: Stage 5 (Oct 17-2025 9:25 AM UK / Oct 17-2025 2:25 AM MT / Oct 17-2025 4:25 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=702
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WRC Rally Central European Rally: Stage 5 (Oct 17-2025 9:25 AM UK / Oct 17-2025 2:25 AM MT / Oct 17-2025 4:25 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=289
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WRC Rally Central European Rally: Stage 5 (Oct 17-2025 9:25 AM UK / Oct 17-2025 2:25 AM MT / Oct 17-2025 4:25 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=464
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldWCR | Round 6 | Spain Superpole (Oct 17-2025 11:30 AM UK / Oct 17-2025 4:30 AM MT / Oct 17-2025 6:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=32
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldWCR | Round 6 | Spain Superpole (Oct 17-2025 11:30 AM UK / Oct 17-2025 4:30 AM MT / Oct 17-2025 6:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=591
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WRC Rally Central European Rally: Stage 6 (Oct 17-2025 12:45 PM UK / Oct 17-2025 5:45 AM MT / Oct 17-2025 7:45 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=607
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WRC Rally Central European Rally: Stage 6 (Oct 17-2025 12:45 PM UK / Oct 17-2025 5:45 AM MT / Oct 17-2025 7:45 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=33
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WRC Rally Central European Rally: Stage 6 (Oct 17-2025 12:45 PM UK / Oct 17-2025 5:45 AM MT / Oct 17-2025 7:45 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=702
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WRC Rally Central European Rally: Stage 6 (Oct 17-2025 12:45 PM UK / Oct 17-2025 5:45 AM MT / Oct 17-2025 7:45 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=289
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WRC Rally Central European Rally: Stage 6 (Oct 17-2025 12:45 PM UK / Oct 17-2025 5:45 AM MT / Oct 17-2025 7:45 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=464
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldSBK | Round 12 | Spain Free Practice 2 (Oct 17-2025 12:50 PM UK / Oct 17-2025 5:50 AM MT / Oct 17-2025 7:50 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=32
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldSBK | Round 12 | Spain Free Practice 2 (Oct 17-2025 12:50 PM UK / Oct 17-2025 5:50 AM MT / Oct 17-2025 7:50 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=445
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WorldSBK | Round 12 | Spain Free Practice 2 (Oct 17-2025 12:50 PM UK / Oct 17-2025 5:50 AM MT / Oct 17-2025 7:50 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=591
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WRC Rally Central European Rally: Stage 7 (Oct 17-2025 3:20 PM UK / Oct 17-2025 8:20 AM MT / Oct 17-2025 10:20 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=607
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WRC Rally Central European Rally: Stage 7 (Oct 17-2025 3:20 PM UK / Oct 17-2025 8:20 AM MT / Oct 17-2025 10:20 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=702
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WRC Rally Central European Rally: Stage 7 (Oct 17-2025 3:20 PM UK / Oct 17-2025 8:20 AM MT / Oct 17-2025 10:20 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=289
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,WRC Rally Central European Rally: Stage 7 (Oct 17-2025 3:20 PM UK / Oct 17-2025 8:20 AM MT / Oct 17-2025 10:20 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=464
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,NASCAR Craftsman Truck Series Love's RV Stop 225-Qualifying (Oct 17-2025 4:30 PM UK / Oct 17-2025 9:30 AM MT / Oct 17-2025 11:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=758
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Practice 1 (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=60
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Practice 1 (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=274
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Practice 1 (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=122
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Practice 1 (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=273
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Practice 1 (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=588
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Practice 1 (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=577
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Practice 1 (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=774
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Practice 1 (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=260
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Practice 1 (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=101
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Practice 1 (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=71
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Practice 1 (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=275
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Practice 1 (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=712
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Practice 1 (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=272
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Practice 1 (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=809
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Practice 1 (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=375
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Practice 1 (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=103
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,NASCAR Craftsman Truck Series Love's RV Stop 225 (Oct 17-2025 8:00 PM UK / Oct 17-2025 1:00 PM MT / Oct 17-2025 3:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=654
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Sprint Qualifying (Oct 17-2025 9:30 PM UK / Oct 17-2025 2:30 PM MT / Oct 17-2025 4:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=60
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Sprint Qualifying (Oct 17-2025 9:30 PM UK / Oct 17-2025 2:30 PM MT / Oct 17-2025 4:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=115
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Sprint Qualifying (Oct 17-2025 9:30 PM UK / Oct 17-2025 2:30 PM MT / Oct 17-2025 4:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=45
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Sprint Qualifying (Oct 17-2025 9:30 PM UK / Oct 17-2025 2:30 PM MT / Oct 17-2025 4:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=274
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Sprint Qualifying (Oct 17-2025 9:30 PM UK / Oct 17-2025 2:30 PM MT / Oct 17-2025 4:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=122
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Sprint Qualifying (Oct 17-2025 9:30 PM UK / Oct 17-2025 2:30 PM MT / Oct 17-2025 4:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=273
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Sprint Qualifying (Oct 17-2025 9:30 PM UK / Oct 17-2025 2:30 PM MT / Oct 17-2025 4:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=588
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Sprint Qualifying (Oct 17-2025 9:30 PM UK / Oct 17-2025 2:30 PM MT / Oct 17-2025 4:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=577
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Sprint Qualifying (Oct 17-2025 9:30 PM UK / Oct 17-2025 2:30 PM MT / Oct 17-2025 4:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=774
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Sprint Qualifying (Oct 17-2025 9:30 PM UK / Oct 17-2025 2:30 PM MT / Oct 17-2025 4:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=260
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Sprint Qualifying (Oct 17-2025 9:30 PM UK / Oct 17-2025 2:30 PM MT / Oct 17-2025 4:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=101
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Sprint Qualifying (Oct 17-2025 9:30 PM UK / Oct 17-2025 2:30 PM MT / Oct 17-2025 4:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=275
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Sprint Qualifying (Oct 17-2025 9:30 PM UK / Oct 17-2025 2:30 PM MT / Oct 17-2025 4:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=375
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Sprint Qualifying (Oct 17-2025 9:30 PM UK / Oct 17-2025 2:30 PM MT / Oct 17-2025 4:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=712
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Sprint Qualifying (Oct 17-2025 9:30 PM UK / Oct 17-2025 2:30 PM MT / Oct 17-2025 4:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=809
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Sprint Qualifying (Oct 17-2025 9:30 PM UK / Oct 17-2025 2:30 PM MT / Oct 17-2025 4:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=71
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Sprint Qualifying (Oct 17-2025 9:30 PM UK / Oct 17-2025 2:30 PM MT / Oct 17-2025 4:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=272
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Formula 1 : MSC Cruises United States GP - Sprint Qualifying (Oct 17-2025 9:30 PM UK / Oct 17-2025 2:30 PM MT / Oct 17-2025 4:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=103
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 9:35 PM UK / Oct 17-2025 2:35 PM MT / Oct 17-2025 4:35 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=32
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 9:35 PM UK / Oct 17-2025 2:35 PM MT / Oct 17-2025 4:35 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=575
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 9:35 PM UK / Oct 17-2025 2:35 PM MT / Oct 17-2025 4:35 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=271
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 9:35 PM UK / Oct 17-2025 2:35 PM MT / Oct 17-2025 4:35 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=557
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 9:35 PM UK / Oct 17-2025 2:35 PM MT / Oct 17-2025 4:35 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=556
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 9:35 PM UK / Oct 17-2025 2:35 PM MT / Oct 17-2025 4:35 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=464
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 9:35 PM UK / Oct 17-2025 2:35 PM MT / Oct 17-2025 4:35 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=289
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 9:35 PM UK / Oct 17-2025 2:35 PM MT / Oct 17-2025 4:35 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=149
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 9:35 PM UK / Oct 17-2025 2:35 PM MT / Oct 17-2025 4:35 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=626
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 9:35 PM UK / Oct 17-2025 2:35 PM MT / Oct 17-2025 4:35 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=916
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 9:35 PM UK / Oct 17-2025 2:35 PM MT / Oct 17-2025 4:35 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=101
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 9:35 PM UK / Oct 17-2025 2:35 PM MT / Oct 17-2025 4:35 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=260
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 9:35 PM UK / Oct 17-2025 2:35 PM MT / Oct 17-2025 4:35 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=146
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 10:20 PM UK / Oct 17-2025 3:20 PM MT / Oct 17-2025 5:20 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=32
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 10:20 PM UK / Oct 17-2025 3:20 PM MT / Oct 17-2025 5:20 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=575
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 10:20 PM UK / Oct 17-2025 3:20 PM MT / Oct 17-2025 5:20 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=271
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 10:20 PM UK / Oct 17-2025 3:20 PM MT / Oct 17-2025 5:20 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=557
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 10:20 PM UK / Oct 17-2025 3:20 PM MT / Oct 17-2025 5:20 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=556
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 10:20 PM UK / Oct 17-2025 3:20 PM MT / Oct 17-2025 5:20 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=464
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 10:20 PM UK / Oct 17-2025 3:20 PM MT / Oct 17-2025 5:20 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=289
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 10:20 PM UK / Oct 17-2025 3:20 PM MT / Oct 17-2025 5:20 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=149
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 10:20 PM UK / Oct 17-2025 3:20 PM MT / Oct 17-2025 5:20 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=626
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 10:20 PM UK / Oct 17-2025 3:20 PM MT / Oct 17-2025 5:20 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=916
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 10:20 PM UK / Oct 17-2025 3:20 PM MT / Oct 17-2025 5:20 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=101
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 10:20 PM UK / Oct 17-2025 3:20 PM MT / Oct 17-2025 5:20 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=260
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Free Practice 2 (Oct 17-2025 10:20 PM UK / Oct 17-2025 3:20 PM MT / Oct 17-2025 5:20 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=146
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 2 (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=32
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 2 (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=575
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 2 (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=271
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 2 (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=557
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 2 (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=556
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 2 (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=445
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 2 (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=464
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 2 (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=289
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 2 (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=149
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 2 (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=626
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 2 (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=916
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 2 (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=260
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 2 (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=101
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,MotoGP : Australian Grand Prix-Practice 2 (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=146
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Qualifying (Oct 17-2025 1:45 AM UK / Oct 16-2025 6:45 PM MT / Oct 16-2025 8:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=32
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Qualifying (Oct 17-2025 1:45 AM UK / Oct 16-2025 6:45 PM MT / Oct 16-2025 8:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=575
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Qualifying (Oct 17-2025 1:45 AM UK / Oct 16-2025 6:45 PM MT / Oct 16-2025 8:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=271
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Qualifying (Oct 17-2025 1:45 AM UK / Oct 16-2025 6:45 PM MT / Oct 16-2025 8:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=557
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Qualifying (Oct 17-2025 1:45 AM UK / Oct 16-2025 6:45 PM MT / Oct 16-2025 8:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=556
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Qualifying (Oct 17-2025 1:45 AM UK / Oct 16-2025 6:45 PM MT / Oct 16-2025 8:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=464
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Qualifying (Oct 17-2025 1:45 AM UK / Oct 16-2025 6:45 PM MT / Oct 16-2025 8:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=289
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Qualifying (Oct 17-2025 1:45 AM UK / Oct 16-2025 6:45 PM MT / Oct 16-2025 8:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=149
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Qualifying (Oct 17-2025 1:45 AM UK / Oct 16-2025 6:45 PM MT / Oct 16-2025 8:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=626
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Qualifying (Oct 17-2025 1:45 AM UK / Oct 16-2025 6:45 PM MT / Oct 16-2025 8:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=916
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Qualifying (Oct 17-2025 1:45 AM UK / Oct 16-2025 6:45 PM MT / Oct 16-2025 8:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=101
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Qualifying (Oct 17-2025 1:45 AM UK / Oct 16-2025 6:45 PM MT / Oct 16-2025 8:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=260
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Qualifying (Oct 17-2025 1:45 AM UK / Oct 16-2025 6:45 PM MT / Oct 16-2025 8:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=272
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Qualifying (Oct 17-2025 1:45 AM UK / Oct 16-2025 6:45 PM MT / Oct 16-2025 8:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=472
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto3 : Australian Grand Prix-Qualifying (Oct 17-2025 1:45 AM UK / Oct 16-2025 6:45 PM MT / Oct 16-2025 8:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=146
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Qualifying (Oct 17-2025 2:40 AM UK / Oct 16-2025 7:40 PM MT / Oct 16-2025 9:40 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=32
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Qualifying (Oct 17-2025 2:40 AM UK / Oct 16-2025 7:40 PM MT / Oct 16-2025 9:40 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=575
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Qualifying (Oct 17-2025 2:40 AM UK / Oct 16-2025 7:40 PM MT / Oct 16-2025 9:40 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=271
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Qualifying (Oct 17-2025 2:40 AM UK / Oct 16-2025 7:40 PM MT / Oct 16-2025 9:40 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=557
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Qualifying (Oct 17-2025 2:40 AM UK / Oct 16-2025 7:40 PM MT / Oct 16-2025 9:40 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=556
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Qualifying (Oct 17-2025 2:40 AM UK / Oct 16-2025 7:40 PM MT / Oct 16-2025 9:40 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=464
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Qualifying (Oct 17-2025 2:40 AM UK / Oct 16-2025 7:40 PM MT / Oct 16-2025 9:40 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=289
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Qualifying (Oct 17-2025 2:40 AM UK / Oct 16-2025 7:40 PM MT / Oct 16-2025 9:40 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=149
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Qualifying (Oct 17-2025 2:40 AM UK / Oct 16-2025 7:40 PM MT / Oct 16-2025 9:40 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=626
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Qualifying (Oct 17-2025 2:40 AM UK / Oct 16-2025 7:40 PM MT / Oct 16-2025 9:40 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=916
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Qualifying (Oct 17-2025 2:40 AM UK / Oct 16-2025 7:40 PM MT / Oct 16-2025 9:40 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=101
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Qualifying (Oct 17-2025 2:40 AM UK / Oct 16-2025 7:40 PM MT / Oct 16-2025 9:40 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=260
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Qualifying (Oct 17-2025 2:40 AM UK / Oct 16-2025 7:40 PM MT / Oct 16-2025 9:40 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=272
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Qualifying (Oct 17-2025 2:40 AM UK / Oct 16-2025 7:40 PM MT / Oct 16-2025 9:40 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=472
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" ,Moto2 : Australian Grand Prix-Qualifying (Oct 17-2025 2:40 AM UK / Oct 16-2025 7:40 PM MT / Oct 16-2025 9:40 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=146
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Boxing-2.png" ,Boks: PZB Suzuki Boxing Night 37 (Oct 17-2025 6:30 PM UK / Oct 17-2025 11:30 AM MT / Oct 17-2025 1:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=128
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,Kickboxing : ONE Friday Fights 129 (Oct 17-2025 12:30 PM UK / Oct 17-2025 5:30 AM MT / Oct 17-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=425
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,Kickboxing : ONE Friday Fights 129 (Oct 17-2025 12:30 PM UK / Oct 17-2025 5:30 AM MT / Oct 17-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=127
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,Kickboxing : ONE Friday Fights 129 (Oct 17-2025 12:30 PM UK / Oct 17-2025 5:30 AM MT / Oct 17-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=395
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,Kickboxing : ONE Friday Fights 129 (Oct 17-2025 12:30 PM UK / Oct 17-2025 5:30 AM MT / Oct 17-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=123
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,Kickboxing : ONE Friday Fights 129 (Oct 17-2025 12:30 PM UK / Oct 17-2025 5:30 AM MT / Oct 17-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=635
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,Kickboxing : ONE Friday Fights 129 (Oct 17-2025 12:30 PM UK / Oct 17-2025 5:30 AM MT / Oct 17-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=120
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,Kickboxing : ONE Friday Fights 129 (Oct 17-2025 12:30 PM UK / Oct 17-2025 5:30 AM MT / Oct 17-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=61
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,Kickboxing : ONE Friday Fights 129 (Oct 17-2025 12:30 PM UK / Oct 17-2025 5:30 AM MT / Oct 17-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=91
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,Kickboxing : ONE Friday Fights 129 (Oct 17-2025 12:30 PM UK / Oct 17-2025 5:30 AM MT / Oct 17-2025 7:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=275
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,Ural Fighting Championship : Ural FC vs Ozon (Oct 17-2025 1:00 PM UK / Oct 17-2025 6:00 AM MT / Oct 17-2025 8:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=127
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" ,Ural Fighting Championship : Ural FC vs Ozon (Oct 17-2025 1:00 PM UK / Oct 17-2025 6:00 AM MT / Oct 17-2025 8:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=395
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE.png" ,WWE Friday Night SmackDown (Oct 17-2025 12:00 AM UK / Oct 16-2025 5:00 PM MT / Oct 16-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=343
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE.png" ,WWE Friday Night SmackDown (Oct 17-2025 12:00 AM UK / Oct 16-2025 5:00 PM MT / Oct 16-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=145
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LPGA Tour BMW Ladies Championship (Oct 17-2025 5:00 AM UK / Oct 16-2025 10:00 PM MT / Oct 17-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=70
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LPGA Tour BMW Ladies Championship (Oct 17-2025 5:00 AM UK / Oct 16-2025 10:00 PM MT / Oct 17-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=318
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LPGA Tour BMW Ladies Championship (Oct 17-2025 5:00 AM UK / Oct 16-2025 10:00 PM MT / Oct 17-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=528
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LPGA Tour BMW Ladies Championship (Oct 17-2025 5:00 AM UK / Oct 16-2025 10:00 PM MT / Oct 17-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=422
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LPGA Tour BMW Ladies Championship (Oct 17-2025 5:00 AM UK / Oct 16-2025 10:00 PM MT / Oct 17-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=590
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LPGA Tour BMW Ladies Championship (Oct 17-2025 5:00 AM UK / Oct 16-2025 10:00 PM MT / Oct 17-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=710
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LPGA Tour BMW Ladies Championship (Oct 17-2025 5:00 AM UK / Oct 16-2025 10:00 PM MT / Oct 17-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=785
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,LPGA Tour BMW Ladies Championship (Oct 17-2025 5:00 AM UK / Oct 16-2025 10:00 PM MT / Oct 17-2025 12:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=901
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour DP World India Championship (Oct 17-2025 6:30 AM UK / Oct 16-2025 11:30 PM MT / Oct 17-2025 1:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=70
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour DP World India Championship (Oct 17-2025 6:30 AM UK / Oct 16-2025 11:30 PM MT / Oct 17-2025 1:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=318
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour DP World India Championship (Oct 17-2025 6:30 AM UK / Oct 16-2025 11:30 PM MT / Oct 17-2025 1:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=528
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour DP World India Championship (Oct 17-2025 6:30 AM UK / Oct 16-2025 11:30 PM MT / Oct 17-2025 1:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=422
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour DP World India Championship (Oct 17-2025 6:30 AM UK / Oct 16-2025 11:30 PM MT / Oct 17-2025 1:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=592
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour DP World India Championship (Oct 17-2025 6:30 AM UK / Oct 16-2025 11:30 PM MT / Oct 17-2025 1:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=710
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour DP World India Championship (Oct 17-2025 6:30 AM UK / Oct 16-2025 11:30 PM MT / Oct 17-2025 1:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=785
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,DP World Tour DP World India Championship (Oct 17-2025 6:30 AM UK / Oct 16-2025 11:30 PM MT / Oct 17-2025 1:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=901
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,Dominion Energy Charity Classic-First Round (Oct 17-2025 6:00 PM UK / Oct 17-2025 11:00 AM MT / Oct 17-2025 1:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=318
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" ,Dominion Energy Charity Classic-First Round (Oct 17-2025 6:00 PM UK / Oct 17-2025 11:00 AM MT / Oct 17-2025 1:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=592
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" ,Judo: Guadalajara Grand Prix Guadalajara Grand Prix. Day 1 (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=395
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" ,Judo: Guadalajara Grand Prix Guadalajara Grand Prix. Day 1 (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=119
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" ,Judo: Guadalajara Grand Prix Guadalajara Grand Prix. Day 1 (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=454
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" ,Judo: Guadalajara Grand Prix Guadalajara Grand Prix. Day 1 (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=144
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,CFL : Winnipeg Blue Bombers vs Saskatchewan Roughriders (Oct 17-2025 12:00 AM UK / Oct 16-2025 5:00 PM MT / Oct 16-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=115
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,CFL : Winnipeg Blue Bombers vs Saskatchewan Roughriders (Oct 17-2025 12:00 AM UK / Oct 16-2025 5:00 PM MT / Oct 16-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=113
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,CFL : Winnipeg Blue Bombers vs Saskatchewan Roughriders (Oct 17-2025 12:00 AM UK / Oct 16-2025 5:00 PM MT / Oct 16-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=111
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,CFL : BC Lions vs Edmonton Eskimos (Oct 17-2025 2:30 AM UK / Oct 16-2025 7:30 PM MT / Oct 16-2025 9:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=113
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,CFL : BC Lions vs Edmonton Eskimos (Oct 17-2025 2:30 AM UK / Oct 16-2025 7:30 PM MT / Oct 16-2025 9:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=114
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,CFL : BC Lions vs Edmonton Eskimos (Oct 17-2025 2:30 AM UK / Oct 16-2025 7:30 PM MT / Oct 16-2025 9:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=111
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,CFL : BC Lions vs Edmonton Eskimos (Oct 17-2025 2:30 AM UK / Oct 16-2025 7:30 PM MT / Oct 16-2025 9:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=115
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Louisville vs 2 Miami (FL) (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=45
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Louisville vs 2 Miami (FL) (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=112
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Louisville vs 2 Miami (FL) (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=44
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Louisville vs 2 Miami (FL) (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=375
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Nebraska vs Minnesota (Oct 17-2025 12:00 AM UK / Oct 16-2025 5:00 PM MT / Oct 16-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=54
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : Nebraska vs Minnesota (Oct 17-2025 12:00 AM UK / Oct 16-2025 5:00 PM MT / Oct 16-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=768
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,High School Football : St. Rita vs St. Patrick (Oct 17-2025 12:30 AM UK / Oct 16-2025 5:30 PM MT / Oct 16-2025 7:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=770
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : San Jose State vs Utah State (Oct 17-2025 1:00 AM UK / Oct 16-2025 6:00 PM MT / Oct 16-2025 8:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=308
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : North Carolina vs California (Oct 17-2025 2:30 AM UK / Oct 16-2025 7:30 PM MT / Oct 16-2025 9:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=44
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : North Carolina vs California (Oct 17-2025 2:30 AM UK / Oct 16-2025 7:30 PM MT / Oct 16-2025 9:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=112
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Am-Football.png" ,NCAAF : North Carolina vs California (Oct 17-2025 2:30 AM UK / Oct 16-2025 7:30 PM MT / Oct 16-2025 9:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=103
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Port Adelaide W vs Hawthorn Hawks W (Oct 17-2025 8:00 AM UK / Oct 17-2025 1:00 AM MT / Oct 17-2025 3:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=758
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Port Adelaide W vs Hawthorn Hawks W (Oct 17-2025 8:00 AM UK / Oct 17-2025 1:00 AM MT / Oct 17-2025 3:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=112
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Port Adelaide W vs Hawthorn Hawks W (Oct 17-2025 8:00 AM UK / Oct 17-2025 1:00 AM MT / Oct 17-2025 3:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=593
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : West Coast Eagles W vs Geelong Cats W (Oct 17-2025 10:15 AM UK / Oct 17-2025 3:15 AM MT / Oct 17-2025 5:15 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=758
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : West Coast Eagles W vs Geelong Cats W (Oct 17-2025 10:15 AM UK / Oct 17-2025 3:15 AM MT / Oct 17-2025 5:15 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=112
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : West Coast Eagles W vs Geelong Cats W (Oct 17-2025 10:15 AM UK / Oct 17-2025 3:15 AM MT / Oct 17-2025 5:15 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=33
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Melbourne Demons W vs Sydney Swans W (Oct 17-2025 2:00 AM UK / Oct 16-2025 7:00 PM MT / Oct 16-2025 9:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=758
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Melbourne Demons W vs Sydney Swans W (Oct 17-2025 2:00 AM UK / Oct 16-2025 7:00 PM MT / Oct 16-2025 9:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=34
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" ,AFL Women : Melbourne Demons W vs Sydney Swans W (Oct 17-2025 2:00 AM UK / Oct 16-2025 7:00 PM MT / Oct 16-2025 9:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=594
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Toronto Blue Jays vs Seattle Mariners (Oct 17-2025 10:08 PM UK / Oct 17-2025 3:08 PM MT / Oct 17-2025 5:08 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=39
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Toronto Blue Jays vs Seattle Mariners (Oct 17-2025 10:08 PM UK / Oct 17-2025 3:08 PM MT / Oct 17-2025 5:08 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=643
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Toronto Blue Jays vs Seattle Mariners (Oct 17-2025 10:08 PM UK / Oct 17-2025 3:08 PM MT / Oct 17-2025 5:08 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=408
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Toronto Blue Jays vs Seattle Mariners (Oct 17-2025 10:08 PM UK / Oct 17-2025 3:08 PM MT / Oct 17-2025 5:08 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=406
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Toronto Blue Jays vs Seattle Mariners (Oct 17-2025 10:08 PM UK / Oct 17-2025 3:08 PM MT / Oct 17-2025 5:08 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=407
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Toronto Blue Jays vs Seattle Mariners (Oct 17-2025 10:08 PM UK / Oct 17-2025 3:08 PM MT / Oct 17-2025 5:08 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=495
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Milwaukee Brewers vs Los Angeles Dodgers (Oct 17-2025 12:38 AM UK / Oct 16-2025 5:38 PM MT / Oct 16-2025 7:38 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=31
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Milwaukee Brewers vs Los Angeles Dodgers (Oct 17-2025 12:38 AM UK / Oct 16-2025 5:38 PM MT / Oct 16-2025 7:38 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=341
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Milwaukee Brewers vs Los Angeles Dodgers (Oct 17-2025 12:38 AM UK / Oct 16-2025 5:38 PM MT / Oct 16-2025 7:38 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=336
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Milwaukee Brewers vs Los Angeles Dodgers (Oct 17-2025 12:38 AM UK / Oct 16-2025 5:38 PM MT / Oct 16-2025 7:38 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=133
+#EXTINF:-1 tvg-id="Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball-2.png" ,MLB : Milwaukee Brewers vs Los Angeles Dodgers (Oct 17-2025 12:38 AM UK / Oct 16-2025 5:38 PM MT / Oct 16-2025 7:38 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=409
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Women's Rapid League : Queens vs Kahu (Oct 17-2025 5:30 AM UK / Oct 16-2025 10:30 PM MT / Oct 17-2025 12:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=591
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBL : New Zealand Breakers vs Tasmania JackJumpers (Oct 17-2025 6:30 AM UK / Oct 16-2025 11:30 PM MT / Oct 17-2025 1:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=404
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Super League : Ironi Ness Ziona vs. Hapoel Beer Sheva (Oct 17-2025 10:45 AM UK / Oct 17-2025 3:45 AM MT / Oct 17-2025 5:45 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=103
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Super League : Ironi Ness Ziona vs. Hapoel Beer Sheva (Oct 17-2025 10:45 AM UK / Oct 17-2025 3:45 AM MT / Oct 17-2025 5:45 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=145
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,KLS W : Zkk Mega Basket Belgrade vs. Ras Beograd (Oct 17-2025 3:00 PM UK / Oct 17-2025 8:00 AM MT / Oct 17-2025 10:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=430
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,SÃ¼per Ligi : Buyukcekmece Basketbol vs. Bahcesehir Koleji (Oct 17-2025 4:00 PM UK / Oct 17-2025 9:00 AM MT / Oct 17-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=431
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,KLS : KK Borac Zemun vs. Kk Hercegovac (Oct 17-2025 4:00 PM UK / Oct 17-2025 9:00 AM MT / Oct 17-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=581
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,ABA League : KK Bosna Royal Sarajevo vs. KK Buducnost Voli (Oct 17-2025 4:30 PM UK / Oct 17-2025 9:30 AM MT / Oct 17-2025 11:30 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=432
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : K Crvena zvezda Belgrade vs. Real Madrid (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=770
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : K Crvena zvezda Belgrade vs. Real Madrid (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=899
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : K Crvena zvezda Belgrade vs. Real Madrid (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=900
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : K Crvena zvezda Belgrade vs. Real Madrid (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=902
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : K Crvena zvezda Belgrade vs. Real Madrid (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=894
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : K Crvena zvezda Belgrade vs. Real Madrid (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=891
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : K Crvena zvezda Belgrade vs. Real Madrid (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=896
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : K Crvena zvezda Belgrade vs. Real Madrid (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=905
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : K Crvena zvezda Belgrade vs. Real Madrid (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=436
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : K Crvena zvezda Belgrade vs. Real Madrid (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=291
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : K Crvena zvezda Belgrade vs. Real Madrid (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=134
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : K Crvena zvezda Belgrade vs. Real Madrid (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=635
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : K Crvena zvezda Belgrade vs. Real Madrid (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=473
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : K Crvena zvezda Belgrade vs. Real Madrid (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=453
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : K Crvena zvezda Belgrade vs. Real Madrid (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=148
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : K Crvena zvezda Belgrade vs. Real Madrid (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=146
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Anadolu Efes SK vs. Panathinaikos BC (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=527
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Anadolu Efes SK vs. Panathinaikos BC (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=429
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Anadolu Efes SK vs. Panathinaikos BC (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=474
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Anadolu Efes SK vs. Panathinaikos BC (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=638
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : AS Monaco vs. Valencia Basket (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=526
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : AS Monaco vs. Valencia Basket (Oct 17-2025 5:30 PM UK / Oct 17-2025 10:30 AM MT / Oct 17-2025 12:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=430
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : ASVEL Lyon Villeurbanne vs. Virtus Bologna (Oct 17-2025 6:00 PM UK / Oct 17-2025 11:00 AM MT / Oct 17-2025 1:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=431
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Polish Basketball League : Basket Zielona Gora vs. Arka Gdynia (Oct 17-2025 6:05 PM UK / Oct 17-2025 11:05 AM MT / Oct 17-2025 1:05 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=47
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Croatia-Premijer Liga : KK Furnir Dubrava vs. KK Zabok (Oct 17-2025 6:15 PM UK / Oct 17-2025 11:15 AM MT / Oct 17-2025 1:15 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=779
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,ABA League : BC Vienna vs. KK Mega Basket Belgrade (Oct 17-2025 6:30 PM UK / Oct 17-2025 11:30 AM MT / Oct 17-2025 1:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=581
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Baskonia Vitoria-Gasteiz vs. KK Partizan Nis Belgrade (Oct 17-2025 6:45 PM UK / Oct 17-2025 11:45 AM MT / Oct 17-2025 1:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=438
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Baskonia Vitoria-Gasteiz vs. KK Partizan Nis Belgrade (Oct 17-2025 6:45 PM UK / Oct 17-2025 11:45 AM MT / Oct 17-2025 1:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=134
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Baskonia Vitoria-Gasteiz vs. KK Partizan Nis Belgrade (Oct 17-2025 6:45 PM UK / Oct 17-2025 11:45 AM MT / Oct 17-2025 1:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=135
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Baskonia Vitoria-Gasteiz vs. KK Partizan Nis Belgrade (Oct 17-2025 6:45 PM UK / Oct 17-2025 11:45 AM MT / Oct 17-2025 1:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=473
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Baskonia Vitoria-Gasteiz vs. KK Partizan Nis Belgrade (Oct 17-2025 6:45 PM UK / Oct 17-2025 11:45 AM MT / Oct 17-2025 1:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=102
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Baskonia Vitoria-Gasteiz vs. KK Partizan Nis Belgrade (Oct 17-2025 6:45 PM UK / Oct 17-2025 11:45 AM MT / Oct 17-2025 1:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=147
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Paris Basketball vs. Hapoel Tel-Aviv (Oct 17-2025 6:45 PM UK / Oct 17-2025 11:45 AM MT / Oct 17-2025 1:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=103
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Euroleague : Paris Basketball vs. Hapoel Tel-Aviv (Oct 17-2025 6:45 PM UK / Oct 17-2025 11:45 AM MT / Oct 17-2025 1:45 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=144
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,Women's Rapid League : Pouakai vs Whai (Oct 17-2025 1:00 AM UK / Oct 16-2025 6:00 PM MT / Oct 16-2025 8:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=590
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Philadelphia 76ers vs Minnesota Timberwolves (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=777
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Toronto Raptors vs Brooklyn Nets (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=114
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Toronto Raptors vs Brooklyn Nets (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=763
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : New York Knicks vs Charlotte Hornets (Oct 17-2025 11:30 PM UK / Oct 17-2025 4:30 PM MT / Oct 17-2025 6:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=765
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Miami Heat vs Memphis Grizzlies (Oct 17-2025 12:00 AM UK / Oct 16-2025 5:00 PM MT / Oct 16-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=905
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Oklahoma City Thunder vs Denver Nuggets (Oct 17-2025 12:00 AM UK / Oct 16-2025 5:00 PM MT / Oct 16-2025 7:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=404
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Golden State Warriors vs Los Angeles Clippers (Oct 17-2025 2:00 AM UK / Oct 16-2025 7:00 PM MT / Oct 16-2025 9:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=753
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" ,NBA : Los Angeles Lakers vs Sacramento Kings (Oct 17-2025 2:30 AM UK / Oct 16-2025 7:30 PM MT / Oct 16-2025 9:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=404
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,Women's College Hockey : Northeastern vs Quinnipiac (Oct 17-2025 7:00 PM UK / Oct 17-2025 12:00 PM MT / Oct 17-2025 2:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=762
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,USA College : Boston University vs Michigan State Spartans (Oct 17-2025 10:30 PM UK / Oct 17-2025 3:30 PM MT / Oct 17-2025 5:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=115
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,USA College : Boston University vs Michigan State Spartans (Oct 17-2025 10:30 PM UK / Oct 17-2025 3:30 PM MT / Oct 17-2025 5:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=45
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,College Hockey : Boston College vs RPI (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=759
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,College Hockey: Maine vs Quinnipiac (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=762
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,KHL : Nizhny Novgorod vs CSKA Moscow (Oct 17-2025 4:00 PM UK / Oct 17-2025 9:00 AM MT / Oct 17-2025 11:00 AM EST)
+https://daddylive-new.vercel.app/api/stream?id=127
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,HockeyAllsvenskan : Vasteras vs AIK (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=703
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,HockeyAllsvenskan : Sodertalje vs Almtuna (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=704
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,HockeyAllsvenskan : Nybro Vikings IF vs. Kalmar HC (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=707
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,HockeyAllsvenskan : Mora vs Troja/Ljungby (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=706
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,HockeyAllsvenskan : IF Bjorkloven vs Modo (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=700
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,HockeyAllsvenskan : BIK Karlskoga vs Oskarshamn (Oct 17-2025 5:00 PM UK / Oct 17-2025 10:00 AM MT / Oct 17-2025 12:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=705
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Tampa Bay Lightning vs Detroit Red Wings (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=833
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Tampa Bay Lightning vs Detroit Red Wings (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=809
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Minnesota Wild vs Washington Capitals (Oct 17-2025 11:00 PM UK / Oct 17-2025 4:00 PM MT / Oct 17-2025 6:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=778
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Vancouver Canucks vs Chicago Blackhawks (Oct 17-2025 12:30 AM UK / Oct 16-2025 5:30 PM MT / Oct 16-2025 7:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=833
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : Vancouver Canucks vs Chicago Blackhawks (Oct 17-2025 12:30 AM UK / Oct 16-2025 5:30 PM MT / Oct 16-2025 7:30 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=411
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : San Jose Sharks vs Utah Mammoth (Oct 17-2025 1:00 AM UK / Oct 16-2025 6:00 PM MT / Oct 16-2025 8:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=451
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : San Jose Sharks vs Utah Mammoth (Oct 17-2025 1:00 AM UK / Oct 16-2025 6:00 PM MT / Oct 16-2025 8:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=473
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" ,NHL : San Jose Sharks vs Utah Mammoth (Oct 17-2025 1:00 AM UK / Oct 16-2025 6:00 PM MT / Oct 16-2025 8:00 PM EST)
+https://daddylive-new.vercel.app/api/stream?id=145
 
