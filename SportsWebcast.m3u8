@@ -1,9 +1,59 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Steelers @ Bengals" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast 🏈 - Live Games",Steelers @ Bengals
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Colts @ Chargers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast 🏈 - Live Games",Colts @ Chargers
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
-https://live.webcastserver.online/newz/newz/52.m3u8
+https://live.webcastserver.online/newz/newz/58.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Commanders @ Cowboys" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast 🏈 - Live Games",Commanders @ Cowboys
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://live.webcastserver.online/newz/newz/61.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Dolphins @ Browns" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast 🏈 - Live Games",Dolphins @ Browns
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://live.webcastserver.online/newz/newz/55.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Falcons @ 49Ers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast 🏈 - Live Games",Falcons @ 49Ers
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://live.webcastserver.online/newz/newz/176.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Giants @ Broncos" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast 🏈 - Live Games",Giants @ Broncos
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://embed.frpanels.top/hd100/hd100/50.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Packers @ Cardinals" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast 🏈 - Live Games",Packers @ Cardinals
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://live.webcastserver.online/newz/newz/57.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Panthers @ Jets" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast 🏈 - Live Games",Panthers @ Jets
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://embed.frpanels.top/hd100/hd100/50.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Patriots @ Titans" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast 🏈 - Live Games",Patriots @ Titans
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://live.webcastserver.online/newz/newz/78.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Raiders @ Chiefs" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast 🏈 - Live Games",Raiders @ Chiefs
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://live.webcastserver.online/newz/newz/59.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Rams @ Jaguars" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast 🏈 - Live Games",Rams @ Jaguars
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://live.webcastserver.online/newz/newz/66.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Saints @ Bears" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast 🏈 - Live Games",Saints @ Bears
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://live.webcastserver.online/newz/newz/51.m3u8
 #EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-hz-us.png?raw=true" group-title="NFLWebcast 🏈 - 24/7 Channels",NFL Network
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
