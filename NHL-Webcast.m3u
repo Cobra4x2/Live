@@ -1,0 +1,18 @@
+#EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged3_epg.xml.gz"
+# Last forced update: 2025-10-17T22:01:49.360696Z
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="NHL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",Canucks - Blackhawks October 18, 2025 (AWAY)
+https://live.webcastserver.online/newz/newz/88.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://nhlwebcast.com/|Origin=https://nhlwebcast.com
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="NHL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",Canucks - Blackhawks October 18, 2025 (HOME)
+https://live.webcastserver.online/newz/newz/85.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://nhlwebcast.com/|Origin=https://nhlwebcast.com
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="NHL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",Lightning - Wings October 18, 2025 (AWAY)
+https://live.webcastserver.online/newz/newz/171.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://nhlwebcast.com/|Origin=https://nhlwebcast.com
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="NHL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",Lightning - Wings October 18, 2025 (HOME)
+https://live.webcastserver.online/newz/newz/178.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://nhlwebcast.com/|Origin=https://nhlwebcast.com
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="NHL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",Sharks - Utah October 18, 2025 (AWAY)
+https://live.webcastserver.online/newz/newz/103.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://nhlwebcast.com/|Origin=https://nhlwebcast.com
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="NHL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",Sharks - Utah October 18, 2025 (HOME)
+https://live.webcastserver.online/newz/newz/89.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://nhlwebcast.com/|Origin=https://nhlwebcast.com
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="NHL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",Wild - Capitals October 18, 2025 (AWAY)
+https://live.webcastserver.online/newz/newz/105.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://nhlwebcast.com/|Origin=https://nhlwebcast.com
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="NHL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",Wild - Capitals October 18, 2025 (HOME)
+https://live.webcastserver.online/newz/newz/169.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36|Referer=https://nhlwebcast.com/|Origin=https://nhlwebcast.com
